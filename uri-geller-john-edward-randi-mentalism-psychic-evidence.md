@@ -204,10 +204,7 @@ Beyond John Edward, these mediums have participated in controlled scientific stu
 
 **Important Distinction: Scientifically Tested vs. TV Psychics**
 
-It's worth noting that not all television psychics have submitted to scientific testing:
-
-* **Theresa Caputo** (Long Island Medium) - Has never participated in controlled studies. In 2012, she received a **Pigasus Award** from the James Randi Educational Foundation for "performance." Investigations reveal she uses pre-show research and social media to gather information about audience members. [41]
-* **Chip Coffey** - Also received a **Pigasus Award** (2009) for "the psychic who tricked the most people with the least effort." Skeptics planted fictitious dead family members with his staff, and he claimed to communicate with them successfully. [42]
+See: **[TV Psychics Investigated: Pigasus Awards](./tv-psychics-investigated-pigasus-caputo-coffey.md)**
 
 The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo and Coffey have refused scientific scrutiny.
 
