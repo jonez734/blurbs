@@ -1,4 +1,4 @@
-# TV Psychics Investigated: Skeptics and the Pigasus Awards
+# Investigated Psychics: Pigasus Awards and Fraud Claims
 
 While some mediums like John Edward have submitted to scientific testing, others have faced serious allegations of fraud. The James Randi Educational Foundation's Pigasus Awards have highlighted several prominent television psychics who have been accused of deception.
 
@@ -120,6 +120,35 @@ Key elements of cold reading:
 
 ---
 
+## Current Projects: Where Are They Now?
+
+Despite their controversies (or in John Edward's case, despite his scientific testing), all three psychics remain active in 2024-2025:
+
+### John Edward
+
+* **Evolve Plus TV**: Subscription-based online platform with daily content, live readings, tarot, astrology, numerology, meditations [4]
+* **"Evolve with John Edward"**: Now in its 15th season on the platform [4]
+* **Live tours**: Currently touring in 2026 (Detroit, Chicago, Madison, Green Bay) [4]
+* **Book**: "Chasing Evil" (2025) - co-authored with FBI agent Robert Hilland [4]
+
+*See also: [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence.md)*
+
+### Theresa Caputo
+
+* **"Raising Spirits"**: Lifetime, premiered January 2024 (30 episodes, Season 1) [5]
+* **"Beyond the Readings"**: Companion series, premiered April 2024 [5]
+* **Live tours**: "Theresa Caputo Live! The Experience" - sold-out shows in London [5]
+* Multiple specials throughout 2024 [5]
+
+### Chip Coffey
+
+* **"Kindred Spirits"**: Travel Channel, joined Season 4 in 2020, still active [6]
+* **"Pajama Party with Chip Coffey"**: New web series coming soon to Vidi.Space [6]
+* **Online readings**: "Chip Chat Online Gallery Reading" events via Zoom (Winter 2025) [6]
+* Animal rescue advocacy [6]
+
+---
+
 ## Conclusion
 
 The difference between scientifically tested psychics like John Edward and those who refuse testing (like Caputo and Coffey) is significant. While Edward has participated in decades of controlled studies producing remarkable results, Caputo and Coffey have either refused testing or been caught using deceptive techniques.
@@ -137,3 +166,7 @@ The Pigasus Awards served an important function in highlighting these discrepanc
 [3] [Wikipedia - Chip Coffey](https://en.wikipedia.org/wiki/Chip_Coffey)
 
 [4] [Wikipedia - John Edward](https://en.wikipedia.org/wiki/John_Edward)
+
+[5] [Lifetime - Theresa Caputo: Raising Spirits](https://www.mylifetime.com/shows/theresa-caputo-raising-spirits)
+
+[6] [Chip Coffey Official Website](http://www.chipcoffey.com/about-chip.html)
