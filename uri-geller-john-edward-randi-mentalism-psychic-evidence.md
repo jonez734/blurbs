@@ -24,6 +24,10 @@ See: **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth
 
 See: **[Scientific Studies on Psychic Phenomena](./scientific-studies-psychic-phenomena-overview.md)**
 
+## Key Figure: Joseph McMoneagle
+
+See: **[Joseph McMoneagle: Remote Viewer No. 1](./joseph-mcmoneagle-remote-viewer-stargate.md)**
+
 ---
 
 ## Biblical Psychics and Mediums: The Forbidden Arts
@@ -208,9 +212,9 @@ Beyond John Edward, these mediums have participated in controlled scientific stu
 * **Laurie Campbell** - Longtime research medium, Windbridge certified
 * Various **Windbridge Certified Research Mediums (WCRMs)** - Ongoing studies
 
-**Important Distinction: Scientifically Tested vs. TV Psychics**
+**Important Distinction: Scientifically Tested vs. Untested Psychics**
 
-See: **[TV Psychics Investigated: Pigasus Awards](./tv-psychics-investigated-pigasus-caputo-coffey.md)**
+See: **[Investigated Psychics and Fraud](./investigated-psychics-fraud-pigasus.md)**
 
 The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo and Coffey have refused scientific scrutiny.
 
