@@ -52,7 +52,9 @@ The exposure on The Tonight Show might have ended Geller's television career, bu
 
 ### The Stanford Research Institute Experiments
 
-Geller was brought to the Stanford Research Institute (SRI) in California for a week of intensive testing in August 1973. Scientists Harold Puthoff and Russell Targ—physicists with backgrounds at the National Security Agency—conducted experiments designed to determine if Geller possessed genuine psychic abilities. [11, 12]
+Geller was brought to the **Stanford Research Institute (SRI)** in California for a week of intensive testing in August 1973. Scientists Harold Puthoff and Russell Targ—physicists with backgrounds at the National Security Agency—conducted experiments designed to determine if Geller possessed genuine psychic abilities. [11, 12]
+
+**About SRI International:** Founded in 1946 as Stanford Research Institute, SRI is a nonprofit research and development organization headquartered in Menlo Park, California. [49] Over its history, SRI has conducted over 50,000 individual projects for clients ranging from government agencies to commercial enterprises. [49] The institute's funding has been approximately 60% government and 40% commercial/international. [50] SRI's government clients have included the Department of Defense, CIA, NSA, Department of the Interior, and various other federal agencies, with over $4.7 billion in federal contracts historically. [51] The organization is known for pioneering work in many fields including early computing (SRI helped develop the computer mouse and interactive computing), laser surgery, and other advanced technologies. [49]
 
 The experiments were unlike anything Geller had experienced before: [11, 12]
 
@@ -425,3 +427,9 @@ The question is no longer whether such phenomena deserve study, but what our und
 [47] [Wikipedia - Joseph McMoneagle](https://en.wikipedia.org/wiki/Joseph_McMoneagle)
 
 [48] [Psi Encyclopedia - Joe McMoneagle](https://psi-encyclopedia.spr.ac.uk/articles/joe-mcmoneagle/)
+
+[49] [SRI International - A Heritage of Innovation](https://www.sri.com/publication/a-heritage-of-innovation-sris-first-half-century/)
+
+[50] [SRI International - Business Model PDF](https://www.sri.com/wp-content/uploads/2022/08/Appendix-D.pdf)
+
+[51] [Sweetspot - SRI International Federal Contracts](https://www.sweetspot.so/markets/federal/contractors/sri-international-srg2j1ws9x63/)
