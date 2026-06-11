@@ -1,87 +1,16 @@
 # The Fight Against the Psychic: Randi, Geller, Edward, and the Evidence for Survival
 
-The rivalry between [James Randi](https://www.google.com/search?q=james+randi&kgmid=/m/044st) and [Uri Geller](https://www.google.com/search?q=uri+geller&kgmid=/m/01bp02) is the most famous example of professional "sabotage" in magic history, primarily because it blurred the lines between a performance feud and a crusade for scientific truth. But as this decades-long battle unfolded, it inadvertently opened the door to serious scientific investigation into psychic phenomena—research that continues today and has produced remarkable evidence for the survival of consciousness after death. [1, 2, 3]
+This blurb provides an overview of the battle between skeptics and psychics, covering the famous rivalry between James Randi and Uri Geller, the scientific evidence for mediumship from John Edward, and the broader cultural context of psychic phenomena in media.
 
 ---
 
-## The "Tonight Show" Incident (1973)
+## Detailed Coverage
 
-The most impactful instance of sabotage occurred when Geller was booked on The Tonight Show Starring Johnny Carson. Carson, an amateur magician himself, was skeptical of Geller's claims of psychic powers. [4, 5]
+For in-depth coverage of specific topics, see:
 
-* The Setup: Before the show, Carson consulted with Randi to ensure Geller could not use his own props or "pre-bend" materials. [6, 7]
-* The Sabotage: Randi instructed the show's prop masters to provide their own spoons and sealed containers, ensuring Geller had zero access to them beforehand. [8, 9]
-* The Result: On live television, Geller was unable to perform a single feat, appearing flustered and claiming he didn't "feel strong". Paradoxically, this failure made him more famous, as many viewers believed his inability to perform under pressure proved he wasn't using "easy" magic tricks. [4, 5, 6, 10]
-
----
-
-## Randi's Methods: How He "Exposed" Geller
-
-James Randi dedicated much of his career to exposing what he called the "sleight of mind" techniques used by psychics. His methods against Geller included:
-
-### Pre-Bending Technique Revealed
-
-Randi revealed that Geller's famous spoon-bending depended on **pre-working the metals** before performances. The technique: [32, 33]
-
-1. Geller would secretly bend the spoon or key beforehand, concealing the bent portion in his palm
-2. During the "performance," he would display the spoon with the bowl facing outward—appearing straight
-3. While rubbing and talking, he would slowly extrude the pre-bent portion, creating the illusion of bending in real-time
-4. Silver was ideal because it bends easily by hand
-
-### Randi's Live Demonstrations
-
-In 1988, Randi performed live on television demonstrating exactly how Geller's tricks worked: [10]
-
-* **The "Ratcheting" Technique**: Demonstrated how a key can be bent incrementally by pressing it against surfaces (table edges, chair seats) while seemingly engaged in conversation
-* **Hidden Preparation**: Showed how metals could be pre-worked and concealed
-* **Audience Manipulation**: Explained how magicians use misdirection, rapid-fire suggestions, and the audience's desire to believe
-
-### The Tonight Show Sabotage Explained
-
-Randi's coaching to Johnny Carson involved:
-
-* Using sealed containers for all props
-* Providing fresh, unhandled spoons from the show's own stock
-* Ensuring Geller had no opportunity to "prepare" materials beforehand
-* This controlled environment prevented Geller from using techniques he had refined over years of stage performances
-
----
-
-## Uri Geller and the Stargate Project
-
-The exposure on The Tonight Show might have ended Geller's television career, but it actually marked the beginning of his involvement with U.S. intelligence agencies. In 1973, shortly after the Carson incident, Geller was recruited for a top-secret government research program. [11, 12, 14]
-
-### The Stanford Research Institute Experiments
-
-Geller was brought to the **Stanford Research Institute (SRI)** in California for a week of intensive testing in August 1973. Scientists Harold Puthoff and Russell Targ—physicists with backgrounds at the National Security Agency—conducted experiments designed to determine if Geller possessed genuine psychic abilities. [11, 12]
-
-**About SRI International:** Founded in 1946 as Stanford Research Institute, SRI is a nonprofit research and development organization headquartered in Menlo Park, California. [49] Over its history, SRI has conducted over 50,000 individual projects for clients ranging from government agencies to commercial enterprises. [49] The institute's funding has been approximately 60% government and 40% commercial/international. [50] SRI's government clients have included the Department of Defense, CIA, NSA, Department of the Interior, and various other federal agencies, with over $4.7 billion in federal contracts historically. [51] The organization is known for pioneering work in many fields including early computing (SRI helped develop the computer mouse and interactive computing), laser surgery, and other advanced technologies. [49]
-
-### Unclassified SRI Psychic Research (1972-present)
-
-While Geller's 1973 testing was classified, SRI's broader psychic research program produced unclassified work:
-
-**Remote Viewing Experiments (1972-1985)**
-
-Beginning in 1972, physicists Harold Puthoff, Edwin May, and Russell Targ initiated remote viewing experiments at SRI. Participants were asked to describe mental images of distant persons or events. [52] Key findings:
-
-* Results statistically significant at **4 standard deviations** from chance expectation, with effect sizes >0.6 [52]
-* Accuracy independent of distance up to **10,000 km** [52]
-* Accuracy independent of time—successful for events **several days into the future** (precognition) [52]
-* Remote viewing is "nonanalytic"—describing distant shapes/locations easier than guessing numbers [52]
-
-**Meta-Analysis (1973-1988)**
-
-A comprehensive declassified review of SRI data (117 documents, 5,025 pages, 25,449 trials) concluded:
-
-* Odds results not due to chance: **2 × 10²⁰ to 1** [53]
-* "Convincing, if not conclusive, evidence for the existence of psychoenergetic functioning" [53]
-* ~1% of population has natural remote viewing ability [53]
-* Training does not improve ability—no evidence supports training hypothesis [53]
-* Electromagnetic shielding does not block remote viewing [53]
-
-**Publications**
-
-The first unclassified paper was published in the **IEEE Proceedings (March 1976)**. [54] Additional research appeared in the **Journal of Scientific Exploration** and other peer-reviewed journals. [52] Many CIA documents have since been declassified and are publicly available. [55]
+- **[Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md)** - The Tonight Show sabotage, spoon-bending exposure, Stargate Project, SRI research, legal battles
+- **[John Edward: Scientific Evidence for Mediumship](./john-edward-mediumship-scientific-evidence.md)** - Career, HBO experiments (83% accuracy), triple-blind studies, FBI collaboration, critics
+- **[Biblical Prophets and Mediums](./biblical-prophets-mediumship-prophecy.md)** - The Witch of Endor, prophets vs. mediums in scripture
 
 ---
 
@@ -577,4 +506,8 @@ The question is no longer whether such phenomena deserve study, but what our und
 
 ---
 
-*See also: [Biblical Prophets and the Distinction from Mediums](./biblical-prophets-mediumship-prophecy.md)*
+## Related Blurbs
+
+- [Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md) - The rivalry, Tonight Show, Stargate Project
+- [John Edward: Scientific Evidence for Mediumship](./john-edward-mediumship-scientific-evidence.md) - Research studies, FBI cases, critics
+- [Biblical Prophets and the Distinction from Mediums](./biblical-prophets-mediumship-prophecy.md) - Prophets vs. mediums in scripture
