@@ -84,6 +84,8 @@ Key findings from the declassified research:
 * The AIR report in 1995 was mixed—statistician Jessica Utts found "statistically significant" effects, while psychologist Ray Hyman remained skeptical [16, 17]
 * The CIA concluded the program had not provided operationally useful intelligence [17]
 
+**Note on the Name:** In January 2025, a completely unrelated $500 billion AI infrastructure project called "The Stargate Project" was announced by OpenAI, Oracle, and SoftBank. This new Stargate has no connection to the psychic remote viewing program—it merely shares the name.
+
 ---
 
 ## John Edward: Scientific Evidence for Mediumship
@@ -413,3 +415,7 @@ The question is no longer whether such phenomena deserve study, but what our und
 [43] [Wikipedia - James Randi](https://en.wikipedia.org/wiki/James_Randi)
 
 [44] [James Randi Educational Foundation - Pigasus Awards](https://web.archive.org/web/20121116142813/https://www.randi.org/site/index.php?option=com_content&task=view&id=314&Itemid=48)
+
+[45] [BBC - Tech giants announce AI plan worth up to $500bn 'Stargate'](https://www.bbc.com/news/articles/cy4m84d2xz2o)
+
+[46] [OpenAI - Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
