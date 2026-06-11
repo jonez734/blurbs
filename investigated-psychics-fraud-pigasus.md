@@ -149,6 +149,57 @@ Despite their controversies (or in John Edward's case, despite his scientific te
 
 ---
 
+## Recent Psychic Fraud Cases (2024-2025)
+
+Despite the legitimate work of some psychic practitioners, fraud remains a serious problem in the industry. Several high-profile cases have emerged in recent years:
+
+### Jenkintown, Pennsylvania (2025)
+
+**Gina Marks & Steve Nicklas** were charged with stealing over $600,000 from two clients through their business "Jenkins Psychic Visions." [7]
+
+* They convinced victims they had "powerful curses" requiring expensive rituals to remove
+* One victim paid nearly $595,000 in cash and app transactions
+* Gina Marks has prior fraud convictions in Florida and Maryland (stole over $400,000 and $340,000)
+- They were charged under Pennsylvania's 1861 fortune telling law [7]
+
+### Chicago, Illinois (2025)
+
+**Jennifer Williams** pleaded guilty to operating a "curse removal" scheme. [8]
+
+* Stole $72,000 from a customer
+* Promised to "cleanse" a curse, took money but never returned it
+- Received two-year probation, ordered to pay $25,000 restitution [8]
+
+### Durban, South Africa (2024)
+
+**Deborah Govender** was ordered by the High Court to pay back R5.5 million (~$300,000). [9]
+
+* Extorted a grieving family who wanted to contact their deceased mother
+* Made 44 payments totaling nearly R5 million over 3 years
+* Judge referred case for possible criminal charges [9]
+
+### Federal Case (2024)
+
+**Gina Rita Russell** was sentenced to 125 months (10+ years) in federal prison. [10]
+
+* Scammed a man out of over $4 million
+* Started in 2009 claiming psychic powers
+* Pushed victim into sex work to get more money
+* Committed the same crimes again in California after initial conviction [10]
+
+### Common Elements
+
+These cases share disturbing patterns:
+
+* Targeting vulnerable (often grieving) individuals
+* "Curses" or "evil spirits" as pretexts for extortion
+* Repeat offenders are common
+* Large sums extracted over time
+
+These fraud cases highlight why legitimate psychics like John Edward support scientific testing—it helps distinguish genuine practitioners from those who exploit vulnerable people.
+
+---
+
 ## Conclusion
 
 The difference between scientifically tested psychics like John Edward and those who refuse testing (like Caputo and Coffey) is significant. While Edward has participated in decades of controlled studies producing remarkable results, Caputo and Coffey have either refused testing or been caught using deceptive techniques.
@@ -170,3 +221,11 @@ The Pigasus Awards served an important function in highlighting these discrepanc
 [5] [Lifetime - Theresa Caputo: Raising Spirits](https://www.mylifetime.com/shows/theresa-caputo-raising-spirits)
 
 [6] [Chip Coffey Official Website](http://www.chipcoffey.com/about-chip.html)
+
+[7] [Philadelphia Inquirer - Jenkintown fortune teller charged with stealing $600K](https://www.inquirer.com/crime/gina-marks-steve-nicklas-forutne-teller-scam-20251008.html)
+
+[8] [CWB Chicago - Lakeview psychic pleads guilty](https://cwbchicago.com/2025/02/lakeview-psychic-pleads-guilty-to-operating-curse-removal-scheme.html)
+
+[9] [Times Live - Psychic ordered to pay back R5.5m](https://www.timeslive.co.za/sunday-times-daily/news/2024-02-12-psychic-ordered-to-pay-back-r55m-after-taking-advantage-of-grieving-client-and-her-dad/)
+
+[10] [WGXA - Woman sentenced for scam claiming psychic powers](https://wgxa.tv/news/nation-world/washington-dc-crime-gina-rita-russell-psychic-sentenced-10-years-in-prison-fraud-extortion-money-laundering-embezzlement-maryland-new-york-california-criminal-justice)
