@@ -83,6 +83,28 @@ A comprehensive declassified review of SRI data (117 documents, 5,025 pages, 25,
 
 The first unclassified paper was published in the **IEEE Proceedings (March 1976)**. [54] Additional research appeared in the **Journal of Scientific Exploration** and other peer-reviewed journals. [52] Many CIA documents have since been declassified and are publicly available. [55]
 
+---
+
+## The Movie "Ghost" and Mediumship in Popular Culture
+
+The 1990 film **Ghost** (starring Patrick Swayze, Demi Moore, and Whoopi Goldberg) became one of the highest-grossing films of the year and helped bring mediumship into mainstream popular culture. [56]
+
+**About the Film**
+
+Ghost was directed by Jerry Zucker and written by Bruce Joel Rubin, who won the Academy Award for Best Original Screenplay. The film features Oda Mae Brown (Whoopi Goldberg), a fraudulent psychic who discovers she can actually communicate with the dead when the ghost of Sam Wheat (Patrick Swayze) approaches her. [56]
+
+**Writer's Spiritual Background**
+
+Screenwriter Bruce Joel Rubin had a deep interest in spirituality and metaphysics. He has stated that he took LSD in New York City in the 1960s, which he described as "life-changing" and "very mystical in the deepest sense of the word." This experience led him on "a very long spiritual pursuit." He lived in ashrams in India, a Tibetan monastery in Kathmandu, a Buddhist temple in Bangkok, and studied meditation extensively. [57] Rubin has said: "I want to make films that make you look at life through looking at death."
+
+**Medium Consultation**
+
+Unlike some productions that consult with real psychics, there is no documented evidence that the production of Ghost used real mediums as consultants. The character of Oda Mae was originally envisioned as a male character, but was changed to a female psychic based on feedback from other writers who suggested "a great storefront psychic who was a fake." [58] The film was developed through 19 drafts, with the writer and director working to balance the comedic and dramatic elements.
+
+**Cultural Impact**
+
+Ghost helped popularize the idea of mediumship in Hollywood and was part of a wave of films (including Jacob's Ladder, Hereafter, and others) that presented after-death contacts and mediumistic experiences as reality rather than fairy-tale fantasy. [59]
+
 The experiments were unlike anything Geller had experienced before: [11, 12]
 
 * He was placed in an electrically shielded room
@@ -468,3 +490,11 @@ The question is no longer whether such phenomena deserve study, but what our und
 [54] [CIA - SRI Investigation into Parapsychology](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000700020003-2)
 
 [55] [CIA - Government Sponsored Research in Psychoenergetics](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200440001-9.pdf)
+
+[56] [Wikipedia - Ghost (1990 film)](https://en.wikipedia.org/wiki/Ghost_(1990_film))
+
+[57] [BuzzFeed - How Ghost Became One Of The Most Successful Movies Of All Time](https://www.buzzfeed.com/declancashin/the-love-inside-you-take-it-with-you)
+
+[58] [E! Online - 30 Timeless Secrets About Ghost](https://www.eonline.com/news/1170194/30-timeless-secrets-about-ghost-that-will-lift-your-spirits)
+
+[59] [Wikipedia - Ghost (1990 film) - Cultural significance](https://en.wikipedia.org/wiki/Ghost_(1990_film)#Cultural_significance)
