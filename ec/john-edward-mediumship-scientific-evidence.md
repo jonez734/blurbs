@@ -428,3 +428,7 @@ The most parsimonious explanation is that consciousness can transfer information
 [54] [YouTube - A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo)
 
 [55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ)
+
+---
+
+*Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*

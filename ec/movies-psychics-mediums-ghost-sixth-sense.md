@@ -134,3 +134,7 @@ Movies about psychics and mediums tend to explore similar themes:
 [12] [Wikipedia - Ghost Whisperer](https://en.wikipedia.org/wiki/Ghost_Whisperer)
 
 [13] [Wikipedia - The Conjuring (film)](https://en.wikipedia.org/wiki/The_Conjuring_(film))
+
+---
+
+*Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*

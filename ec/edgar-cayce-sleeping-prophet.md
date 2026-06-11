@@ -150,3 +150,7 @@ The A.R.E. remains active today, with headquarters in Virginia Beach, and tens o
 [5] [Edgar Cayce's A.R.E. - Cayce Wisdom Overview](https://content.edgarcayce.org/edgar-cayce/cayce-wisdom-an-overview-of-the-edgar-cayce-material/)
 
 [6] [Wikipedia - Association for Research and Enlightenment](https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment)
+
+---
+
+*Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*

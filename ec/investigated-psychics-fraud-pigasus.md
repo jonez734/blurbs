@@ -235,3 +235,7 @@ The Pigasus Awards served an important function in highlighting these discrepanc
 [9] [Times Live - Psychic ordered to pay back R5.5m](https://www.timeslive.co.za/sunday-times-daily/news/2024-02-12-psychic-ordered-to-pay-back-r55m-after-taking-advantage-of-grieving-client-and-her-dad/)
 
 [10] [WGXA - Woman sentenced for scam claiming psychic powers](https://wgxa.tv/news/nation-world/washington-dc-crime-gina-rita-russell-psychic-sentenced-10-years-in-prison-fraud-extortion-money-laundering-embezzlement-maryland-new-york-california-criminal-justice)
+
+---
+
+*Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
