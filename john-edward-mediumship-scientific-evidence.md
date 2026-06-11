@@ -77,6 +77,8 @@ He works with a team of spirit beings he calls "The Boys"—deceased individuals
 
 Recognizing the emotional intensity of his readings, Edward maintains **counselors on staff** who are available to speak with clients after readings. This support system helps people process the emotional impact of connecting with deceased loved ones, demonstrating his commitment to ethical practice and client wellbeing.
 
+> **Editor's Note**: The claim that John Edward employs grief counselors is based on unverified reports. I do not have documentation confirming when he hired them or how many counselors are on staff. This should be considered rumor until verified.
+
 ---
 
 ## The HBO Experiments: 83% Accuracy Under Double-Blind Conditions
