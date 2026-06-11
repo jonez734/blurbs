@@ -260,6 +260,34 @@ In a 2015 interview with Penn Live, Edward stated: "I've never felt the need to 
 
 This philosophy reflects Edward's core approach: rather than arguing with critics, he lets his decades of scientific participation and client work speak for itself. His participation in controlled studies (HBO experiments, Windbridge research) and his 25-year FBI collaboration are his response to skepticism—not attacks on his critics.
 
+### Edward on Skeptics: Respect vs. Cynicism
+
+John Edward has spoken extensively about his views on skeptics and critics over the years:
+
+**"I was them" (2019)**
+
+In a 2019 interview with the Free Press ahead of his Detroit tour, Edward explained: "I think I have to use the word respect here. I think it would be very hypocritical for me to not come at them with any other place than respect. The reason is, I was them. So, you know, for me to try to come at them in any other way than to respect and see the reflection of my past in their face, their words, their demeanor... I think that would be disrespectful." [47]
+
+**"Skepticism vs. Cynicism" (2023)**
+
+In a 2023 interview with Today.com, Edward clarified the distinction: "Being skeptical means that you're looking for validation and fast evidence. Being cynical means that no matter what you experience, you've already made up your mind. So cynicism scares me. Skepticism, we need to embrace." He added: "I want people to be seekers, because if they're seekers and explorers that leads to discovery." [48]
+
+**"I don't have time for cynicism" (2019)**
+
+Edward told the Free Press: "I am respectful of skepticism — I encourage it. I don't have time for cynicism, personal attack(s). If somebody comes at me in a negative way, I usually block them immediately... I kind of create boundaries so I don't really get into it." [47]
+
+**"They're not skeptics, they're cynics" (2015)**
+
+In a 2015 interview with PennLive, Edward addressed accusations of cold reading: "They're not really skeptics, they're really cynics. Either they think people are being researched ahead of time, or they're saying it's guess work... Basically, what I think they're saying is that people who seek mediums out are stupid. And I don't think they're stupid." [22]
+
+**"I was a skeptic myself" (2014)**
+
+In a 2014 interview with the Ottawa Citizen, Edward said: "The critics don't bother me. I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers." [21]
+
+**"The critics don't give any respect back" (2012)**
+
+In a 2012 interview with Julia Hatmaker, Edward stated: "I always find the people who are so critical on the subject matter don't give any respect back. They try to define what you're doing when they don't even understand it. That just screams to me ignorance and ignorance leads to intolerance." [49]
+
 ---
 
 ## Skeptics Countered
@@ -360,3 +388,9 @@ The most parsimonious explanation is that consciousness can transfer information
 [45] [Arizona Daily Wildcat - Researchers, mediums study communication with the dead](https://wc.arizona.edu/papers/92/152/01_2_m.html)
 
 [46] [John Edward Official Website](https://web.archive.org/web/20061222194125/www.johnedward.net/about_John_Edward.htm)
+
+[47] [Freep - Psychic medium John Edward coming to Detroit: His response to skeptics](https://eu.freep.com/story/entertainment/2019/09/27/john-edward-psychic-medium-detroit/2435148001/)
+
+[48] [Today - Psychic John Edward Shares His 'Energetic Parenting' Strategy](https://www.today.com/life/astrology/john-edward-psychic-parenting-interview-rcna119573)
+
+[49] [Julia Hatmaker - Psychic John Edward connects with the dead, science and skeptics](https://juliahatmaker.com/2012/05/24/psychic-john-edward-connects-with-the-dead-science-and-skeptics/)
