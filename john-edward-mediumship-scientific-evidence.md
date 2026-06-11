@@ -37,6 +37,20 @@ His career includes:
 
 Even critics took notice—John Edward was featured in a **South Park** episode titled "The Biggest Douche in the Universe" (2002), where he was crowned just that. [26] Given the show's reputation for brutal satire, being featured at all is perhaps the ultimate tongue-in-cheek compliment to his cultural impact and fame.
 
+### Why He Left American Television
+
+Despite its initial success, "Crossing Over with John Edward" was canceled in 2004 after three seasons:
+
+**Low Ratings**: The show averaged only a 0.9 rating in syndication, down 31% from the previous year. It "languished in sub-1.0 territory" for the first three months of the 2003-04 season. [27][28]
+
+**Format Changes Didn't Help**: The show underwent a makeover at the beginning of the 2003-04 season to attract more viewers, but those changes didn't have the effect Universal was looking for. [27]
+
+**Conflict with Production Company**: In a 2006 interview with TV Guide, Edward explained his move to WE tv: "at Universal it was, 'Shut up. You're the talent. Let us do what we do.' They respect me as a producer and as a person, whereas at Universal it was, 'Shut up. You're the talent. Let us do what we do.'" [29]
+
+**WTC Controversy**: In 2001, shortly after 9/11, producers planned a special where Edward would connect with victims' families. The plan sparked a national outcry over exploitation of the tragedy, and the special was canceled. [30]
+
+Edward moved on to "John Edward Cross Country" on WE tv (2006-2009), but eventually left traditional television altogether to focus on his online platform, Evolve Plus. [23]
+
 ---
 
 ## How It Works: Telephathy with the Dead
@@ -304,3 +318,11 @@ The most parsimonious explanation is that consciousness can transfer information
 [25] [Infogalactic - People Magazine Most Intriguing People](https://infogalactic.com/info/John_Edward)
 
 [26] [South Park Archives - The Biggest Douche in the Universe](https://southpark.fandom.com/wiki/The_Biggest_Douche_in_the_Universe)
+
+[27] [Next TV - Crossing Over Into Cancellation](https://www.nexttv.com/news/crossing-over-cancellation-70550)
+
+[28] [The Futon Critic - Axe Falls on Syndies 'John Edward'](http://www.thefutoncritic.com/news/2004/01/09/axe-falls-on-syndies-john-edward-wayne-brady-16356/6345/)
+
+[29] [TV Guide - John Edward Is One Psyched Psychic](https://www.tvguide.com/news/john-edward-psyched-41139/)
+
+[30] [Wikipedia - Crossing Over with John Edward](https://en.wikipedia.org/wiki/Crossing_Over_with_John_Edward)
