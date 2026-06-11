@@ -27,9 +27,15 @@ Both shows featured Edward giving psychic readings to studio audience members, w
 His career includes:
 
 * Multiple New York Times bestselling books ("One Last Time," "What If God Were the Sun," "Crossing Over")
+* **"Best Psychic on Long Island"** - Best of Long Island Press (won 2010, 2012, 2013; runner-up 2011, 2014) [24]
+* **People Magazine** - Named one of "Most Intriguing People of the Year" [25]
 * Sold-out seminars and lectures worldwide
 * A waiting list for private readings that stretched over two years
 * Recent project: EvolvePlus.Tv, an online platform for metaphysical education
+
+### A Note on Popularity
+
+Even critics took notice—John Edward was featured in a **South Park** episode titled "The Biggest Douche in the Universe" (2002), where he was crowned just that. [26] Given the show's reputation for brutal satire, being featured at all is perhaps the ultimate tongue-in-cheek compliment to his cultural impact and fame.
 
 ---
 
@@ -292,3 +298,9 @@ The most parsimonious explanation is that consciousness can transfer information
 [22] [Penn Live - Interview with psychic John Edward: 'I've never felt the need to convince or convert people'](https://www.pennlive.com/entertainment/2015/05/psychic_john_edward.html)
 
 [23] [Wikipedia - John Edward Cross Country](https://en.wikipedia.org/wiki/John_Edward_Cross_Country)
+
+[24] [Digital Journal - Best Psychic on Long Island](https://www.digitaljournal.com/life/john-edward-to-perform-at-new-world-stages-in-new-york-city/article/467560)
+
+[25] [Infogalactic - People Magazine Most Intriguing People](https://infogalactic.com/info/John_Edward)
+
+[26] [South Park Archives - The Biggest Douche in the Universe](https://southpark.fandom.com/wiki/The_Biggest_Douche_in_the_Universe)
