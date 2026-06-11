@@ -14,51 +14,9 @@ For in-depth coverage of specific topics, see:
 
 ---
 
-## The Movie "Ghost" and Mediumship in Popular Culture
+## Movies and TV Shows About Psychics and Mediums
 
-The 1990 film **Ghost** (starring Patrick Swayze, Demi Moore, and Whoopi Goldberg) became one of the highest-grossing films of the year and helped bring mediumship into mainstream popular culture. [56]
-
-**About the Film**
-
-Ghost was directed by Jerry Zucker and written by Bruce Joel Rubin, who won the Academy Award for Best Original Screenplay. The film features Oda Mae Brown (Whoopi Goldberg), a fraudulent psychic who discovers she can actually communicate with the dead when the ghost of Sam Wheat (Patrick Swayze) approaches her. [56]
-
-**Writer's Spiritual Background**
-
-Screenwriter Bruce Joel Rubin had a deep interest in spirituality and metaphysics. He has stated that he took LSD in New York City in the 1960s, which he described as "life-changing" and "very mystical in the deepest sense of the word." This experience led him on "a very long spiritual pursuit." He lived in ashrams in India, a Tibetan monastery in Kathmandu, a Buddhist temple in Bangkok, and studied meditation extensively. [57] Rubin has said: "I want to make films that make you look at life through looking at death."
-
-**Medium Consultation**
-
-Unlike some productions that consult with real psychics, there is no documented evidence that the production of Ghost used real mediums as consultants. The character of Oda Mae was originally envisioned as a male character, but was changed to a female psychic based on feedback from other writers who suggested "a great storefront psychic who was a fake." [58] The film was developed through 19 drafts, with the writer and director working to balance the comedic and dramatic elements.
-
-**Cultural Impact**
-
-Ghost helped popularize the idea of mediumship in Hollywood and was part of a wave of films (including Jacob's Ladder, Hereafter, and others) that presented after-death contacts and mediumistic experiences as reality rather than fairy-tale fantasy. [59]
-
----
-
-## The Sixth Sense (1999): Cultural and Spiritual Influences
-
-The 1999 film **The Sixth Sense**, written and directed by M. Night Shyamalan, became a cultural phenomenon and earned six Academy Award nominations including Best Picture and Best Director. [60]
-
-**No Documented Psychic Consultants**
-
-Unlike some productions that employ paranormal advisors, there is no documented evidence that The Sixth Sense used professional mediums or psychics as consultants. However, the film drew heavily from Shyamalan's personal cultural and spiritual background. [61]
-
-**Shyamalan's Spiritual Influences**
-
-Shyamalan has spoken extensively about how his Indian heritage and Hindu beliefs influenced the film. In an interview with Fresh Air, he discussed how ghost stories from his own culture and personal experiences shaped the portrayal of ghosts in the film:
-
-> "ghost stories, you know, everybody comes and tells me their ghost stories... about someone who died, a girlfriend who died, and then, you know, I saw them in a dream and I swear they were in my room..."
-
-He described wanting the ghosts to feel "real" rather than like "a glowing person walking down the hall"—instead creating a sense that "someone was in the house." [62]
-
-The film reflects Hindu concepts of karma and unresolved issues keeping spirits earthbound. The ghosts Cole encounters have unresolved problems from their former lives—mirroring Hindu beliefs about spirits who must complete their earthly business before moving on. [63]
-
-**Cultural Authenticity**
-
-Shyamalan grew up in Philadelphia but drew from his family's Indian heritage. He has been described as offering audiences "logical spirituality" that resonates with Hindu concepts of interconnectedness and balance between life forces. [63]
-
-The film was shot in Shyamalan's hometown of Philadelphia, and child actors Mischa Barton and Haley Joel Osment reportedly believed the filming locations were genuinely haunted. [64]
+See: **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth-sense.md)**
 
 ---
 
