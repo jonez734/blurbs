@@ -8,6 +8,8 @@ Film and television have long explored the theme of communication with the dead,
 
 The 1990 film **Ghost** (starring Patrick Swayze, Demi Moore, and Whoopi Goldberg) became one of the highest-grossing films of the year and helped bring mediumship into mainstream popular culture. [1]
 
+**[Watch on Amazon](https://www.amazon.com/dp/B000P0J0AQ/?tag=psychicblurbs-20)** | **[Blu-ray](https://www.amazon.com/dp/B07VS7MRKL/?tag=psychicblurbs-20)**
+
 **About the Film**
 
 Ghost was directed by Jerry Zucker and written by Bruce Joel Rubin, who won the Academy Award for Best Original Screenplay. The film features Oda Mae Brown (Whoopi Goldberg), a fraudulent psychic who discovers she can actually communicate with the dead when the ghost of Sam Wheat (Patrick Swayze) approaches her. [1]
@@ -29,6 +31,8 @@ Ghost helped popularize the idea of mediumship in Hollywood and was part of a wa
 ## The Sixth Sense (1999)
 
 The 1999 film **The Sixth Sense**, written and directed by M. Night Shyamalan, became a cultural phenomenon and earned six Academy Award nominations including Best Picture and Best Director. [5]
+
+**[Watch on Amazon](https://www.amazon.com/dp/B07HR1ZWS1/?tag=psychicblurbs-20)** | **[Collector's Edition](https://www.amazon.com/dp/B0BYG9HGL8/?tag=psychicblurbs-20)**
 
 **No Documented Psychic Consultants**
 
@@ -56,13 +60,15 @@ The film was shot in Shyamalan's hometown of Philadelphia, and child actors Misc
 
 Directed by Clint Eastwood, **Hereafter** explores death and the afterlife through three interconnected storylines involving a reluctant medium, a grief-stricken woman, and a boy coping with a terminal illness. [10]
 
-The film was notably influenced by near-death experience research and consulted with NDE researchers, though it is unclear if working mediums were directly consulted.
+**[Watch on Amazon](https://www.amazon.com/dp/B004IZOXKC/?tag=psychicblurbs-20)**
 
 ---
 
 ## Medium (TV Series 2005-2011)
 
 The television series **Medium** starred Patricia Arquette as Allison DuBois, a medium who uses her psychic abilities to help solve crimes. The show was loosely based on a real-life medium and included consultation with actual psychics during its development. [11]
+
+**[Seasons 1-7 Complete](https://www.amazon.com/dp/B003B5V2WG/?tag=psychicblurbs-20)**
 
 **Notable Aspects**
 
@@ -76,6 +82,8 @@ The television series **Medium** starred Patricia Arquette as Allison DuBois, a 
 
 **Ghost Whisperer** starred Jennifer Love Hewitt as Melinda Gordon, a gift shop owner who can see and communicate with ghosts. The show ran for five seasons and featured consultation with real-life mediums and paranormal investigators. [12]
 
+**[Seasons 1-5 Complete](https://www.amazon.com/dp/B001V7KG2O/?tag=psychicblurbs-20)**
+
 The series employed "sensitivity readers" to ensure the portrayal of ghosts was respectful to various cultural traditions.
 
 ---
@@ -83,6 +91,8 @@ The series employed "sensitivity readers" to ensure the portrayal of ghosts was 
 ## The Conjuring (2013) and Related Films
 
 The **Conjuring Universe** films are based on the real-life investigations of Ed and Lorraine Warren, paranormal investigators who claimed to have worked on hundreds of cases. While not specifically about mediumship, these films depict various aspects of communication with the dead and paranormal investigation. [13]
+
+**[The Conjuring Collection](https://www.amazon.com/dp/B074T1XJWN/?tag=psychicblurbs-20)**
 
 ---
 

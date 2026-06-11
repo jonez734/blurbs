@@ -66,10 +66,12 @@ Unlike many psychics, Edgar Cayce gained remarkable acceptance from both the pub
 
 ### Publications and Books
 
-* **1942**: Thomas Sugrue's biography "There Is a River" was published—the only biography written during Cayce's lifetime, which brought national attention to Cayce [4]
-* **1950**: Gina Cerminara wrote "Many Mansions" exploring Cayce's work
+* **1942**: Thomas Sugrue's biography ["There Is a River"](https://www.amazon.com/dp/0399172664/?tag=psychicblurbs-20) was published—the only biography written during Cayce's lifetime, which brought national attention to Cayce [4]
+* **1950**: Gina Cerminara wrote ["Many Mansions"](https://www.amazon.com/dp/0440136768/?tag=psychicblurbs-20) exploring Cayce's work
 * **1963**: Ruth Montgomery popularized Cayce's predictions about catastrophic events
-* **1967**: Jess Stearn authored "The Sleeping Prophet," a bestselling biography [4]
+* **1967**: Jess Stearn authored ["The Sleeping Prophet"](https://www.amazon.com/dp/0385070183/?tag=psychicblurbs-20), a bestselling biography [4]
+
+**[More Cayce Books on Amazon](https://www.amazon.com/dp/B000AR7GIE/?tag=psychicblurbs-20)**
 
 ### Influence on New Age Movement
 

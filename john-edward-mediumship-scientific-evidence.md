@@ -26,12 +26,18 @@ Both shows featured Edward giving psychic readings to studio audience members, w
 
 His career includes:
 
-* Multiple New York Times bestselling books ("One Last Time," "What If God Were the Sun," "Crossing Over")
+* Multiple New York Times bestselling books:
+  * ["One Last Time"](https://www.amazon.com/dp/0425166929/?tag=psychicblurbs-20)
+  * ["What If God Were the Sun"](https://www.amazon.com/dp/0446695153/?tag=psychicblurbs-20)
+  * ["Crossing Over: The Stories Behind the Stories"](https://www.amazon.com/dp/0425191639/?tag=psychicblurbs-20)
+  * ["Chasing Evil"](https://www.amazon.com/dp/1250291755/?tag=psychicblurbs-20) (with FBI agent Robert Hilland)
 * **"Best Psychic on Long Island"** - Best of Long Island Press (won 2010, 2012, 2013; runner-up 2011, 2014) [24]
 * **People Magazine** - Named one of "Most Intriguing People of the Year" [25]
 * Sold-out seminars and lectures worldwide
 * A waiting list for private readings that stretched over two years
 * Recent project: EvolvePlus.Tv, an online platform for metaphysical education
+
+**[John Edward Books on Amazon](https://www.amazon.com/dp/B000FBJCJE/?tag=psychicblurbs-20)** | **[Crossing Over: Complete Series](https://www.amazon.com/dp/B000VZVQR6/?tag=psychicblurbs-20)**
 
 ### A Note on Popularity
 

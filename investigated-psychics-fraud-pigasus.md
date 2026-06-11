@@ -129,7 +129,9 @@ Despite their controversies (or in John Edward's case, despite his scientific te
 * **Evolve Plus TV**: Subscription-based online platform with daily content, live readings, tarot, astrology, numerology, meditations [4]
 * **"Evolve with John Edward"**: Now in its 15th season on the platform [4]
 * **Live tours**: Currently touring in 2026 (Detroit, Chicago, Madison, Green Bay) [4]
-* **Book**: "Chasing Evil" (2025) - co-authored with FBI agent Robert Hilland [4]
+* **Book**: ["Chasing Evil" (2025)](https://www.amazon.com/dp/1250291755/?tag=psychicblurbs-20) - co-authored with FBI agent Robert Hilland [4]
+
+**[Chasing Evil on Amazon](https://www.amazon.com/dp/1250291755/?tag=psychicblurbs-20)**
 
 *See also: [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence.md)*
 
@@ -140,12 +142,16 @@ Despite their controversies (or in John Edward's case, despite his scientific te
 * **Live tours**: "Theresa Caputo Live! The Experience" - sold-out shows in London [5]
 * Multiple specials throughout 2024 [5]
 
+**[Long Island Medium: Complete Seasons](https://www.amazon.com/dp/B003B5V0K8/?tag=psychicblurbs-20)**
+
 ### Chip Coffey
 
 * **"Kindred Spirits"**: Travel Channel, joined Season 4 in 2020, still active [6]
 * **"Pajama Party with Chip Coffey"**: New web series coming soon to Vidi.Space [6]
 * **Online readings**: "Chip Chat Online Gallery Reading" events via Zoom (Winter 2025) [6]
 * Animal rescue advocacy [6]
+
+**[Kindred Spirits on Amazon](https://www.amazon.com/dp/B08GFH7SC4/?tag=psychicblurbs-20)**
 
 ---
 
