@@ -117,7 +117,7 @@ The fact that some performers (like Oz Pearlman) openly admit to using these tec
 
 ## Conclusion
 
-The distinction between mentalists and genuine psychics is clear: mentalists like Oz Pearlman admit their abilities are learned skills, while claimed psychics like John Edward have submitted to scientific testing and produced results that exceed chance expectations. When evaluating any psychic claim, the key question is whether they welcome rigorous scientific scrutiny or avoid controlled conditions.
+The distinction between mentalists and genuine psychics is clear: mentalists like Oz Pearlman admit their abilities are learned skills, while claimed psychics like John Edward have submitted to scientific testing and produced results that exceed chance expectations. It is worth noting that some psychics have valid concerns about the "controlled conditions" set up by skeptics, which have historically included strip searches, police station settings, and rooms full of skeptics—conditions that may be designed more to humiliate than to fairly test. Despite this, the key question remains: are they willing to participate in rigorous scientific study conducted by independent researchers? John Edward has done so; others have not.
 
 ---
 
