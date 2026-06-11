@@ -161,6 +161,56 @@ John Edward has also participated in ongoing research at the Windbridge Institut
 
 Dr. Beischel's research has been published in peer-reviewed journals including Explore: The Journal of Science and Healing and the Journal of Nervous and Mental Disease.
 
+### Other Double-Blind Studies: The Growing Body of Evidence
+
+The John Edward and Schwartz studies are not isolated. A growing body of peer-reviewed research confirms these findings across multiple laboratories and mediums:
+
+**Meta-Analysis (Sarraf et al., 2020)**
+
+A comprehensive meta-analysis of 18 experiments conducted between 2001-2019, using varying levels of blinding, found:
+
+* **Average accuracy 6-14% above chance** - statistically significant
+* **Better performance** by mediums who passed preliminary certification screening
+* Published in peer-reviewed literature [38]
+
+**Tressoldi et al. (2020) - Triple-Blind Study**
+
+Nine professional mediums produced 38 readings under rigorous triple-blind conditions:
+
+* Mediums received only the deceased person's first name
+* Sitters never interacted with mediums
+* Results: **65.8% correct identification** (vs. 50% chance expected)
+* Intended readings had **29.5% more correct information** than control readings
+* Published in Elsevier journal [39]
+
+**Beischel (2007) - Beyond Double-Blind**
+
+Eight research mediums participated in a study published in Explore:
+
+* Sitters correctly identified their intended reading **81% of the time** (p=0.01)
+* Average summary rating: 3.56 for intended vs. 1.94 for control
+* Effect size: 0.5 (considered moderate to large)
+* Six of eight mediums produced positive results in the predicted direction [40]
+
+**Notable Mediums in Research**
+
+Beyond John Edward, these mediums have participated in controlled scientific studies:
+
+* **Suzanne Northrop** - Participated in HBO experiments, Miraval studies
+* **George Anderson** - Renowned medium, HBO experiments
+* **Anne Gehman** - HBO experiments participant
+* **Laurie Campbell** - Longtime research medium, Windbridge certified
+* Various **Windbridge Certified Research Mediums (WCRMs)** - Ongoing studies
+
+**Important Distinction: Scientifically Tested vs. TV Psychics**
+
+It's worth noting that not all television psychics have submitted to scientific testing:
+
+* **Theresa Caputo** (Long Island Medium) - Has never participated in controlled studies. In 2012, she received a **Pigasus Award** from the James Randi Educational Foundation for "performance." Investigations reveal she uses pre-show research and social media to gather information about audience members. [41]
+* **Chip Coffey** - Also received a **Pigasus Award** (2009) for "the psychic who tricked the most people with the least effort." Skeptics planted fictitious dead family members with his staff, and he claimed to communicate with them successfully. [42]
+
+The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo and Coffey have refused scientific scrutiny.
+
 ### The "Chasing Evil" Book: 25 Years of FBI Collaboration
 
 In September 2025, Edward published "Chasing Evil: Shocking Crimes, Supernatural Forces, and an FBI Agent's Search for Hope and Justice" (St. Martin's Press), co-authored with former FBI Special Agent Robert Hilland.
@@ -349,3 +399,13 @@ The question is no longer whether such phenomena deserve study, but what our und
 [36] [University of Arizona - Researchers, mediums study communication with the dead](https://wc.arizona.edu/papers/92/152/01_2_m.html)
 
 [37] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
+
+[38] [PubMed - Anomalous information reception by mediums: A meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32660815/)
+
+[39] [ScienceDirect - Mediumship accuracy: A quantitative and qualitative study with a triple-blind protocol](https://www.sciencedirect.com/science/article/abs/pii/S1550830721000975)
+
+[40] [Windbridge - Anomalous Information Reception by Research Mediums](https://www.windbridge.org/papers/BeischelEXPLORE2007vol3.pdf)
+
+[41] [Skeptical Inquirer - Theresa Caputo: The Fake Long Island Medium](https://skepticalinquirer.org/2016/10/theresa-caputo-the-fake-long-island-medium/)
+
+[42] [Wikipedia - Chip Coffey](https://en.wikipedia.org/wiki/Chip_Coffey)
