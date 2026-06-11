@@ -56,6 +56,33 @@ Geller was brought to the **Stanford Research Institute (SRI)** in California fo
 
 **About SRI International:** Founded in 1946 as Stanford Research Institute, SRI is a nonprofit research and development organization headquartered in Menlo Park, California. [49] Over its history, SRI has conducted over 50,000 individual projects for clients ranging from government agencies to commercial enterprises. [49] The institute's funding has been approximately 60% government and 40% commercial/international. [50] SRI's government clients have included the Department of Defense, CIA, NSA, Department of the Interior, and various other federal agencies, with over $4.7 billion in federal contracts historically. [51] The organization is known for pioneering work in many fields including early computing (SRI helped develop the computer mouse and interactive computing), laser surgery, and other advanced technologies. [49]
 
+### Unclassified SRI Psychic Research (1972-present)
+
+While Geller's 1973 testing was classified, SRI's broader psychic research program produced unclassified work:
+
+**Remote Viewing Experiments (1972-1985)**
+
+Beginning in 1972, physicists Harold Puthoff, Edwin May, and Russell Targ initiated remote viewing experiments at SRI. Participants were asked to describe mental images of distant persons or events. [52] Key findings:
+
+* Results statistically significant at **4 standard deviations** from chance expectation, with effect sizes >0.6 [52]
+* Accuracy independent of distance up to **10,000 km** [52]
+* Accuracy independent of time—successful for events **several days into the future** (precognition) [52]
+* Remote viewing is "nonanalytic"—describing distant shapes/locations easier than guessing numbers [52]
+
+**Meta-Analysis (1973-1988)**
+
+A comprehensive declassified review of SRI data (117 documents, 5,025 pages, 25,449 trials) concluded:
+
+* Odds results not due to chance: **2 × 10²⁰ to 1** [53]
+* "Convincing, if not conclusive, evidence for the existence of psychoenergetic functioning" [53]
+* ~1% of population has natural remote viewing ability [53]
+* Training does not improve ability—no evidence supports training hypothesis [53]
+* Electromagnetic shielding does not block remote viewing [53]
+
+**Publications**
+
+The first unclassified paper was published in the **IEEE Proceedings (March 1976)**. [54] Additional research appeared in the **Journal of Scientific Exploration** and other peer-reviewed journals. [52] Many CIA documents have since been declassified and are publicly available. [55]
+
 The experiments were unlike anything Geller had experienced before: [11, 12]
 
 * He was placed in an electrically shielded room
@@ -433,3 +460,11 @@ The question is no longer whether such phenomena deserve study, but what our und
 [50] [SRI International - Business Model PDF](https://www.sri.com/wp-content/uploads/2022/08/Appendix-D.pdf)
 
 [51] [Sweetspot - SRI International Federal Contracts](https://www.sweetspot.so/markets/federal/contractors/sri-international-srg2j1ws9x63/)
+
+[52] [Journal of Scientific Exploration - What Do We Know About Psi?](https://www.scientificexploration.org/docs/33/jse_33_4_Targ.pdf)
+
+[53] [CIA - Review of Psychoenergetic Research at SRI (1973-1988)](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000300170001-2)
+
+[54] [CIA - SRI Investigation into Parapsychology](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000700020003-2)
+
+[55] [CIA - Government Sponsored Research in Psychoenergetics](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200440001-9.pdf)
