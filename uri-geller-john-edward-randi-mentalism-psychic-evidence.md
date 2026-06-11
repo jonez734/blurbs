@@ -8,295 +8,45 @@ This blurb provides an overview of the battle between skeptics and psychics, cov
 
 For in-depth coverage of specific topics, see:
 
-- **[Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md)** - The Tonight Show sabotage, spoon-bending exposure, Stargate Project, SRI research, legal battles
+### Key Figures
 - **[John Edward: Scientific Evidence for Mediumship](./john-edward-mediumship-scientific-evidence.md)** - Career, HBO experiments (83% accuracy), triple-blind studies, FBI collaboration, critics
+- **[Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md)** - The Tonight Show sabotage, spoon-bending exposure, Stargate Project, SRI research, legal battles
+- **[Edgar Cayce: The Sleeping Prophet](./edgar-cayce-sleeping-prophet.md)** - 14,306 readings, founded A.R.E., holistic health focus
+
+### Scientific Research
+- **[Scientific Studies on Psychic Phenomena](./scientific-studies-psychic-phenomena-overview.md)** - SRI, Gary Schwartz, Windbridge, meta-analyses
+- **[Joseph McMoneagle: Remote Viewer No. 1](./joseph-mcmoneagle-remote-viewer-stargate.md)** - Stargate Project, 450+ missions, Legion of Merit
+
+### Religion and Culture
 - **[Biblical Prophets and Mediums](./biblical-prophets-mediumship-prophecy.md)** - The Witch of Endor, prophets vs. mediums in scripture
+- **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth-sense.md)** - Ghost, Sixth Sense, Hereafter, Medium, Ghost Whisperer
+
+### Skeptics and Critics
+- **[Mentalists vs. Psychics](./mentalists-vs-psychics-oz-pearlman.md)** - Oz Pearlman, how to tell difference from genuine psychics
+- **[Investigated Psychics and Fraud](./investigated-psychics-fraud-pigasus.md)** - Pigasus Awards, Theresa Caputo, Chip Coffey, current projects, recent fraud cases
 
 ---
 
-## Movies and TV Shows About Psychics and Mediums
+## Legal Status of Psychics in the US
 
-See: **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth-sense.md)**
+### States/Cities with Bans
 
----
+**New York State** (NY Penal Law § 165.35):
+- Fortune telling for compensation is a **class B misdemeanor**
+- Psychics must have clients sign waivers stating readings are "for entertainment only"
+- The law applies to using "occult powers" to give advice on personal matters [1][2]
 
-## Scientific Research Overview
+**Other jurisdictions with restrictions:**
+- Pennsylvania (1861 law - used to charge Jenkintown fraud case)
+- Baltimore - illegal, misdemeanor (up to $500 fine or 1 year jail)
+- Oklahoma, Wisconsin, Minnesota, North Carolina - ban all fortune telling [2]
 
-See: **[Scientific Studies on Psychic Phenomena](./scientific-studies-psychic-phenomena-overview.md)**
+### Psychic-Friendly Jurisdictions
 
-## Key Figure: Joseph McMoneagle
-
-See: **[Joseph McMoneagle: Remote Viewer No. 1](./joseph-mcmoneagle-remote-viewer-stargate.md)**
-
----
-
-## Biblical Psychics and Mediums: The Forbidden Arts
-
-The Bible contains the earliest documented accounts of mediumship and psychic practices, with a consistently negative treatment of such abilities.
-
-### The Witch of Endor (1 Samuel 28)
-
-The most famous biblical example is the **Witch of Endor**—a medium consulted by King Saul. After Samuel's death, Saul had expelled all "mediums and spiritists" from Israel (1 Samuel 28:3). [65] Facing the Philistine army and abandoned by God, Saul secretly visited the Witch at Endor to summon the prophet Samuel. [65, 66]
-
-The spirit that appeared delivered an accurate prophecy of doom—Saul and his sons would die in battle the next day. [65] Notably, the woman was initially reluctant because Saul had outlawed her profession, but he assured her she wouldn't be punished.
-
-### Biblical Prohibition
-
-The Bible explicitly forbids necromancy and consulting mediums:
-
-* **Leviticus 19:31**: "Do not turn to mediums or seek out spiritists, for you will be defiled by them" [67]
-* **Deuteronomy 18:9-14**: Forbids the "detestable practices" of the nations, including divination and sorcery
-
-The worst law states: "A man or a woman who is a medium or a wizard shall be put to death; they shall be stoned to death, their blood is upon them." [68]
-
-### Was She Treated Well?
-
-Interestingly, some modern theologians argue the Witch of Endor was actually treated as a **hero** in the narrative. Despite practicing a forbidden art, she showed compassion and hospitality to Saul—her enemy who had expelled her. She fed him and his servants before they went to their fate. Some view her as demonstrating "grace, compassion, and hospitality" in her time of need. [68]
-
-However, the overall biblical treatment of psychic/mediumistic practices remains negative. The distinction in the Bible is between:
-
-* **Prophets** - spoke for God (positive)
-* **Mediums/Necromancers** - communicated with dead (forbidden as "detestable")
-
-**Urim and Thummim** was a God-sanctioned form of divination used by Israelite priests to seek divine guidance (Numbers 27:21, 1 Samuel 30:7-8), but this was a sacred lot system—different from modern psychic ability.
-
-The experiments were unlike anything Geller had experienced before: [11, 12]
-
-* He was placed in an electrically shielded room
-* All target materials were selected after his isolation from experimenters
-* A one-way audio monitor was activated to track his efforts
-* Targets were drawn randomly and sealed in opaque envelopes
-
-### CIA Documents: "Convincing and Unambiguous"
-
-Declassified CIA documents reveal that Geller's performance at SRI was remarkable. According to the official 32-page CIA report: [13, 14]
-
-* Geller successfully reproduced randomly drawn pictures while isolated in a shielded room
-* In one instance, the target was "a bunch of grapes"—Geller drew 24 grapes, matching the target exactly
-* He correctly identified elements of images "drawn and stored in a computer's memory" with no visible information available
-* The document concluded: "Due to Geller's success in this experimental period, we consider that he has demonstrated his paranormal perceptual ability in a convincing and unambiguous manner" [13, 14]
-
-### The Stargate Project Legacy
-
-Geller's success at SRI helped launch what would become known as the **Stargate Project**—a classified U.S. government program investigating "remote viewing" for intelligence gathering. [15, 16]
-
-The program, initially funded by the CIA (1970) and later transferred to the Defense Intelligence Agency, sought to determine whether psychics could gather intelligence about remote, hidden targets. It continued until 1995, when the CIA commissioned the American Institutes for Research to evaluate the program. [16, 17]
-
-Key findings from the declassified research:
-
-* The program studied individuals including Ingo Swann, Pat Price, Joseph McMoneagle, and others [15, 16, 47, 48]
-
-**Joseph McMoneagle** - Known as "Remote Viewer No. 1," McMoneagle was recruited to the program in 1978—five years after Geller's testing at SRI. [47, 48] He was not in the program at the same time as Geller; their involvement was separated by approximately five years. McMoneagle served from 1978-1984 and completed over 450 missions. He was awarded the Legion of Merit for his service and has continued working in remote viewing research in the private sector. [47, 48]
-* Physicist Russell Targ and Dr. Harold Puthoff directed the research [15]
-* Senator Claiborne Pell and Representative Charles Rose were key congressional supporters [16]
-* The AIR report in 1995 was mixed—statistician Jessica Utts found "statistically significant" effects, while psychologist Ray Hyman remained skeptical [16, 17]
-* The CIA concluded the program had not provided operationally useful intelligence [17]
-
-**Note on the Name:** In January 2025, a completely unrelated $500 billion AI infrastructure project called "The Stargate Project" was announced by OpenAI, Oracle, and SoftBank. This new Stargate has no connection to the psychic remote viewing program—it merely shares the name.
-
----
-
-## John Edward: Scientific Evidence for Mediumship
-
-While Randi was busy exposing spoon-benders, a young man on Long Island was discovering his own gift for connecting with the deceased. John Edward would go on to become perhaps the most scientifically tested medium in history.
-
-### Career Overview
-
-John Edward McGee Jr. (born 1969) first discovered his abilities at age 15 when a psychic reading convinced him he could communicate with the dead. He developed his skills reading at fairs and eventually launched the television show "Crossing Over with John Edward" on the Sci-Fi Channel in 2000, which ran until 2004. [18, 19]
-
-His career includes: [18]
-
-* Multiple New York Times bestselling books ("One Last Time," "What If God Were the Sun," "Crossing Over")
-* Sold-out seminars and lectures worldwide
-* A waiting list for private readings that stretched over two years
-* Recent project: EvolvePlus.Tv, an online platform for metaphysical education
-
-### How It Works: Telephathy with the Dead
-
-Edward describes his ability as fundamentally **telepathic communication with deceased consciousness**: [20, 21]
-
-* **Clairvoyance**: "cloudy seeing"—subtle visual impressions, like reading words without seeing them clearly
-* **Clairaudience**: "cloudy hearing"—faint auditory information
-* **Clairsentience**: Feeling sensations from spirit
-
-He works with a team of spirit beings he calls "The Boys"—deceased individuals who assist him in connecting with the recently departed. This is not channeling or possession, but direct telepathic information transfer from the deceased to the medium. [20, 21]
-
-### The HBO Experiments: 83% Accuracy Under Double-Blind Conditions
-
-In 1999-2000, Dr. Gary Schwartz at the University of Arizona's Human Energy Systems Laboratory conducted what remains the most rigorous test of mediumship ever performed. The experiments were filmed for an HBO documentary.
-
-**Experimental Design:** [22, 23, 24]
-
-* Five renowned mediums participated: John Edward, Suzanne Northrop, George Anderson, Anne Gehman, and Laurie Campbell [22, 23]
-* Two sitters (women who had lost multiple loved ones in the past 10 years) were selected [22, 23]
-* Mediums and sitters were separated by a partition
-* Mediums knew only that sitters had experienced multiple losses—no other information
-* Sitters answered only "yes" or "no" questions to minimize cueing
-* The research was double-blind: sitters were blind to which readings were theirs until after scoring
-
-**Results:** [22, 23, 24]
-
-* Average accuracy for all mediums: **83%**
-* Control group (non-mediums guessing): 36%
-* Individual accuracy ranged from 77% to 95%
-* One medium asked only 5 questions but reported 120+ pieces of information rated over 80% accurate [22, 23, 24]
-
-### The Miraval and Canyon Ranch Studies: Triple-Blind
-
-Following the HBO experiments, Dr. Schwartz conducted even more rigorous testing: [25]
-
-**Miraval Silent-Sitter Experiment:**
-
-* Mediums and sitters could not see or hear each other
-* First 10 minutes: sitters completely silent (no feedback at all)
-* Second half: sitters could answer yes/no questions
-* Results: 77% accuracy during silent portion, 83% during yes/no portion [25]
-
-**Canyon Ranch Totally Silent Sitter:**
-
-* Three mediums performed readings with absolutely no response from subjects
-* Subject communicated via an experimenter who relayed yes/no answers
-* Results: Still well above chance, though lower than previous experiments [25]
-
-### Windbridge Institute Research (2008-Present)
-
-John Edward has also participated in ongoing research at the Windbridge Institute (now Windbridge Research Center) in Tucson, Arizona, under the direction of Dr. Julie Beischel.
-
-**Research Highlights:**
-
-* **Triple-blind protocols**: Medium blind to sitter identity, experimenter blind to both, absent sitters score readings later
-* **Certification program**: Edward was among the "Windbridge Certified Research Mediums" (WCRMs)
-* **Ongoing studies**: The "Proof-Focused Study" continues to examine long-term accuracy
-* **Phenomenology research**: Studying the subjective experiences of mediums during readings [26, 27]
-
-Dr. Beischel's research has been published in peer-reviewed journals including Explore: The Journal of Science and Healing and the Journal of Nervous and Mental Disease.
-
-### Other Double-Blind Studies: The Growing Body of Evidence
-
-The John Edward and Schwartz studies are not isolated. A growing body of peer-reviewed research confirms these findings across multiple laboratories and mediums:
-
-**Meta-Analysis (Sarraf et al., 2020)**
-
-A comprehensive meta-analysis of 18 experiments conducted between 2001-2019, using varying levels of blinding, found:
-
-* **Average accuracy 6-14% above chance** - statistically significant
-* **Better performance** by mediums who passed preliminary certification screening
-* Published in peer-reviewed literature [38]
-
-**Tressoldi et al. (2020) - Triple-Blind Study**
-
-Nine professional mediums produced 38 readings under rigorous triple-blind conditions:
-
-* Mediums received only the deceased person's first name
-* Sitters never interacted with mediums
-* Results: **65.8% correct identification** (vs. 50% chance expected)
-* Intended readings had **29.5% more correct information** than control readings
-* Published in Elsevier journal [39]
-
-**Beischel (2007) - Beyond Double-Blind**
-
-Eight research mediums participated in a study published in Explore:
-
-* Sitters correctly identified their intended reading **81% of the time** (p=0.01)
-* Average summary rating: 3.56 for intended vs. 1.94 for control
-* Effect size: 0.5 (considered moderate to large)
-* Six of eight mediums produced positive results in the predicted direction [40]
-
-**Notable Mediums in Research**
-
-Beyond John Edward, these mediums have participated in controlled scientific studies:
-
-* **Suzanne Northrop** - Participated in HBO experiments, Miraval studies
-* **George Anderson** - Renowned medium, HBO experiments
-* **Anne Gehman** - HBO experiments participant
-* **Laurie Campbell** - Longtime research medium, Windbridge certified
-* Various **Windbridge Certified Research Mediums (WCRMs)** - Ongoing studies
-
-**Important Distinction: Scientifically Tested vs. Untested Psychics**
-
-See: **[Investigated Psychics and Fraud](./investigated-psychics-fraud-pigasus.md)**
-
-The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo and Coffey have refused scientific scrutiny.
-
-### The "Chasing Evil" Book: 25 Years of FBI Collaboration
-
-In September 2025, Edward published "Chasing Evil: Shocking Crimes, Supernatural Forces, and an FBI Agent's Search for Hope and Justice" (St. Martin's Press), co-authored with former FBI Special Agent Robert Hilland.
-
-The book documents their 25-year partnership (1998-2023), during which Edward assisted on numerous cold cases: [28, 29]
-
-* The "John Smith" murders (the case that started it all)
-* The murder of Yale student Annie Le
-* The Michael Vick dogfighting investigation
-* Cases in Afghanistan and Kazakhstan
-
-Hilland, initially a skeptic, describes how his "worldview was shattered" by the results. In one notable case, Edward directed investigators to a body hidden in wall pipes—a body that had been missed in previous searches. [28, 29]
-
----
-
-## Mentalists vs. Psychics
-
-See: **[Mentalists vs. Psychics: Understanding the Difference](./mentalists-vs-psychics-oz-pearlman.md)**
-
----
-
-## Critics Who Called Edward a Fraud
-
-Several notable figures have publicly claimed John Edward uses deception: [35, 37]
-
-### James Randi
-
-Randi analyzed Edward's television performances and found only 3 of 23 statements correct. He called Edward a "cold reader" and published his analysis showing the majority of Edward's statements were wrong. [35, 37]
-
-### James Underdown (Independent Investigative Group)
-
-Underdown attended a live "Crossing Over" show in November 2002 and published his observations: [37]
-
-> "John Edward was a bad cold reader. He, too, struggled to get hits, and in one attempt shot off nearly 40 guesses before finding any significant targets."
-
-He also alleged that Edward's television accuracy was "inflated by the editing process" and that "Edward's editor fine-tuned many of the dead-ends out of a reading riddled with misses." [37]
-
-### John Oliver (Last Week Tonight, 2019)
-
-Oliver featured Edward in a segment criticizing the psychic industry, showing clips of failed cold reading attempts. He called the psychic industry "predatory" and said it "emboldens a vast underworld of unscrupulous vultures, more than happy to make money by offering an open line to the afterlife." [37]
-
-### No Lawsuits from Edward
-
-Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward has never filed a defamation lawsuit against any of his critics. He has only responded verbally, denying that he uses cold or hot reading techniques. [37]
-
-Edward's response to criticism has been to point to his willingness to participate in controlled laboratory testing—unlike many psychics who refuse scientific scrutiny.
-
----
-
-## Skeptics Countered
-
-James Randi and other skeptics have criticized both Geller and Edward. Here's why their critiques don't fully explain the results: [34, 35]
-
-### Against Randi's "Cold Reading" Critique
-
-Randi analyzed Edward's television performances and found only 3 of 23 statements correct. However: [35, 37]
-
-1. **Edited broadcasts**: Television shows edit out failures; Randi was analyzing edited content, not live performances
-2. **Pre-show interviews**: Geller and Edward both sometimes conduct pre-show interviews that may leak information
-3. **Laboratory studies bypass these issues**: The HBO experiments, Miraval studies, and Windbridge research were specifically designed to eliminate cold reading through rigorous blinding [22, 23, 24, 25, 26]
-
-### The $1 Million Challenge
-
-Randi famously offered $1 million to any psychic who could demonstrate abilities under controlled conditions. However: [34]
-
-1. **Skeptics set the protocols**: Psychics argued the conditions were designed to make success impossible
-2. **Schwartz's research was independent**: The University of Arizona and Windbridge studies were conducted by credentialed scientists, not by psychics [22, 26]
-3. **The burden of proof**: Getting 83% accuracy in triple-blind studies is extraordinary evidence that deserves serious consideration [22, 23, 24]
-
-### Why Telepathy Remains the Best Explanation
-
-When all conventional explanations are eliminated:
-
-* No visual or auditory contact between medium and sitter
-* No information provided about the deceased
-* Sitters score readings without knowing which readings are theirs
-* Results significantly exceed chance
-
-The most parsimonious explanation is that consciousness can transfer information independent of the physical senses—precisely what mediumship claims.
+**Most Accommodating:**
+- **Las Vegas, Nevada** - Has specific "Psychic Arts License" with clear regulatory pathway [3]
+- **California** - Fortune telling ban struck down in 1985 by state Supreme Court [4]
+- **Arizona** - Legal, protected under religious freedom [5]
 
 ---
 
@@ -312,146 +62,12 @@ The question is no longer whether such phenomena deserve study, but what our und
 
 ## References
 
-[1] [Los Angeles Times - Geller/Randi lawsuit coverage](https://www.latimes.com/archives/la-xpm-1991-09-13-vw-2279-story.html)
+[1] [NYS Penal Law - Fortune Telling](https://www.nysenate.gov/legislation/laws/PEN/165.35)
 
-[2] [Reddit - James Randi destroys Uri Geller](https://www.reddit.com/r/videos/comments/jg8z7t/james_randi_destroys_uri_gellers_career_on_live_tv/)
+[2] [Wikipedia - Legality of fortune-telling](https://en.wikipedia.org/wiki/Legality_of_fortune-telling)
 
-[3] [Wikisource - Geller v. Randi](https://en.wikisource.org/wiki/Geller_v._Randi)
+[3] [City of Las Vegas - Psychic Arts License](https://www.lasvegasnevada.gov/business-licensing/)
 
-[4] [Facebook/WGN Morning News - Johnny Carson's trick](https://www.facebook.com/WGNMorningNews/videos/johnny-carson-has-a-trick-up-his-sleeve-when-alleged-psychic-uri-geller-appears-/344971461716254/)
+[4] [Legal Reader - Tarot Reading in the US](https://www.legalreader.com/tarot-reading-in-the-us-legal-rights-and-restrictions/)
 
-[5] [Reddit - Randi destroys Geller career](https://www.reddit.com/r/videos/comments/jg8z7t/james_randi_destroys_uri_gellers_career_on_live_tv/)
-
-[6] [Reddit - Randi destroys Geller](https://www.reddit.com/r/videos/comments/jg8z7t/james_randi_destroys_uri_gellers_career_on_live_tv/)
-
-[7] [Medium - I debunked Uri Geller](https://sobieski-thearteconomist-9642.medium.com/i-debunked-uri-geller-6fff34c4de17)
-
-[8] [Facebook/TrueCrimeObsessed - Randi recruited for Johnny Carson](https://www.facebook.com/TrueCrimeObsessed/photos/in-1973-the-johnny-carson-show-recruited-james-randi-to-help-them-test-if-uri-ge/3394517147296234/)
-
-[9] [Reddit - Randi on Johnny Carson](https://www.reddit.com/r/videos/comments/jg8z7t/james_randi_destroys_uri_gellers_career_on_live_tv/)
-
-[10] [New York Times - The unbelievability of the Amazing Randi](https://www.nytimes.com/2014/11/09/magazine/the-unbelievable-skepticism-of-the-amazing-randi.html)
-
-[11] [CIA Document - Information Transmission Under Conditions of Sensory Shielding](https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010006-9.pdf)
-
-[12] [CIA Document - Appendix I, Experiments - Uri Geller at SRI](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100480003-3)
-
-[13] [Daily Beast - Secret CIA Tests Found TV Psychic Uri Geller Really Did Have Special Powers](https://www.thedailybeast.com/secret-cia-tests-found-tv-psychic-uri-geller-really-did-have-special-powers/)
-
-[14] [NewsNationNow - Psychic Uri Geller dives into CIA's Stargate Project](https://www.newsnationnow.com/space/ufo/psychic-uri-geller-cia-stargate-project/)
-
-[15] [FAS.org - STAR GATE (Controlled Remote Viewing)](https://irp.fas.org/program/collect/stargate.htm)
-
-[16] [Wikipedia - Stargate Project](https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit))
-
-[17] [Popular Mechanics - Inside Stargate: When Psychics Became U.S. Government Assets](https://www.popularmechanics.com/science/a65932697/cia-psychic-espionage-secrets-revealed/)
-
-[18] [Wikipedia - John Edward](https://en.wikipedia.org/wiki/John_Edward)
-
-[19] [Skeptical Inquirer - Talking to Heaven Through Television](https://skepticalinquirer.org/exclusive/talking-to-heaven-through-television/)
-
-[20] [On Purpose with Jay Shetty Podcast - John Edward interview (2024)](https://omny.fm/shows/on-purpose-with/john-edward-stop-trying-to-move-on-after-loss-use-this-daily-practice-to-make-peace-without-the-answers)
-
-[21] [Reincarnation Research - Contacting the Dead/Gary Schwartz](https://reincarnationresearch.com/contacting-the-dead-or-spirit-beings-spiritual-communication-mediumship-and-gary-e-schwartzs-afterlife-experiments/)
-
-[22] [SurvivalAfterDeath.info - Accuracy and Replicability (Schwartz 2003)](https://www.survivalafterdeath.info/experiments/mental/schwartz03.htm)
-
-[23] [Afterlife Inquiry - Schwartz investigations](https://afterlifeinquiry.com/schwartz-investigations/)
-
-[24] [John Edward WordPress - The Afterlife Experiments](https://johnedwardpsychic.wordpress.com/2013/01/22/the-afterlife-experiments-the-testing-of-john-edward/)
-
-[25] [Schwartz, G.E. with Simon, R. (2002) - The Afterlife Experiments: Breakthrough Scientific Evidence of Life After Death, Chapter 5-12](https://archive.org/details/truthabouturigel0000rand)
-
-[26] [Windbridge Research Center - Mediumship Research](https://www.windbridge.org/mediumship-research/)
-
-[27] [Windbridge - About Dr. Julie Beischel](https://www.windbridge.org/about-us/beischel/)
-
-[28] [Amazon - Chasing Evil by John Edward & Robert Hilland](https://www.amazon.com/Chasing-Evil-Shocking-Supernatural-Justice/dp/1250291755)
-
-[29] [ABC7 NY - Psychic John Edward, FBI agent Bob Hilland talk new book](https://abc7ny.com/post/psychic-john-edward-fbi-agent-bob-hilland-talk-new-book-chasing-evil/18335831/)
-
-[30] [CBS News - Oz Pearlman 60 Minutes](https://www.cbsnews.com/news/mentalist-oz-pearlman-60-minutes/)
-
-[31] [Hollywood Reporter - Mind Games exposé](https://www.hollywoodreporter.com/tv/tv-news/oz-pearlman-deception-exposed-steve-baskin-video-pablo-torre-1236606232/)
-
-[32] [Straight Dope - How did Uri Geller bend spoons?](https://www.straightdope.com/21341830/how-did-uri-geller-bend-spoons)
-
-[33] [Skepdic - Uri Geller](https://skepdic.com/geller.html)
-
-[34] [Skeptic's Dictionary - The Afterlife Experiments review](https://skepdic.com/refuge/afterlife.html)
-
-[35] [Randi Archive - Cold Reading Bingo](https://archive.randi.org/site/jr/2006-04/042106edward.html)
-
-[36] [University of Arizona - Researchers, mediums study communication with the dead](https://wc.arizona.edu/papers/92/152/01_2_m.html)
-
-[37] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
-
-[38] [PubMed - Anomalous information reception by mediums: A meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32660815/)
-
-[39] [ScienceDirect - Mediumship accuracy: A quantitative and qualitative study with a triple-blind protocol](https://www.sciencedirect.com/science/article/abs/pii/S1550830721000975)
-
-[40] [Windbridge - Anomalous Information Reception by Research Mediums](https://www.windbridge.org/papers/BeischelEXPLORE2007vol3.pdf)
-
-[41] [Skeptical Inquirer - Theresa Caputo: The Fake Long Island Medium](https://skepticalinquirer.org/2016/10/theresa-caputo-the-fake-long-island-medium/)
-
-[42] [Wikipedia - Chip Coffey](https://en.wikipedia.org/wiki/Chip_Coffey)
-
-[43] [Wikipedia - James Randi](https://en.wikipedia.org/wiki/James_Randi)
-
-[44] [James Randi Educational Foundation - Pigasus Awards](https://web.archive.org/web/20121116142813/https://www.randi.org/site/index.php?option=com_content&task=view&id=314&Itemid=48)
-
-[45] [BBC - Tech giants announce AI plan worth up to $500bn 'Stargate'](https://www.bbc.com/news/articles/cy4m84d2xz2o)
-
-[46] [OpenAI - Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
-
-[47] [Wikipedia - Joseph McMoneagle](https://en.wikipedia.org/wiki/Joseph_McMoneagle)
-
-[48] [Psi Encyclopedia - Joe McMoneagle](https://psi-encyclopedia.spr.ac.uk/articles/joe-mcmoneagle/)
-
-[49] [SRI International - A Heritage of Innovation](https://www.sri.com/publication/a-heritage-of-innovation-sris-first-half-century/)
-
-[50] [SRI International - Business Model PDF](https://www.sri.com/wp-content/uploads/2022/08/Appendix-D.pdf)
-
-[51] [Sweetspot - SRI International Federal Contracts](https://www.sweetspot.so/markets/federal/contractors/sri-international-srg2j1ws9x63/)
-
-[52] [Journal of Scientific Exploration - What Do We Know About Psi?](https://www.scientificexploration.org/docs/33/jse_33_4_Targ.pdf)
-
-[53] [CIA - Review of Psychoenergetic Research at SRI (1973-1988)](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000300170001-2)
-
-[54] [CIA - SRI Investigation into Parapsychology](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000700020003-2)
-
-[55] [CIA - Government Sponsored Research in Psychoenergetics](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200440001-9.pdf)
-
-[56] [Wikipedia - Ghost (1990 film)](https://en.wikipedia.org/wiki/Ghost_(1990_film))
-
-[57] [BuzzFeed - How Ghost Became One Of The Most Successful Movies Of All Time](https://www.buzzfeed.com/declancashin/the-love-inside-you-take-it-with-you)
-
-[58] [E! Online - 30 Timeless Secrets About Ghost](https://www.eonline.com/news/1170194/30-timeless-secrets-about-ghost-that-will-lift-your-spirits)
-
-[59] [Wikipedia - Ghost (1990 film) - Cultural significance](https://en.wikipedia.org/wiki/Ghost_(1990_film)#Cultural_significance)
-
-[60] [Wikipedia - The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
-
-[61] [Variety - The Sixth Sense Turns 20](https://web.archive.org/web/20190803134332/https://variety.com/2019/film/news/sixth-sense-turns-20-m-night-shyamalan-haley-joel-osment-1203259434/)
-
-[62] [Fresh Air - The Man Behind The Sixth Sense](https://freshairarchive.org/segments/man-behind-sixth-sense)
-
-[63] [Hinduism Today - America Loves Shyamalan](https://www.hinduismtoday.com/magazine/march-april-2001/2001-03-america-loves-shyamalan/)
-
-[64] [Philadelphia Inquirer - How The Sixth Sense made M. Night Shyamalan and Philly into stars](https://www.inquirer.com/entertainment/movies/sixth-sense-25-year-anniversary-20240808.html)
-
-[65] [Bible Gateway - 1 Samuel 28](https://bible.com.au/NIV/1SA/28/)
-
-[66] [Wikipedia - Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)
-
-[67] [Jewish Encyclopedia - Endor, the Witch of](https://www.jewishencyclopedia.com/articles/5755-endor-the-witch-of)
-
-[68] [Pastor Adam Ericksen - The Heroic Witch of the Bible](https://adamericksen.org/the-heroic-witch-of-the-bible/)
-
----
-
-## Related Blurbs
-
-- [Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md) - The rivalry, Tonight Show, Stargate Project
-- [John Edward: Scientific Evidence for Mediumship](./john-edward-mediumship-scientific-evidence.md) - Research studies, FBI cases, critics
-- [Biblical Prophets and the Distinction from Mediums](./biblical-prophets-mediumship-prophecy.md) - Prophets vs. mediums in scripture
+[5] [Magickal Spot - Witchcraft & Divination in Arizona](https://magickalspot.com/witchcraft-divination-arizona-legality-laws/)
