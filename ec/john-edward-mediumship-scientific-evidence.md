@@ -39,6 +39,28 @@ His career includes:
 
 **[John Edward Books on Amazon](https://www.amazon.com/dp/B000FBJCJE/?tag=psychicblurbs-20)** | **[Crossing Over: Complete Series (2000-2004)](https://www.amazon.com/dp/B000VZVQR6/?tag=psychicblurbs-20)**
 
+### Watch John Edward
+
+**Recent Interviews (2024-2026):**
+
+* **[Jay Shetty Podcast - The TRUTH About Life After Death (Jan 2026)](https://www.youtube.com/watch?v=PiV8OWNRd5w)** - In-depth conversation about grief, healing, and survival of consciousness; Edward explains how he receives information through clairvoyance, clairaudience, and clairsentience [50]
+
+* **[Inside of You with Michael Rosenbaum - Confronting Cynicism (Aug 2025)](https://www.youtube.com/watch?v=qyWHJphT2bQ)** - Edward discusses working with the FBI, being blackballed from Dr. Phil, and handling public cynicism [51]
+
+* **[Maria Menounos - Becoming Your Own Psychic (Sep 2025)](https://www.youtube.com/watch?v=sCQLQnt88Ag)** - Teaching how to tap into intuition, psychic self-defense, protecting energy [52]
+
+* **[DEAD Talks Podcast - Grief Advice (Apr 2026)](https://www.youtube.com/watch?v=nWhAIgtT_kA)** - Working with skeptics and law enforcement, how to spot fake mediums, why grief has no timeline [53]
+
+* **[A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo)** - His secret work with the FBI, "Chasing Evil" book, 40+ year journey [54]
+
+**Gallery Readings:**
+
+* **[Drew Barrymore Show (Mar 2024)](https://www.youtube.com/shorts/GYn9q621UFY)** - Live reading for studio audience
+
+* **[Ellen Show (Jun 2025)](https://www.facebook.com/ellentv/videos/psychic-medium-john-edward-does-a-live-reading-for-my-audience/2017058562436053/)** - Live reading for Ellen's audience
+
+* **[Ed Mylett Interview (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ)** - Detailed explanation of his process, how messages are received, dealing with skeptics (1.5M views) [55]
+
 ### A Note on Popularity
 
 Even critics took notice—John Edward was featured in a **South Park** episode titled "The Biggest Douche in the Universe" (2002), where he was crowned just that. [26] Given the show's reputation for brutal satire, being featured at all is perhaps the ultimate tongue-in-cheek compliment to his cultural impact and fame.
@@ -394,3 +416,15 @@ The most parsimonious explanation is that consciousness can transfer information
 [48] [Today - Psychic John Edward Shares His 'Energetic Parenting' Strategy](https://www.today.com/life/astrology/john-edward-psychic-parenting-interview-rcna119573)
 
 [49] [Julia Hatmaker - Psychic John Edward connects with the dead, science and skeptics](https://juliahatmaker.com/2012/05/24/psychic-john-edward-connects-with-the-dead-science-and-skeptics/)
+
+[50] [YouTube - Jay Shetty Podcast: The TRUTH About Life After Death (Jan 2026)](https://www.youtube.com/watch?v=PiV8OWNRd5w)
+
+[51] [YouTube - Inside of You with Michael Rosenbaum: Confronting Cynicism (Aug 2025)](https://www.youtube.com/watch?v=qyWHJphT2bQ)
+
+[52] [YouTube - Maria Menounos: Becoming Your Own Psychic (Sep 2025)](https://www.youtube.com/watch?v=sCQLQnt88Ag)
+
+[53] [YouTube - DEAD Talks: Incredible Grief Advice (Apr 2026)](https://www.youtube.com/watch?v=nWhAIgtT_kA)
+
+[54] [YouTube - A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo)
+
+[55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ)
