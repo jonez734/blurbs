@@ -6,7 +6,23 @@ While James Randi was busy exposing spoon-benders like Uri Geller, a young man o
 
 ## Career Overview
 
-John Edward McGee Jr. (born 1969) first discovered his abilities at age 15 when a psychic reading convinced him he could communicate with the dead. He developed his skills reading at fairs and eventually launched the television show "Crossing Over with John Edward" on the Sci-Fi Channel in 2000, which ran until 2004. [1, 2]
+John Edward McGee Jr. (born 1969) first discovered his abilities at age 15 when a psychic reading convinced him he could communicate with the dead. He developed his skills reading at fairs and eventually launched the television show that would revolutionize the genre: "Crossing Over with John Edward." [1, 2]
+
+### Crossing Over: A Television Phenomenon
+
+"Crossing Over with John Edward" premiered on the Sci-Fi Channel in 2000 and became a television sensation:
+
+* **First syndicated show** focused entirely on psychic mediumship—pioneering the genre worldwide [1, 2]
+* **Ran for four seasons** (2000-2004) and was syndicated to over 100 countries [1, 2]
+* **Global reach**: Broadcast in the US, UK (on Living TV), Australia, and numerous other countries [2]
+* **Pioneering format**: First TV show devoted to psychic mediumship to achieve worldwide syndication [2]
+
+The show's format evolved and improved with each iteration:
+
+1. **Crossing Over with John Edward** (Sci-Fi Channel, 2000-2004) - The original that pioneered the genre
+2. **John Edward Cross Country** (WE tv, 2006-2009) - A follow-up series that traveled across America [23]
+
+Both shows featured Edward giving psychic readings to studio audience members, with messages from deceased loved ones that audience members would validate and confirm. [1]
 
 His career includes:
 
@@ -274,3 +290,5 @@ The most parsimonious explanation is that consciousness can transfer information
 [21] [Ottawa Citizen - The healthy skeptic: Psychic John Edward says just watch me](https://ottawacitizen.com/entertainment/local-arts/the-healthy-skeptic-psychic-john-edward-says-just-watch-me)
 
 [22] [Penn Live - Interview with psychic John Edward: 'I've never felt the need to convince or convert people'](https://www.pennlive.com/entertainment/2015/05/psychic_john_edward.html)
+
+[23] [Wikipedia - John Edward Cross Country](https://en.wikipedia.org/wiki/John_Edward_Cross_Country)
