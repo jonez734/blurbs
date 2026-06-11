@@ -226,30 +226,9 @@ Hilland, initially a skeptic, describes how his "worldview was shattered" by the
 
 ---
 
-## The Mentalist Comparison: Oz Pearlman
+## Mentalists vs. Psychics
 
-To understand the difference between genuine mediumship and theatrical mentalism, consider Oz Pearlman, one of today's most famous mentalists.
-
-### How Pearlman Explains His "Mind Reading"
-
-Pearlman has appeared on 60 Minutes and given TED Talks about his abilities. Crucially, he **admits he is not psychic**: [30]
-
-> "The lie is that I can read minds. I read people."
-
-His actual methods: [30, 31]
-
-* **Psychological forcing**: Subtly nudging audience members toward predetermined choices through word emphasis, pacing, and framing
-* **Body language analysis**: Reading micro-expressions, eye movements, and hand positioning
-* **Pre-show research**: Many performances involve gathering information about audience members beforehand
-* **Technology**: Critics have alleged use of phones, surveillance, and "gimmicked" notepads [31]
-
-### Key Difference: Pearlman Admits It's All Trickery
-
-Unlike genuine mediums like John Edward, Pearlman's entire act is based on the premise that he's simply very good at reading people through non-supernatural means. He explicitly states: [30]
-
-> "I do not possess any supernatural powers. I am not a psychic. This is a learnable skill."
-
-This stands in stark contrast to Edward's position, verified under controlled laboratory conditions, that he receives information from deceased individuals through telepathic means. [30]
+See: **[Mentalists vs. Psychics: Understanding the Difference](./mentalists-vs-psychics-oz-pearlman.md)**
 
 ---
 
