@@ -78,7 +78,9 @@ The program, initially funded by the CIA (1970) and later transferred to the Def
 
 Key findings from the declassified research:
 
-* The program studied individuals including Ingo Swann, Pat Price, Joseph McMoneagle, and others [15, 16]
+* The program studied individuals including Ingo Swann, Pat Price, Joseph McMoneagle, and others [15, 16, 47, 48]
+
+**Joseph McMoneagle** - Known as "Remote Viewer No. 1," McMoneagle was recruited to the program in 1978—five years after Geller's testing at SRI. [47, 48] He was not in the program at the same time as Geller; their involvement was separated by approximately five years. McMoneagle served from 1978-1984 and completed over 450 missions. He was awarded the Legion of Merit for his service and has continued working in remote viewing research in the private sector. [47, 48]
 * Physicist Russell Targ and Dr. Harold Puthoff directed the research [15]
 * Senator Claiborne Pell and Representative Charles Rose were key congressional supporters [16]
 * The AIR report in 1995 was mixed—statistician Jessica Utts found "statistically significant" effects, while psychologist Ray Hyman remained skeptical [16, 17]
@@ -419,3 +421,7 @@ The question is no longer whether such phenomena deserve study, but what our und
 [45] [BBC - Tech giants announce AI plan worth up to $500bn 'Stargate'](https://www.bbc.com/news/articles/cy4m84d2xz2o)
 
 [46] [OpenAI - Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
+
+[47] [Wikipedia - Joseph McMoneagle](https://en.wikipedia.org/wiki/Joseph_McMoneagle)
+
+[48] [Psi Encyclopedia - Joe McMoneagle](https://psi-encyclopedia.spr.ac.uk/articles/joe-mcmoneagle/)
