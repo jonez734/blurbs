@@ -20,7 +20,7 @@ James Randi dedicated much of his career to exposing what he called the "sleight
 
 ### Pre-Bending Technique Revealed
 
-Randi revealed that Geller's famous spoon-bending depended on **pre-working the metals** before performances. The technique:
+Randi revealed that Geller's famous spoon-bending depended on **pre-working the metals** before performances. The technique: [32, 33]
 
 1. Geller would secretly bend the spoon or key beforehand, concealing the bent portion in his palm
 2. During the "performance," he would display the spoon with the bowl facing outward—appearing straight
@@ -29,7 +29,7 @@ Randi revealed that Geller's famous spoon-bending depended on **pre-working the 
 
 ### Randi's Live Demonstrations
 
-In 1988, Randi performed live on television demonstrating exactly how Geller's tricks worked:
+In 1988, Randi performed live on television demonstrating exactly how Geller's tricks worked: [10]
 
 * **The "Ratcheting" Technique**: Demonstrated how a key can be bent incrementally by pressing it against surfaces (table edges, chair seats) while seemingly engaged in conversation
 * **Hidden Preparation**: Showed how metals could be pre-worked and concealed
@@ -48,13 +48,13 @@ Randi's coaching to Johnny Carson involved:
 
 ## Uri Geller and the Stargate Project
 
-The exposure on The Tonight Show might have ended Geller's television career, but it actually marked the beginning of his involvement with U.S. intelligence agencies. In 1973, shortly after the Carson incident, Geller was recruited for a top-secret government research program.
+The exposure on The Tonight Show might have ended Geller's television career, but it actually marked the beginning of his involvement with U.S. intelligence agencies. In 1973, shortly after the Carson incident, Geller was recruited for a top-secret government research program. [11, 12, 14]
 
 ### The Stanford Research Institute Experiments
 
 Geller was brought to the Stanford Research Institute (SRI) in California for a week of intensive testing in August 1973. Scientists Harold Puthoff and Russell Targ—physicists with backgrounds at the National Security Agency—conducted experiments designed to determine if Geller possessed genuine psychic abilities. [11, 12]
 
-The experiments were unlike anything Geller had experienced before:
+The experiments were unlike anything Geller had experienced before: [11, 12]
 
 * He was placed in an electrically shielded room
 * All target materials were selected after his isolation from experimenters
@@ -63,7 +63,7 @@ The experiments were unlike anything Geller had experienced before:
 
 ### CIA Documents: "Convincing and Unambiguous"
 
-Declassified CIA documents reveal that Geller's performance at SRI was remarkable. According to the official 32-page CIA report:
+Declassified CIA documents reveal that Geller's performance at SRI was remarkable. According to the official 32-page CIA report: [13, 14]
 
 * Geller successfully reproduced randomly drawn pictures while isolated in a shielded room
 * In one instance, the target was "a bunch of grapes"—Geller drew 24 grapes, matching the target exactly
@@ -72,17 +72,17 @@ Declassified CIA documents reveal that Geller's performance at SRI was remarkabl
 
 ### The Stargate Project Legacy
 
-Geller's success at SRI helped launch what would become known as the **Stargate Project**—a classified U.S. government program investigating "remote viewing" for intelligence gathering.
+Geller's success at SRI helped launch what would become known as the **Stargate Project**—a classified U.S. government program investigating "remote viewing" for intelligence gathering. [15, 16]
 
-The program, initially funded by the CIA (1970) and later transferred to the Defense Intelligence Agency, sought to determine whether psychics could gather intelligence about remote, hidden targets. It continued until 1995, when the CIA commissioned the American Institutes for Research to evaluate the program.
+The program, initially funded by the CIA (1970) and later transferred to the Defense Intelligence Agency, sought to determine whether psychics could gather intelligence about remote, hidden targets. It continued until 1995, when the CIA commissioned the American Institutes for Research to evaluate the program. [16, 17]
 
 Key findings from the declassified research:
 
-* The program studied individuals including Ingo Swann, Pat Price, Joseph McMoneagle, and others
-* Physicist Russell Targ and Dr. Harold Puthoff directed the research
-* Senator Claiborne Pell and Representative Charles Rose were key congressional supporters
-* The AIR report in 1995 was mixed—statistician Jessica Utts found "statistically significant" effects, while psychologist Ray Hyman remained skeptical
-* The CIA concluded the program had not provided operationally useful intelligence [15, 16, 17]
+* The program studied individuals including Ingo Swann, Pat Price, Joseph McMoneagle, and others [15, 16]
+* Physicist Russell Targ and Dr. Harold Puthoff directed the research [15]
+* Senator Claiborne Pell and Representative Charles Rose were key congressional supporters [16]
+* The AIR report in 1995 was mixed—statistician Jessica Utts found "statistically significant" effects, while psychologist Ray Hyman remained skeptical [16, 17]
+* The CIA concluded the program had not provided operationally useful intelligence [17]
 
 ---
 
@@ -94,7 +94,7 @@ While Randi was busy exposing spoon-benders, a young man on Long Island was disc
 
 John Edward McGee Jr. (born 1969) first discovered his abilities at age 15 when a psychic reading convinced him he could communicate with the dead. He developed his skills reading at fairs and eventually launched the television show "Crossing Over with John Edward" on the Sci-Fi Channel in 2000, which ran until 2004. [18, 19]
 
-His career includes:
+His career includes: [18]
 
 * Multiple New York Times bestselling books ("One Last Time," "What If God Were the Sun," "Crossing Over")
 * Sold-out seminars and lectures worldwide
@@ -103,7 +103,7 @@ His career includes:
 
 ### How It Works: Telephathy with the Dead
 
-Edward describes his ability as fundamentally **telepathic communication with deceased consciousness**:
+Edward describes his ability as fundamentally **telepathic communication with deceased consciousness**: [20, 21]
 
 * **Clairvoyance**: "cloudy seeing"—subtle visual impressions, like reading words without seeing them clearly
 * **Clairaudience**: "cloudy hearing"—faint auditory information
@@ -115,16 +115,16 @@ He works with a team of spirit beings he calls "The Boys"—deceased individuals
 
 In 1999-2000, Dr. Gary Schwartz at the University of Arizona's Human Energy Systems Laboratory conducted what remains the most rigorous test of mediumship ever performed. The experiments were filmed for an HBO documentary.
 
-**Experimental Design:**
+**Experimental Design:** [22, 23, 24]
 
-* Five renowned mediums participated: John Edward, Suzanne Northrop, George Anderson, Anne Gehman, and Laurie Campbell
-* Two sitters (women who had lost multiple loved ones in the past 10 years) were selected
+* Five renowned mediums participated: John Edward, Suzanne Northrop, George Anderson, Anne Gehman, and Laurie Campbell [22, 23]
+* Two sitters (women who had lost multiple loved ones in the past 10 years) were selected [22, 23]
 * Mediums and sitters were separated by a partition
 * Mediums knew only that sitters had experienced multiple losses—no other information
 * Sitters answered only "yes" or "no" questions to minimize cueing
 * The research was double-blind: sitters were blind to which readings were theirs until after scoring
 
-**Results:**
+**Results:** [22, 23, 24]
 
 * Average accuracy for all mediums: **83%**
 * Control group (non-mediums guessing): 36%
@@ -133,7 +133,7 @@ In 1999-2000, Dr. Gary Schwartz at the University of Arizona's Human Energy Syst
 
 ### The Miraval and Canyon Ranch Studies: Triple-Blind
 
-Following the HBO experiments, Dr. Schwartz conducted even more rigorous testing:
+Following the HBO experiments, Dr. Schwartz conducted even more rigorous testing: [25]
 
 **Miraval Silent-Sitter Experiment:**
 
@@ -215,7 +215,7 @@ The difference: Mediums like John Edward have voluntarily participated in decade
 
 In September 2025, Edward published "Chasing Evil: Shocking Crimes, Supernatural Forces, and an FBI Agent's Search for Hope and Justice" (St. Martin's Press), co-authored with former FBI Special Agent Robert Hilland.
 
-The book documents their 25-year partnership (1998-2023), during which Edward assisted on numerous cold cases:
+The book documents their 25-year partnership (1998-2023), during which Edward assisted on numerous cold cases: [28, 29]
 
 * The "John Smith" murders (the case that started it all)
 * The murder of Yale student Annie Le
@@ -232,20 +232,20 @@ To understand the difference between genuine mediumship and theatrical mentalism
 
 ### How Pearlman Explains His "Mind Reading"
 
-Pearlman has appeared on 60 Minutes and given TED Talks about his abilities. Crucially, he **admits he is not psychic**:
+Pearlman has appeared on 60 Minutes and given TED Talks about his abilities. Crucially, he **admits he is not psychic**: [30]
 
 > "The lie is that I can read minds. I read people."
 
-His actual methods:
+His actual methods: [30, 31]
 
 * **Psychological forcing**: Subtly nudging audience members toward predetermined choices through word emphasis, pacing, and framing
 * **Body language analysis**: Reading micro-expressions, eye movements, and hand positioning
 * **Pre-show research**: Many performances involve gathering information about audience members beforehand
-* **Technology**: Critics have alleged use of phones, surveillance, and "gimmicked" notepads [30, 31]
+* **Technology**: Critics have alleged use of phones, surveillance, and "gimmicked" notepads [31]
 
 ### Key Difference: Pearlman Admits It's All Trickery
 
-Unlike genuine mediums like John Edward, Pearlman's entire act is based on the premise that he's simply very good at reading people through non-supernatural means. He explicitly states:
+Unlike genuine mediums like John Edward, Pearlman's entire act is based on the premise that he's simply very good at reading people through non-supernatural means. He explicitly states: [30]
 
 > "I do not possess any supernatural powers. I am not a psychic. This is a learnable skill."
 
@@ -255,27 +255,27 @@ This stands in stark contrast to Edward's position, verified under controlled la
 
 ## Critics Who Called Edward a Fraud
 
-Several notable figures have publicly claimed John Edward uses deception:
+Several notable figures have publicly claimed John Edward uses deception: [35, 37]
 
 ### James Randi
 
-Randi analyzed Edward's television performances and found only 3 of 23 statements correct. He called Edward a "cold reader" and published his analysis showing the majority of Edward's statements were wrong. [35]
+Randi analyzed Edward's television performances and found only 3 of 23 statements correct. He called Edward a "cold reader" and published his analysis showing the majority of Edward's statements were wrong. [35, 37]
 
 ### James Underdown (Independent Investigative Group)
 
-Underdown attended a live "Crossing Over" show in November 2002 and published his observations:
+Underdown attended a live "Crossing Over" show in November 2002 and published his observations: [37]
 
 > "John Edward was a bad cold reader. He, too, struggled to get hits, and in one attempt shot off nearly 40 guesses before finding any significant targets."
 
-He also alleged that Edward's television accuracy was "inflated by the editing process" and that "Edward's editor fine-tuned many of the dead-ends out of a reading riddled with misses."
+He also alleged that Edward's television accuracy was "inflated by the editing process" and that "Edward's editor fine-tuned many of the dead-ends out of a reading riddled with misses." [37]
 
 ### John Oliver (Last Week Tonight, 2019)
 
-Oliver featured Edward in a segment criticizing the psychic industry, showing clips of failed cold reading attempts. He called the psychic industry "predatory" and said it "emboldens a vast underworld of unscrupulous vultures, more than happy to make money by offering an open line to the afterlife."
+Oliver featured Edward in a segment criticizing the psychic industry, showing clips of failed cold reading attempts. He called the psychic industry "predatory" and said it "emboldens a vast underworld of unscrupulous vultures, more than happy to make money by offering an open line to the afterlife." [37]
 
 ### No Lawsuits from Edward
 
-Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward has never filed a defamation lawsuit against any of his critics. He has only responded verbally, denying that he uses cold or hot reading techniques.
+Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward has never filed a defamation lawsuit against any of his critics. He has only responded verbally, denying that he uses cold or hot reading techniques. [37]
 
 Edward's response to criticism has been to point to his willingness to participate in controlled laboratory testing—unlike many psychics who refuse scientific scrutiny.
 
@@ -283,23 +283,23 @@ Edward's response to criticism has been to point to his willingness to participa
 
 ## Skeptics Countered
 
-James Randi and other skeptics have criticized both Geller and Edward. Here's why their critiques don't fully explain the results:
+James Randi and other skeptics have criticized both Geller and Edward. Here's why their critiques don't fully explain the results: [34, 35]
 
 ### Against Randi's "Cold Reading" Critique
 
-Randi analyzed Edward's television performances and found only 3 of 23 statements correct. However:
+Randi analyzed Edward's television performances and found only 3 of 23 statements correct. However: [35, 37]
 
 1. **Edited broadcasts**: Television shows edit out failures; Randi was analyzing edited content, not live performances
 2. **Pre-show interviews**: Geller and Edward both sometimes conduct pre-show interviews that may leak information
-3. **Laboratory studies bypass these issues**: The HBO experiments, Miraval studies, and Windbridge research were specifically designed to eliminate cold reading through rigorous blinding
+3. **Laboratory studies bypass these issues**: The HBO experiments, Miraval studies, and Windbridge research were specifically designed to eliminate cold reading through rigorous blinding [22, 23, 24, 25, 26]
 
 ### The $1 Million Challenge
 
-Randi famously offered $1 million to any psychic who could demonstrate abilities under controlled conditions. However:
+Randi famously offered $1 million to any psychic who could demonstrate abilities under controlled conditions. However: [34]
 
 1. **Skeptics set the protocols**: Psychics argued the conditions were designed to make success impossible
-2. **Schwartz's research was independent**: The University of Arizona and Windbridge studies were conducted by credentialed scientists, not by psychics
-3. **The burden of proof**: Getting 83% accuracy in triple-blind studies is extraordinary evidence that deserves serious consideration
+2. **Schwartz's research was independent**: The University of Arizona and Windbridge studies were conducted by credentialed scientists, not by psychics [22, 26]
+3. **The burden of proof**: Getting 83% accuracy in triple-blind studies is extraordinary evidence that deserves serious consideration [22, 23, 24]
 
 ### Why Telepathy Remains the Best Explanation
 
@@ -409,3 +409,7 @@ The question is no longer whether such phenomena deserve study, but what our und
 [41] [Skeptical Inquirer - Theresa Caputo: The Fake Long Island Medium](https://skepticalinquirer.org/2016/10/theresa-caputo-the-fake-long-island-medium/)
 
 [42] [Wikipedia - Chip Coffey](https://en.wikipedia.org/wiki/Chip_Coffey)
+
+[43] [Wikipedia - James Randi](https://en.wikipedia.org/wiki/James_Randi)
+
+[44] [James Randi Educational Foundation - Pigasus Awards](https://web.archive.org/web/20121116142813/https://www.randi.org/site/index.php?option=com_content&task=view&id=314&Itemid=48)
