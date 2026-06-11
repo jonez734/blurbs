@@ -49,6 +49,16 @@ Despite its initial success, "Crossing Over with John Edward" was canceled in 20
 
 **WTC Controversy**: In 2001, shortly after 9/11, producers planned a special where Edward would connect with victims' families. The plan sparked a national outcry over exploitation of the tragedy, and the special was canceled. [30]
 
+**Role of Skeptics**: The cancellation was primarily a **business decision** due to falling ratings, but skeptics had been actively publishing criticisms for years, which may have contributed to declining viewership:
+
+* **James Randi** analyzed Edward's shows and found only 3 of 23 statements correct—published in TV Guide [31]
+* **Skeptical Inquirer** published "John Edward: Hustling the Bereaved" (2001) by Joe Nickell [32]
+* **JREF** offered Edward the $1 million challenge multiple times—he consistently refused [33]
+* **James Underdown** (IIG) attended a live show in 2002 and called him "a bad cold reader" [34]
+* **Pre-show questionnaires**: Critics noted that audience members filled out forms beforehand, which could constitute "hot reading" [34]
+
+Edward never accepted Randi's $1 million challenge, unlike other psychics who at least attempted testing. The ongoing skeptic criticism may have made it harder to get renewed and contributed to the declining audience, though the primary factor was simply poor ratings performance.
+
 Edward moved on to "John Edward Cross Country" on WE tv (2006-2009), but eventually left traditional television altogether to focus on his online platform, Evolve Plus. [23]
 
 ---
@@ -326,3 +336,11 @@ The most parsimonious explanation is that consciousness can transfer information
 [29] [TV Guide - John Edward Is One Psyched Psychic](https://www.tvguide.com/news/john-edward-psyched-41139/)
 
 [30] [Wikipedia - Crossing Over with John Edward](https://en.wikipedia.org/wiki/Crossing_Over_with_John_Edward)
+
+[31] [Randi Archive - Cold Reading Bingo](https://archive.randi.org/site/jr/2006-04/042106edward.html)
+
+[32] [Skeptical Inquirer - John Edward: Hustling the Bereaved](https://skepticalinquirer.org/2001/11/john-edward-hustling-the-bereaved/)
+
+[33] [JREF - Anderson Episode Decries John Edward](https://archive.randi.org/site/index.php/jref-news/1478-jref-decries-anderson-episode-featuring-psychic-medium-john-edward.html)
+
+[34] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
