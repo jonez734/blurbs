@@ -20,6 +20,12 @@ See: **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth
 
 ---
 
+## Scientific Research Overview
+
+See: **[Scientific Studies on Psychic Phenomena](./scientific-studies-psychic-phenomena-overview.md)**
+
+---
+
 ## Biblical Psychics and Mediums: The Forbidden Arts
 
 The Bible contains the earliest documented accounts of mediumship and psychic practices, with a consistently negative treatment of such abilities.
