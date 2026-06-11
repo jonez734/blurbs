@@ -73,6 +73,10 @@ Edward describes his ability as fundamentally **telepathic communication with de
 
 He works with a team of spirit beings he calls "The Boys"—deceased individuals who assist him in connecting with the recently departed. This is not channeling or possession, but direct telepathic information transfer from the deceased to the medium. [3, 4]
 
+### Client Support
+
+Recognizing the emotional intensity of his readings, Edward maintains **counselors on staff** who are available to speak with clients after readings. This support system helps people process the emotional impact of connecting with deceased loved ones, demonstrating his commitment to ethical practice and client wellbeing.
+
 ---
 
 ## The HBO Experiments: 83% Accuracy Under Double-Blind Conditions
