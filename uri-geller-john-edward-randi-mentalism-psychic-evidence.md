@@ -131,6 +131,38 @@ Shyamalan grew up in Philadelphia but drew from his family's Indian heritage. He
 
 The film was shot in Shyamalan's hometown of Philadelphia, and child actors Mischa Barton and Haley Joel Osment reportedly believed the filming locations were genuinely haunted. [64]
 
+---
+
+## Biblical Psychics and Mediums: The Forbidden Arts
+
+The Bible contains the earliest documented accounts of mediumship and psychic practices, with a consistently negative treatment of such abilities.
+
+### The Witch of Endor (1 Samuel 28)
+
+The most famous biblical example is the **Witch of Endor**—a medium consulted by King Saul. After Samuel's death, Saul had expelled all "mediums and spiritists" from Israel (1 Samuel 28:3). [65] Facing the Philistine army and abandoned by God, Saul secretly visited the Witch at Endor to summon the prophet Samuel. [65, 66]
+
+The spirit that appeared delivered an accurate prophecy of doom—Saul and his sons would die in battle the next day. [65] Notably, the woman was initially reluctant because Saul had outlawed her profession, but he assured her she wouldn't be punished.
+
+### Biblical Prohibition
+
+The Bible explicitly forbids necromancy and consulting mediums:
+
+* **Leviticus 19:31**: "Do not turn to mediums or seek out spiritists, for you will be defiled by them" [67]
+* **Deuteronomy 18:9-14**: Forbids the "detestable practices" of the nations, including divination and sorcery
+
+The worst law states: "A man or a woman who is a medium or a wizard shall be put to death; they shall be stoned to death, their blood is upon them." [68]
+
+### Was She Treated Well?
+
+Interestingly, some modern theologians argue the Witch of Endor was actually treated as a **hero** in the narrative. Despite practicing a forbidden art, she showed compassion and hospitality to Saul—her enemy who had expelled her. She fed him and his servants before they went to their fate. Some view her as demonstrating "grace, compassion, and hospitality" in her time of need. [68]
+
+However, the overall biblical treatment of psychic/mediumistic practices remains negative. The distinction in the Bible is between:
+
+* **Prophets** - spoke for God (positive)
+* **Mediums/Necromancers** - communicated with dead (forbidden as "detestable")
+
+**Urim and Thummim** was a God-sanctioned form of divination used by Israelite priests to seek divine guidance (Numbers 27:21, 1 Samuel 30:7-8), but this was a sacred lot system—different from modern psychic ability.
+
 The experiments were unlike anything Geller had experienced before: [11, 12]
 
 * He was placed in an electrically shielded room
@@ -534,3 +566,11 @@ The question is no longer whether such phenomena deserve study, but what our und
 [63] [Hinduism Today - America Loves Shyamalan](https://www.hinduismtoday.com/magazine/march-april-2001/2001-03-america-loves-shyamalan/)
 
 [64] [Philadelphia Inquirer - How The Sixth Sense made M. Night Shyamalan and Philly into stars](https://www.inquirer.com/entertainment/movies/sixth-sense-25-year-anniversary-20240808.html)
+
+[65] [Bible Gateway - 1 Samuel 28](https://bible.com.au/NIV/1SA/28/)
+
+[66] [Wikipedia - Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)
+
+[67] [Jewish Encyclopedia - Endor, the Witch of](https://www.jewishencyclopedia.com/articles/5755-endor-the-witch-of)
+
+[68] [Pastor Adam Ericksen - The Heroic Witch of the Bible](https://adamericksen.org/the-heroic-witch-of-the-bible/)
