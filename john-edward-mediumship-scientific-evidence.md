@@ -182,6 +182,26 @@ Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward ha
 
 Edward's response to criticism has been to point to his willingness to participate in controlled laboratory testing—unlike many psychics who refuse scientific scrutiny.
 
+### Edward's Response: Letting the Work Speak for Itself
+
+Rather than engage in public battles with critics, John Edward has consistently taken the approach of letting his work demonstrate its validity:
+
+**"I can't disrespect the work"**
+
+In a 2018 interview with the Sydney Morning Herald, Edward explained his philosophy: he refuses to attack skeptics personally and instead focuses on the work itself. The title of the interview captured his sentiment—"Lunch with John Edward: I can't disrespect the work." [20]
+
+**"Just watch me"**
+
+When asked about his response to critics, Edward has said: "He says the critics don't bother him. 'I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers.'" [21]
+
+This approach—rather than attacking skeptics—invites them to observe his work and draw their own conclusions.
+
+**"I've never felt the need to convince or convert people"**
+
+In a 2015 interview with Penn Live, Edward stated: "I've never felt the need to convince or convert people. I don't think that's appropriate." He explained that he respects both believers and skeptics, and only asks that skeptics respect that others have different beliefs. [22]
+
+This philosophy reflects Edward's core approach: rather than arguing with critics, he lets his decades of scientific participation and client work speak for itself. His participation in controlled studies (HBO experiments, Windbridge research) and his 25-year FBI collaboration are his response to skepticism—not attacks on his critics.
+
 ---
 
 ## Skeptics Countered
@@ -248,3 +268,9 @@ The most parsimonious explanation is that consciousness can transfer information
 [18] [Randi Archive - Cold Reading Bingo](https://archive.randi.org/site/jr/2006-04/042106edward.html)
 
 [19] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
+
+[20] [Sydney Morning Herald - Lunch with John Edward: I can't disrespect the work](https://www.smh.com.au/entertainment/lunch-with-john-edward-i-cant-disrespect-the-work-20181019-h16uns.html)
+
+[21] [Ottawa Citizen - The healthy skeptic: Psychic John Edward says just watch me](https://ottawacitizen.com/entertainment/local-arts/the-healthy-skeptic-psychic-john-edward-says-just-watch-me)
+
+[22] [Penn Live - Interview with psychic John Edward: 'I've never felt the need to convince or convert people'](https://www.pennlive.com/entertainment/2015/05/psychic_john_edward.html)
