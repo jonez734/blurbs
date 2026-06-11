@@ -574,3 +574,7 @@ The question is no longer whether such phenomena deserve study, but what our und
 [67] [Jewish Encyclopedia - Endor, the Witch of](https://www.jewishencyclopedia.com/articles/5755-endor-the-witch-of)
 
 [68] [Pastor Adam Ericksen - The Heroic Witch of the Bible](https://adamericksen.org/the-heroic-witch-of-the-bible/)
+
+---
+
+*See also: [Biblical Prophets and the Distinction from Mediums](./biblical-prophets-mediumship-prophecy.md)*
