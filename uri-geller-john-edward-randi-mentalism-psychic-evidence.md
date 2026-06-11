@@ -203,6 +203,34 @@ This stands in stark contrast to Edward's position, verified under controlled la
 
 ---
 
+## Critics Who Called Edward a Fraud
+
+Several notable figures have publicly claimed John Edward uses deception:
+
+### James Randi
+
+Randi analyzed Edward's television performances and found only 3 of 23 statements correct. He called Edward a "cold reader" and published his analysis showing the majority of Edward's statements were wrong. [35]
+
+### James Underdown (Independent Investigative Group)
+
+Underdown attended a live "Crossing Over" show in November 2002 and published his observations:
+
+> "John Edward was a bad cold reader. He, too, struggled to get hits, and in one attempt shot off nearly 40 guesses before finding any significant targets."
+
+He also alleged that Edward's television accuracy was "inflated by the editing process" and that "Edward's editor fine-tuned many of the dead-ends out of a reading riddled with misses."
+
+### John Oliver (Last Week Tonight, 2019)
+
+Oliver featured Edward in a segment criticizing the psychic industry, showing clips of failed cold reading attempts. He called the psychic industry "predatory" and said it "emboldens a vast underworld of unscrupulous vultures, more than happy to make money by offering an open line to the afterlife."
+
+### No Lawsuits from Edward
+
+Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward has never filed a defamation lawsuit against any of his critics. He has only responded verbally, denying that he uses cold or hot reading techniques.
+
+Edward's response to criticism has been to point to his willingness to participate in controlled laboratory testing—unlike many psychics who refuse scientific scrutiny.
+
+---
+
 ## Skeptics Countered
 
 James Randi and other skeptics have criticized both Geller and Edward. Here's why their critiques don't fully explain the results:
@@ -319,3 +347,5 @@ The question is no longer whether such phenomena deserve study, but what our und
 [35] [Randi Archive - Cold Reading Bingo](https://archive.randi.org/site/jr/2006-04/042106edward.html)
 
 [36] [University of Arizona - Researchers, mediums study communication with the dead](https://wc.arizona.edu/papers/92/152/01_2_m.html)
+
+[37] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
