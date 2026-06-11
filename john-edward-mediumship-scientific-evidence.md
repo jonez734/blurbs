@@ -22,7 +22,7 @@ The show's format evolved and improved with each iteration:
 1. **Crossing Over with John Edward** (Sci-Fi Channel, 2000-2004) - The original that pioneered the genre
 2. **John Edward Cross Country** (WE tv, 2006-2009) - A follow-up series that traveled across America [23]
 
-Both shows featured Edward giving psychic readings to studio audience members, with messages from deceased loved ones that audience members would validate and confirm. [1]
+Both shows featured Edward giving psychic readings to studio audience members, with messages from deceased loved ones that audience members would validate and confirm. [1, 45]
 
 His career includes:
 
@@ -34,7 +34,7 @@ His career includes:
 * **"Best Psychic on Long Island"** - Best of Long Island Press (won 2010, 2012, 2013; runner-up 2011, 2014) [24]
 * **People Magazine** - Named one of "Most Intriguing People of the Year" [25]
 * Sold-out seminars and lectures worldwide
-* A waiting list for private readings that stretched over two years
+* A waiting list for private readings that stretched over two years [46]
 * Recent project: EvolvePlus.Tv, an online platform for metaphysical education
 
 **[John Edward Books on Amazon](https://www.amazon.com/dp/B000FBJCJE/?tag=psychicblurbs-20)** | **[Crossing Over: Complete Series (2000-2004)](https://www.amazon.com/dp/B000VZVQR6/?tag=psychicblurbs-20)**
@@ -356,3 +356,7 @@ The most parsimonious explanation is that consciousness can transfer information
 [33] [JREF - Anderson Episode Decries John Edward](https://archive.randi.org/site/index.php/jref-news/1478-jref-decries-anderson-episode-featuring-psychic-medium-john-edward.html)
 
 [34] [Wikipedia - John Edward (Critics section)](https://en.wikipedia.org/wiki/John_Edward)
+
+[45] [Arizona Daily Wildcat - Researchers, mediums study communication with the dead](https://wc.arizona.edu/papers/92/152/01_2_m.html)
+
+[46] [John Edward Official Website](https://web.archive.org/web/20061222194125/www.johnedward.net/about_John_Edward.htm)
