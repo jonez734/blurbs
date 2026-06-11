@@ -105,6 +105,32 @@ Unlike some productions that consult with real psychics, there is no documented 
 
 Ghost helped popularize the idea of mediumship in Hollywood and was part of a wave of films (including Jacob's Ladder, Hereafter, and others) that presented after-death contacts and mediumistic experiences as reality rather than fairy-tale fantasy. [59]
 
+---
+
+## The Sixth Sense (1999): Cultural and Spiritual Influences
+
+The 1999 film **The Sixth Sense**, written and directed by M. Night Shyamalan, became a cultural phenomenon and earned six Academy Award nominations including Best Picture and Best Director. [60]
+
+**No Documented Psychic Consultants**
+
+Unlike some productions that employ paranormal advisors, there is no documented evidence that The Sixth Sense used professional mediums or psychics as consultants. However, the film drew heavily from Shyamalan's personal cultural and spiritual background. [61]
+
+**Shyamalan's Spiritual Influences**
+
+Shyamalan has spoken extensively about how his Indian heritage and Hindu beliefs influenced the film. In an interview with Fresh Air, he discussed how ghost stories from his own culture and personal experiences shaped the portrayal of ghosts in the film:
+
+> "ghost stories, you know, everybody comes and tells me their ghost stories... about someone who died, a girlfriend who died, and then, you know, I saw them in a dream and I swear they were in my room..."
+
+He described wanting the ghosts to feel "real" rather than like "a glowing person walking down the hall"—instead creating a sense that "someone was in the house." [62]
+
+The film reflects Hindu concepts of karma and unresolved issues keeping spirits earthbound. The ghosts Cole encounters have unresolved problems from their former lives—mirroring Hindu beliefs about spirits who must complete their earthly business before moving on. [63]
+
+**Cultural Authenticity**
+
+Shyamalan grew up in Philadelphia but drew from his family's Indian heritage. He has been described as offering audiences "logical spirituality" that resonates with Hindu concepts of interconnectedness and balance between life forces. [63]
+
+The film was shot in Shyamalan's hometown of Philadelphia, and child actors Mischa Barton and Haley Joel Osment reportedly believed the filming locations were genuinely haunted. [64]
+
 The experiments were unlike anything Geller had experienced before: [11, 12]
 
 * He was placed in an electrically shielded room
@@ -498,3 +524,13 @@ The question is no longer whether such phenomena deserve study, but what our und
 [58] [E! Online - 30 Timeless Secrets About Ghost](https://www.eonline.com/news/1170194/30-timeless-secrets-about-ghost-that-will-lift-your-spirits)
 
 [59] [Wikipedia - Ghost (1990 film) - Cultural significance](https://en.wikipedia.org/wiki/Ghost_(1990_film)#Cultural_significance)
+
+[60] [Wikipedia - The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
+
+[61] [Variety - The Sixth Sense Turns 20](https://web.archive.org/web/20190803134332/https://variety.com/2019/film/news/sixth-sense-turns-20-m-night-shyamalan-haley-joel-osment-1203259434/)
+
+[62] [Fresh Air - The Man Behind The Sixth Sense](https://freshairarchive.org/segments/man-behind-sixth-sense)
+
+[63] [Hinduism Today - America Loves Shyamalan](https://www.hinduismtoday.com/magazine/march-april-2001/2001-03-america-loves-shyamalan/)
+
+[64] [Philadelphia Inquirer - How The Sixth Sense made M. Night Shyamalan and Philly into stars](https://www.inquirer.com/entertainment/movies/sixth-sense-25-year-anniversary-20240808.html)
