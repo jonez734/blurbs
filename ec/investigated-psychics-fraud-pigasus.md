@@ -1,14 +1,11 @@
-# Investigated Psychics: Pigasus Awards and Fraud Claims
-
-While some mediums like John Edward have submitted to scientific testing, others have faced serious allegations of fraud. The James Randi Educational Foundation's Pigasus Awards have highlighted several prominent television psychics who have been accused of deception.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## The Pigasus Awards
+# Investigating Psychics: The Pigasus Award
 
-The **Pigasus Awards** were an annual tongue-in-cheek "honor" given by the James Randi Educational Foundation (JREF) to highlight pseudoscience and paranormal fraud. Named after the flying pig (something that would be as surprising as a psychic demonstrable powers), these awards brought attention to fraudulent psychic claims. [1]
-
-The awards were discontinued after Randi's death in 2020, but they remain an important record of investigated psychic fraud.
+The James Randi Educational Foundation (JREF) awarded the Pigasus Award to prominent psychics and mediums who were found to use deceptive practices. The award, named after the flying pig (suggesting that pigs will fly when psychics are proven real), highlighted cases of fraud and misleading claims in the psychic industry.
 
 ---
 
@@ -22,14 +19,16 @@ Theresa Caputo, known as the "Long Island Medium," gained fame through her reali
 
 In 2012, Caputo received a **Pigasus Award** from the JREF for "performance." The award highlighted concerns about her methods and the potential for exploiting grieving individuals. [1, 2]
 
-### Allegations of Fraud
+### Allegations of Fraud (Unproven)
 
-Investigations have revealed several concerning practices:
+Critics have raised concerns about Caputo's methods, but these remain **unverified allegations**:
 
-* **Pre-show research**: Caputo's show has been alleged to use audience members' pre-show questionnaires to gather information
-* **Social media monitoring**: Staff allegedly research audience members' social media profiles before readings
-* **Hot reading**: Critics allege she uses information gathered before shows rather than genuine psychic abilities
+* **Pre-show research**: Alleged that Caputo's show uses audience members' pre-show questionnaires to gather information
+* **Social media monitoring**: Alleged that staff research audience members' social media profiles before readings
+* **Hot reading**: Critics *allege* she uses information gathered before shows rather than genuine psychic abilities—but no controlled test has confirmed this
 * **Editing**: Like other reality shows, only "successful" readings are shown
+
+**Key distinction**: Unlike Chip Coffey's case below, no controlled test has verified these claims about Caputo. The allegations remain unproven.
 
 ### Refusal to Test
 
@@ -47,15 +46,15 @@ Chip Coffey is a self-proclaimed psychic and medium who gained fame through tele
 
 In 2009, Coffey received a Pigasus Award as "the psychic who tricked the most people with the least effort." [1, 3]
 
-### Investigation Results
+### Investigation Results (Actual Evidence)
 
-Skeptics conducted an investigation that revealed concerning results:
+This is one of the few cases with **actual documented evidence** of deception:
 
-* **Planted information**: Skeptics planted fictitious dead family members with Coffey's staff
-* **Successful communication**: Coffey claimed to successfully communicate with these non-existent people
-* **Confirmation**: This demonstrated that Coffey was either making up information or using cold-reading techniques
+* **Controlled test**: Skeptics planted fictitious dead family members with Coffey's staff
+* **Successful "communication"**: Coffey claimed to successfully communicate with these non-existent people
+* **Proof**: This *demonstrated* that Coffey was either making up information or using cold-reading techniques
 
-This investigation directly contradicted any claim of genuine psychic ability.
+This was a controlled test—not just allegations—that directly contradicted any claim of genuine psychic ability.
 
 ---
 
@@ -65,7 +64,7 @@ This investigation directly contradicted any claim of genuine psychic ability.
 
 Other television psychics who have received Pigasus Awards include:
 
-* **John Edward** (nominated multiple times but never won)
+* **John Edward** (nominated multiple times but never won) — unlike Caputo and Coffey, Edward *participated* in scientific testing, which is likely why he never actually won the award
 * Various other television psychics who refused testing
 
 ### Categories
@@ -81,11 +80,11 @@ The Pigasus Awards covered multiple categories:
 
 ## Key Differences: Tested vs. Untested Psychics
 
-| Psychic | Tested? | Results | Pigasus? |
-|---------|---------|---------|----------|
-| John Edward | Yes | 83% accuracy in controlled studies | No |
-| Theresa Caputo | No | Refused testing | Yes (2012) |
-| Chip Coffey | No | Failed skeptic investigation | Yes (2009) |
+| Psychic | Tested? | Results | Pigasus? | Evidence of Deception |
+|---------|---------|---------|----------|----------------------|
+| John Edward | Yes | 83% accuracy in controlled studies | No | None - passed tests |
+| Theresa Caputo | No | Refused testing | Yes (2012) | Unverified allegations only |
+| Chip Coffey | No | Failed skeptic investigation | Yes (2009) | **Controlled test proof** |
 
 ### The Testing Standard
 
@@ -116,7 +115,18 @@ Key elements of cold reading:
 * **Barnum statements**: Vague statements that could apply to anyone
 * **Probability**: Making many guesses knowing some will be correct
 * **Confirmation bias**: People remember hits, forget misses
-* **fishing**: Using yes/no questions to gather information
+* **Fishing**: Using yes/no questions to gather information
+
+### Evidence vs. Allegations
+
+What's the difference between proven evidence and unverified allegations?
+
+| Case | Evidence Type | Verified? |
+|------|---------------|-----------|
+| Chip Coffey | Controlled test with planted fictitious names | **Yes** - demonstrated cold-reading |
+| Theresa Caputo | Allegations of pre-show research, hot reading | **No** - unverified claims |
+
+The Coffey case is significant because it's one of the few psychic investigations with **actual controlled test evidence** rather than just speculation or allegations.
 
 ---
 
@@ -209,6 +219,15 @@ These fraud cases highlight why legitimate psychics like John Edward support sci
 ## Conclusion
 
 The difference between scientifically tested psychics like John Edward and those who refuse testing (like Caputo and Coffey) is significant. While Edward has participated in decades of controlled studies producing remarkable results, Caputo and Coffey have either refused testing or been caught using deceptive techniques.
+
+**John Edward was not left alone** — he faced the same types of criticism: [4]
+- James Randi analyzed his TV performances and found only 3 of 23 statements correct
+- James Underdown attended a live show and said Edward was a "bad cold reader" who "shot off nearly 40 guesses before finding any significant targets"
+- John Oliver featured him in a 2019 Last Week Tonight segment
+
+*See [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence.md) for detailed criticism section.*
+
+**His response set him apart**: Unlike Uri Geller (who sued critics), Edward never filed defamation lawsuits. Instead, he pointed to his willingness to participate in controlled scientific testing — and he passed those tests.
 
 The Pigasus Awards served an important function in highlighting these discrepancies and holding psychics accountable. Whether through refusal to test, failed investigations, or documented deception, the pattern is clear: those with genuine abilities should be willing to submit to scientific scrutiny.
 
