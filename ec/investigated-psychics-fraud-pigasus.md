@@ -42,9 +42,26 @@ Unlike John Edward, who has participated in decades of controlled studies, Caput
 
 Chip Coffey is a self-proclaimed psychic and medium who gained fame through television appearances and personal appearances. [3]
 
-### Pigasus Award
+**Paranormal State**: Coffey was a frequent guest/psychic on the A&E reality series *Paranormal State* (2007-2011), appearing in 31 episodes across seasons 1-4. [3]
 
-In 2009, Coffey received a Pigasus Award as "the psychic who tricked the most people with the least effort." [1, 3]
+### Pigasus Awards
+
+Coffey received the Pigasus Award multiple times:
+
+* **2009**: "the psychic who tricked the most people with the least effort" [1, 3]
+* **2012**: Named among other recipients for "performance"
+
+Unlike John Edward (who participated in testing), Coffey never submitted to controlled scientific scrutiny.
+
+### Methods
+
+Coffey's techniques have been analyzed by skeptics:
+
+* **Cold reading**: Relies on general statements and fishing for confirmation
+* **Hot reading**: Allegations that he gathers information from clients before readings
+* **Barnum statements**: Vague predictions that could apply to many situations
+
+The controlled test (planting fictitious dead family members with his staff) demonstrated these techniques in action.
 
 ### Investigation Results (Actual Evidence)
 
