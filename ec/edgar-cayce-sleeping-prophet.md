@@ -1,24 +1,11 @@
-# Edgar Cayce: The Sleeping Prophet
-
-Edgar Cayce (1877-1945) has been called the "sleeping prophet," the "father of holistic medicine," and "the most documented psychic of the 20th century." For more than 40 years of his adult life, Cayce gave psychic "readings" to thousands of seekers while in an unconscious state, diagnosing illnesses and revealing information about past lives, healing, and prophecies yet to come. [1][2]
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## Background and Early Life
+# Edgar Cayce: The Sleeping Prophet
 
-Edgar Cayce was born on a farm in Hopkinsville, Kentucky, in 1877. His psychic abilities appeared early in childhood:
-
-* He could see and talk to his late grandfather's spirit
-* He often played with "imaginary friends" whom he said were spirits on the other side
-* He displayed an uncanny ability to **memorize the pages of a book simply by sleeping on it** [1][3]
-
-These gifts labeled the young Cayce as "different" from his peers, but all Cayce really wanted was to help others. [1]
-
-### The Birth of His Ability
-
-According to his biography, Cayce's documented ability began after he was struck on the base of the spine by a ball in a school game. After the accident, he began to act strangely and was put to bed. He went to sleep and diagnosed the cure, which his family prepared and which cured him as he slept. However, this ability was not demonstrated again for several years. [4]
-
-At age 21, Cayce lost his voice due to partial paralysis of his vocal cords. During his first documented psychic reading, with the help of Al Layne, he diagnosed his own difficulty while asleep and prescribed a treatment that restored his voice. [3]
+Edgar Cayce (1877–1945) was an American psychic who earned the nickname "the sleeping prophet" because he would enter a trance state to answer questions on various subjects, including health, astrology, and reincarnation. He is regarded as the most documented psychic of the 20th century.
 
 ---
 

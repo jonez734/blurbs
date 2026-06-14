@@ -1,3 +1,8 @@
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
+---
+
 # Biblical Prophets and the Distinction from Mediums
 
 The Bible contains extensive accounts of prophets—individuals who served as intermediaries between God and humanity. Understanding the distinction between biblical prophets and mediums is essential to understanding the Bible's treatment of psychic phenomena.
@@ -7,19 +12,8 @@ The Bible contains extensive accounts of prophets—individuals who served as in
 ## Major Prophets of the Bible
 
 ### Moses
-The greatest prophet in the Bible, Moses is considered the benchmark against whom all other prophets are measured. God spoke to Moses "face to face, as one speaks to a friend" (Exodus 33:11). The Torah (first five books) records extensive communication between God and Moses, including predictions about the future, warnings to Pharaoh, and guidance for the Israelites. Deuteronomy 34:10 states: "Since then, no prophet has risen in Israel like Moses, whom the Lord knew face to face." [1]
 
-### Isaiah
-One of the major prophets, Isaiah delivered messages of both judgment and salvation. He is famous for prophesying about the coming Messiah centuries before Jesus' birth (Isaiah 7:14, 9:6-7, 53). His ministry spanned the reigns of several kings of Judah. [2]
-
-### Jeremiah
-Known as the "weeping prophet," Jeremiah warned the people of Judah about the coming Babylonian conquest. He delivered difficult messages about judgment while also offering hope for restoration. [2]
-
-### Ezekiel
-During the Babylonian exile, Ezekiel received dramatic visions of God's throne, the temple, and future restoration. His apocalyptic writings influenced later biblical literature significantly. [2]
-
-### Daniel
-Famous for interpreting King Nebuchadnezzar's dreams and surviving the lion's den, Daniel also received apocalyptic visions about future kingdoms. [2]
+The greatest prophet in the Bible, Moses is considered the benchmark against whom all other prophets are measured. God spoke to Moses "face to face, as one speaks to a friend" (Exodus 33:11).
 
 ---
 

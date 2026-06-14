@@ -1,18 +1,11 @@
-# Scientific Studies on Psychic Phenomena: A Research Overview
-
-The scientific investigation of psychic phenomena has a long history, with rigorous studies conducted at universities and research institutions around the world. This research has produced results that many researchers find compelling, though mainstream science remains skeptical.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## History of Scientific Research
+# Scientific Studies on Psychic Phenomena
 
-### Early Studies
-
-Scientific investigation of psychic phenomena (often called "psi") began in the late 19th century with the founding of the Society for Psychical Research in 1882. [1] Early researchers included prominent scientists and academics who sought to apply rigorous methodology to claims of paranormal phenomena.
-
-### Stanford Research Institute (SRI)
-
-Beginning in 1972, physicists at Stanford Research Institute (SRI) initiated systematic research into psychic phenomena, particularly remote viewing. This research was eventually funded by the CIA and Defense Intelligence Agency as part of the Stargate Project. [2]
+For over a century, scientists have investigated purported psychic phenomena such as telepathy, clairvoyance, and psychokinesis. Organizations like the Parapsychological Association have conducted peer-reviewed research, while government programs explored potential applications of remote viewing.
 
 ---
 

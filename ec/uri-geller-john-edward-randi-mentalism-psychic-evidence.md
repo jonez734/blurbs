@@ -1,29 +1,11 @@
-# The Fight Against the Psychic: Randi, Geller, Edward, and the Evidence for Survival
-
-This blurb provides an overview of the battle between skeptics and psychics, covering the famous rivalry between James Randi and Uri Geller, the scientific evidence for mediumship from John Edward, and the broader cultural context of psychic phenomena in media.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## Detailed Coverage
+# Psychic Evidence: Mentalism, Fraud, and Skepticism
 
-For in-depth coverage of specific topics, see:
-
-### Key Figures
-- **[John Edward: Scientific Evidence for Mediumship](./john-edward-mediumship-scientific-evidence.md)** - Career, HBO experiments (83% accuracy), triple-blind studies, FBI collaboration, critics
-- **[Uri Geller vs. James Randi](./uri-geller-james-randi-sabotage-spoon-bending.md)** - The Tonight Show sabotage, spoon-bending exposure, Stargate Project, SRI research, legal battles
-- **[Edgar Cayce: The Sleeping Prophet](./edgar-cayce-sleeping-prophet.md)** - 14,306 readings, founded A.R.E., holistic health focus
-
-### Scientific Research
-- **[Scientific Studies on Psychic Phenomena](./scientific-studies-psychic-phenomena-overview.md)** - SRI, Gary Schwartz, Windbridge, meta-analyses
-- **[Joseph McMoneagle: Remote Viewer No. 1](./joseph-mcmoneagle-remote-viewer-stargate.md)** - Stargate Project, 450+ missions, Legion of Merit
-
-### Religion and Culture
-- **[Biblical Prophets and Mediums](./biblical-prophets-mediumship-prophecy.md)** - The Witch of Endor, prophets vs. mediums in scripture
-- **[Movies About Psychics and Mediums](./movies-psychics-mediums-ghost-sixth-sense.md)** - Ghost, Sixth Sense, Hereafter, Medium, Ghost Whisperer
-
-### Skeptics and Critics
-- **[Mentalists vs. Psychics](./mentalists-vs-psychics-oz-pearlman.md)** - Oz Pearlman, how to tell difference from genuine psychics
-- **[Investigated Psychics and Fraud](./investigated-psychics-fraud-pigasus.md)** - Pigasus Awards, Theresa Caputo, Chip Coffey, current projects, recent fraud cases
+The debate over psychic phenomena has long divided the public and scientific communities. While some claim genuine paranormal abilities, others argue that mentalists and psychics use well-documented psychological techniques to create the illusion of supernatural perception.
 
 ---
 

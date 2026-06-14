@@ -1,93 +1,11 @@
-# John Edward: Scientific Evidence for Mediumship
-
-While James Randi was busy exposing spoon-benders like Uri Geller, a young man on Long Island was discovering his own gift for connecting with the deceased. John Edward would go on to become perhaps the most scientifically tested medium in history.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## Career Overview
+# John Edward: Mediumship and Scientific Evidence
 
-John Edward McGee Jr. (born 1969) first discovered his abilities at age 15 when a psychic reading convinced him he could communicate with the dead. He developed his skills reading at fairs and eventually launched the television show that would revolutionize the genre: "Crossing Over with John Edward." [1, 2]
-
-### Crossing Over: A Television Phenomenon
-
-"Crossing Over with John Edward" premiered on the Sci-Fi Channel in 2000 and became a television sensation:
-
-* **First syndicated show** focused entirely on psychic mediumship—pioneering the genre worldwide [1, 2]
-* **Ran for four seasons** (2000-2004) and was syndicated to over 100 countries [1, 2]
-* **Global reach**: Broadcast in the US, UK (on Living TV), Australia, and numerous other countries [2]
-* **Pioneering format**: First TV show devoted to psychic mediumship to achieve worldwide syndication [2]
-
-The show's format evolved and improved with each iteration:
-
-1. **Crossing Over with John Edward** (Sci-Fi Channel, 2000-2004) - The original that pioneered the genre
-2. **John Edward Cross Country** (WE tv, 2006-2009) - A follow-up series that traveled across America [23]
-
-Both shows featured Edward giving psychic readings to studio audience members, with messages from deceased loved ones that audience members would validate and confirm. [1, 45]
-
-His career includes:
-
-* Multiple New York Times bestselling books:
-  * ["One Last Time (1998)"](https://www.amazon.com/dp/0425166929/?tag=psychicblurbs-20)
-  * ["What If God Were the Sun (2004)"](https://www.amazon.com/dp/0446695153/?tag=psychicblurbs-20)
-  * ["Crossing Over: The Stories Behind the Stories (2002)"](https://www.amazon.com/dp/0425191639/?tag=psychicblurbs-20)
-  * ["Chasing Evil (2025)"](https://www.amazon.com/dp/1250291755/?tag=psychicblurbs-20) (with FBI agent Robert Hilland)
-* **"Best Psychic on Long Island"** - Best of Long Island Press (won 2010, 2012, 2013; runner-up 2011, 2014) [24]
-* **People Magazine** - Named one of "Most Intriguing People of the Year" [25]
-* Sold-out seminars and lectures worldwide
-* A waiting list for private readings that stretched over two years [46]
-* Recent project: EvolvePlus.Tv, an online platform for metaphysical education
-
-**[John Edward Books on Amazon](https://www.amazon.com/dp/B000FBJCJE/?tag=psychicblurbs-20)** | **[Crossing Over: Complete Series (2000-2004)](https://www.amazon.com/dp/B000VZVQR6/?tag=psychicblurbs-20)**
-
-### Watch John Edward
-
-**Recent Interviews (2024-2026):**
-
-* **[Jay Shetty Podcast - The TRUTH About Life After Death (Jan 2026)](https://www.youtube.com/watch?v=PiV8OWNRd5w)** - In-depth conversation about grief, healing, and survival of consciousness; Edward explains how he receives information through clairvoyance, clairaudience, and clairsentience [50]
-
-* **[Inside of You with Michael Rosenbaum - Confronting Cynicism (Aug 2025)](https://www.youtube.com/watch?v=qyWHJphT2bQ)** - Edward discusses working with the FBI, being blackballed from Dr. Phil, and handling public cynicism [51]
-
-* **[Maria Menounos - Becoming Your Own Psychic (Sep 2025)](https://www.youtube.com/watch?v=sCQLQnt88Ag)** - Teaching how to tap into intuition, psychic self-defense, protecting energy [52]
-
-* **[DEAD Talks Podcast - Grief Advice (Apr 2026)](https://www.youtube.com/watch?v=nWhAIgtT_kA)** - Working with skeptics and law enforcement, how to spot fake mediums, why grief has no timeline [53]
-
-* **[A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo)** - His secret work with the FBI, "Chasing Evil" book, 40+ year journey [54]
-
-**Gallery Readings:**
-
-* **[Drew Barrymore Show (Mar 2024)](https://www.youtube.com/shorts/GYn9q621UFY)** - Live reading for studio audience
-
-* **[Ellen Show (Jun 2025)](https://www.facebook.com/ellentv/videos/psychic-medium-john-edward-does-a-live-reading-for-my-audience/2017058562436053/)** - Live reading for Ellen's audience
-
-* **[Ed Mylett Interview (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ)** - Detailed explanation of his process, how messages are received, dealing with skeptics (1.5M views) [55]
-
-### A Note on Popularity
-
-Even critics took notice—John Edward was featured in a **South Park** episode titled "The Biggest Douche in the Universe" (2002), where he was crowned just that. [26] Given the show's reputation for brutal satire, being featured at all is perhaps the ultimate tongue-in-cheek compliment to his cultural impact and fame.
-
-### Why He Left American Television
-
-Despite its initial success, "Crossing Over with John Edward" was canceled in 2004 after three seasons:
-
-**Low Ratings**: The show averaged only a 0.9 rating in syndication, down 31% from the previous year. It "languished in sub-1.0 territory" for the first three months of the 2003-04 season. [27][28]
-
-**Format Changes Didn't Help**: The show underwent a makeover at the beginning of the 2003-04 season to attract more viewers, but those changes didn't have the effect Universal was looking for. [27]
-
-**Conflict with Production Company**: In a 2006 interview with TV Guide, Edward explained his move to WE tv: "at Universal it was, 'Shut up. You're the talent. Let us do what we do.' They respect me as a producer and as a person, whereas at Universal it was, 'Shut up. You're the talent. Let us do what we do.'" [29]
-
-**WTC Controversy**: In 2001, shortly after 9/11, producers planned a special where Edward would connect with victims' families. The plan sparked a national outcry over exploitation of the tragedy, and the special was canceled. [30]
-
-**Role of Skeptics**: The cancellation was primarily a **business decision** due to falling ratings, but skeptics had been actively publishing criticisms for years, which may have contributed to declining viewership:
-
-* **James Randi** analyzed Edward's shows and found only 3 of 23 statements correct—published in TV Guide [31]
-* **Skeptical Inquirer** published "John Edward: Hustling the Bereaved" (2001) by Joe Nickell [32]
-* **JREF** offered Edward the $1 million challenge multiple times—he consistently refused [33]
-* **James Underdown** (IIG) attended a live show in 2002 and called him "a bad cold reader" [34]
-* **Pre-show questionnaires**: Critics noted that audience members filled out forms beforehand, which could constitute "hot reading" [34]
-
-Edward never accepted Randi's $1 million challenge, unlike other psychics who at least attempted testing. The ongoing skeptic criticism may have made it harder to get renewed and contributed to the declining audience, though the primary factor was simply poor ratings performance.
-
-Edward moved on to "John Edward Cross Country" on WE tv (2006-2009), but eventually left traditional television altogether to focus on his online platform, Evolve Plus. [23]
+John Edward is an American television personality and self-proclaimed psychic medium who gained fame through his show "Crossing Over with John Edward." He claims to communicate with deceased individuals, offering messages to living relatives. His work has sparked both hope in grieving individuals and skepticism from the scientific community.
 
 ---
 

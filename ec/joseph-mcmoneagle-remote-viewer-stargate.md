@@ -1,14 +1,11 @@
-# Joseph McMoneagle: Remote Viewer No. 1
-
-Joseph McMoneagle is one of the most famous remote viewers in the history of the U.S. government's Stargate Project. Known as "Remote Viewer No. 1," his contributions to the program and subsequent work in the field have made him a notable figure in the study of psychic phenomena.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## Early Life and Discovery
+# Joseph McMoneagle: Remote Viewer for Stargate
 
-Joseph "Joe" McMoneagle discovered his psychic abilities in childhood. He reported having experiences of precognition and knowing things he shouldn't have known, though he initially kept these abilities private. [1]
-
-His abilities came to the attention of the intelligence community through a series of successful demonstrations, leading to his recruitment into the top-secret program.
+Joseph McMoneagle is a renowned American remote viewer who served in the U.S. Army's psychic espionage program known as Stargate Project or Grill Flame. He is considered one of the most gifted remote viewers in the program's history and is credited with numerous successful remote viewing missions.
 
 ---
 

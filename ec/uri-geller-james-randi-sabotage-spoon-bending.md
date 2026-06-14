@@ -1,16 +1,11 @@
-# Uri Geller vs. James Randi: The Most Famous Psychic Feud
-
-The rivalry between James Randi and Uri Geller is the most famous example of professional "sabotage" in magic history. It blurred the lines between a performance feud and a crusade for scientific truth, inadvertently opening the door to serious scientific investigation into psychic phenomena.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## The "Tonight Show" Incident (1973)
+# Uri Geller vs James Randi: The Battle Over Psychic Phenomena
 
-The most impactful instance of sabotage occurred when Geller was booked on The Tonight Show Starring Johnny Carson. Carson, an amateur magician himself, was skeptical of Geller's claims of psychic powers. [1, 2]
-
-* **The Setup**: Before the show, Carson consulted with Randi to ensure Geller could not use his own props or "pre-bend" materials. [3, 4]
-* **The Sabotage**: Randi instructed the show's prop masters to provide their own spoons and sealed containers, ensuring Geller had zero access to them beforehand. [5, 6]
-* **The Result**: On live television, Geller was unable to perform a single feat, appearing flustered and claiming he didn't "feel strong". Paradoxically, this failure made him more famous, as many viewers believed his inability to perform under pressure proved he wasn't using "easy" magic tricks. [1, 2, 3, 7]
+Uri Geller's claimed psychic abilities—and subsequent exposure by James Randi—became one of the most famous controversies in the history of paranormal investigation. Their rivalry represents the broader clash between believers in psychic phenomena and skeptics demanding scientific verification.
 
 ---
 
@@ -190,3 +185,5 @@ This legal battle stands in contrast to most psychic/critic conflicts, where ske
 [26] [Wikipedia - James Randi](https://en.wikipedia.org/wiki/James_Randi)
 
 [27] [James Randi Educational Foundation - Pigasus Awards](https://web.archive.org/web/20121116142813/https://www.randi.org/site/index.php?option=com_content&task=view&id=314&Itemid=48)
+
+[28] [YouTube - James Randi exposes Uri Geller](https://youtu.be/cN47YNe5-Yg?si=yhp67aCjyonldiJw)

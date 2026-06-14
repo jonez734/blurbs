@@ -1,19 +1,11 @@
-# Mentalists vs. Psychics: Understanding the Difference
-
-In the world of mental performance, there is a crucial distinction between genuine psychic ability and theatrical mentalism. While some performers claim supernatural powers, others openly admit using psychological techniques. Understanding this difference is essential for evaluating psychic claims.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## What Is Mentalism?
+# Mentalists vs Psychics: Understanding the Difference
 
-Mentalism is a performing art in which practitioners appear to demonstrate superhuman abilities such as telepathy, telekinesis, mind reading, and precognition. Unlike psychics who claim genuine paranormal abilities, mentalists openly acknowledge that their performances are illusions based on skill, technique, and psychology. [1]
-
-Key characteristics of mentalism:
-
-* No claim of genuine psychic abilities
-* Performances based on psychological techniques
-* Skills learned through practice and study
-* Entertainment value as the primary goal
+Mentalists and psychics both claim to access information beyond normal senses, but their methods and justifications differ fundamentally. Mentalists openly acknowledge using psychological techniques, while psychics claim supernatural abilities. Understanding this distinction is crucial for evaluating paranormal claims.
 
 ---
 

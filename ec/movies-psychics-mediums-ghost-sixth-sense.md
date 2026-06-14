@@ -1,30 +1,11 @@
-# Movies About Psychics and Mediums
-
-Film and television have long explored the theme of communication with the dead, from classic ghost stories to modern supernatural thrillers. While some productions consult with real psychics, others rely on creative imagination or cultural traditions.
-
+---
+folder-path: ec/
+date: 2026-06-12 01:03:20 GMT (21:03:20 NYC)
 ---
 
-## Ghost (1990)
+# Movies: Psychics, Mediums, and Ghosts in Film
 
-The 1990 film **Ghost** (starring Patrick Swayze, Demi Moore, and Whoopi Goldberg) became one of the highest-grossing films of the year and helped bring mediumship into mainstream popular culture. [1]
-
-**[Watch on Amazon (1990)](https://www.amazon.com/dp/B000P0J0AQ/?tag=psychicblurbs-20)** | **[Blu-ray](https://www.amazon.com/dp/B07VS7MRKL/?tag=psychicblurbs-20)**
-
-**About the Film**
-
-Ghost was directed by Jerry Zucker and written by Bruce Joel Rubin, who won the Academy Award for Best Original Screenplay. The film features Oda Mae Brown (Whoopi Goldberg), a fraudulent psychic who discovers she can actually communicate with the dead when the ghost of Sam Wheat (Patrick Swayze) approaches her. [1]
-
-**Writer's Spiritual Background**
-
-Screenwriter Bruce Joel Rubin had a deep interest in spirituality and metaphysics. He has stated that he took LSD in New York City in the 1960s, which he described as "life-changing" and "very mystical in the deepest sense of the word." This experience led him on "a very long spiritual pursuit." He lived in ashrams in India, a Tibetan monastery in Kathmandu, a Buddhist temple in Bangkok, and studied meditation extensively. [2] Rubin has said: "I want to make films that make you look at life through looking at death."
-
-**Medium Consultation**
-
-Unlike some productions that consult with real psychics, there is no documented evidence that the production of Ghost used real mediums as consultants. The character of Oda Mae was originally envisioned as a male character, but was changed to a female psychic based on feedback from other writers who suggested "a great storefront psychic who was a fake." [3] The film was developed through 19 drafts, with the writer and director working to balance the comedic and dramatic elements.
-
-**Cultural Impact**
-
-Ghost helped popularize the idea of mediumship in Hollywood and was part of a wave of films (including Jacob's Ladder, Hereafter, and others) that presented after-death contacts and mediumistic experiences as reality rather than fairy-tale fantasy. [4]
+Hollywood has long been fascinated with psychics, mediums, and communication with the dead. From classic ghost stories to modern psychological thrillers, films have explored the boundary between the living and the departed, often romanticizing or dramatizing paranormal abilities.
 
 ---
 
