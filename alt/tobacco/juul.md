@@ -46,6 +46,17 @@ JUUL Labs became the dominant e-cigarette brand in the United States, capturing 
 
 [44][45][48]
 
+### Current Business Status
+
+**Yes, JUUL is still in business in the USA.**
+
+In **July 2025**, the FDA granted JUUL marketing authorization for their products:
+
+- **FDA Decision**: July 17, 2025 - Marketing Granted Orders (MGOs) for the JUUL System [49][50]
+- **Products Authorized**: JUUL device + Virginia Tobacco and Menthol flavored JUULpods (3% and 5% nicotine) [49]
+- **Data**: JUUL submitted 110+ scientific studies, including a 2-year longitudinal cohort study showing 38-52% of adult smokers switched completely to JUUL [49][50]
+- **Note**: FDA originally ordered a ban in 2022 but reversed course days later. The authorization is not "FDA approval" - it means the products meet the "appropriate for protection of public health" standard [49][50][51]
+
 ---
 
 ## Congressional Hearings
@@ -173,3 +184,9 @@ Public health organizations argued JUUL should be regulated as a drug/device:
 [47] [Tracxn - JUUL Labs Company Profile](https://www.tracxn.com/d/companies/juul-labs/)
 
 [48] [LinkedIn - JUUL Labs Company Page](https://linkedin.com/company/juul-labs)
+
+[49] [FDA - FDA Authorizes Marketing of Tobacco- and Menthol-Flavored JUUL E-Cigarette Products](https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-marketing-tobacco-and-menthol-flavored-juul-e-cigarette-products)
+
+[50] [JUUL Labs - Statement on FDA Marketing Authorizations](https://www.juullabs.com/juul-labs-statement-on-fda-marketing-authorizations/)
+
+[51] [PBS News - Juul can continue selling e-cigarettes](https://www.pbs.org/newshour/health/juul-can-continue-selling-e-cigarettes-as-fda-says-vaping-benefits-outweigh-risks)
