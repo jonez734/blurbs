@@ -21,6 +21,33 @@ JUUL Labs became the dominant e-cigarette brand in the United States, capturing 
 
 ---
 
+## Company Status
+
+### Headquarters
+
+- **Current HQ**: Washington, D.C. (1000 F St NW, 8th Floor)
+- **Former HQ**: San Francisco, California (123 Mission Street)
+- The company purchased the 29-story, 360,000 square foot building in 2019 for $397 million
+- Abandoned the office less than a year later, listed it for sale expecting $450 million
+- No successful purchase offers materialized
+- In March 2026, investors (Madison Capital and PGIM) bought the debt for $90-100 million (less than 25% of pre-pandemic value)
+- The company relocated to Washington, D.C., likely for lobbying purposes given regulatory scrutiny [45][46][47]
+
+### Company Overview
+
+| Metric | Value |
+|--------|-------|
+| Status | Active, privately held |
+| Employees | ~720-1,200 |
+| Annual Revenue | ~$1.5 billion |
+| Total Funding | $16 billion+ |
+| Countries Operating | 24 |
+| CEO | K.C. Crosthwaite |
+
+[44][45][48]
+
+---
+
 ## Congressional Hearings
 
 The House Committee on Oversight and Reform's Subcommittee on Economic and Consumer Policy held two days of hearings:
@@ -136,3 +163,13 @@ Public health organizations argued JUUL should be regulated as a drug/device:
 [13] [American Heart Association - Letter to FDA re: JUUL (May 2019)](https://www.heart.org/)
 
 [14] [FDA - Tobacco Intended Use Rule](https://www.fda.gov/tobacco-products/guidance-compliance-regulatory-information/tobacco-intended-use-rule)
+
+[44] [SEC Filing - JUUL Labs Form D](https://www.sec.gov/Archives/edgar/data/1520049/000152004924000001/0001520049-24-000001.txt)
+
+[45] [The Real Deal - Investors Buy Debt Tied to Juul Labs' San Francisco Offices](https://therealdeal.com/san-francisco/2026/03/17/investors-buy-debt-tied-to-juul-labs-san-francisco-offices/)
+
+[46] [Equilar - JUUL Labs Executive Bio](https://people.equilar.com/bio/org/juul-labs-inc/4382939)
+
+[47] [Tracxn - JUUL Labs Company Profile](https://www.tracxn.com/d/companies/juul-labs/)
+
+[48] [LinkedIn - JUUL Labs Company Page](https://linkedin.com/company/juul-labs)
