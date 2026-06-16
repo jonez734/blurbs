@@ -136,6 +136,11 @@ The adolescent brain undergoes critical development:
 
 ---
 
+
+## See Also
+
+- [Air Filtration](/alt/tobacco/air-filtration) - Air purifiers for smoke removal
+
 ## References
 
 [1] [CDC - Youth Tobacco Survey](https://www.cdc.gov/tobacco/data_statistics/yfs/index.htm)

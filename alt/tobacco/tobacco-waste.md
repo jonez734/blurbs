@@ -175,6 +175,11 @@ Even after smoking, butts contain:
 
 ---
 
+
+## See Also
+
+- [Air Filtration](/alt/tobacco/air-filtration) - Air purifiers for smoke removal
+
 ## References
 
 [1] [Tobacco Free Kids - Cigarette Butt Litter](https://www.tobaccofreekids.org/)

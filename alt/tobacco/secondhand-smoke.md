@@ -99,6 +99,11 @@ Secondhand smoke contains more than 7,000 chemicals, including:
 
 ---
 
+
+## See Also
+
+- [Air Filtration](/alt/tobacco/air-filtration) - Air purifiers for smoke removal
+
 ## References
 
 [1] [CDC - Secondhand Smoke Facts](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/secondhand_smoke/index.htm)

@@ -107,6 +107,11 @@ Thirdhand smoke contains numerous toxic compounds:
 
 ---
 
+
+## See Also
+
+- [Air Filtration](/alt/tobacco/air-filtration) - Air purifiers for smoke removal
+
 ## References
 
 [1] [California Thirdhand Smoke Research Program](https://www.thirdhandsmoke.org/)
