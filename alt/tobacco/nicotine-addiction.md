@@ -74,6 +74,15 @@ According to DSM-5 criteria, tobacco use disorder is diagnosed when at least 2 o
 
 ---
 
+## See Also
+
+- [Nicotine Effects](/alt/tobacco/nicotine-effects) - How nicotine affects the brain
+- [Nicotine Withdrawal](/alt/tobacco/nicotine-withdrawal) - Symptoms when quitting
+- [Nicotine Usage](/alt/tobacco/nicotine-usage) - NRT and delivery methods
+- [JUUL](/alt/tobacco/juul) - High-nicotine products and addiction concerns
+
+---
+
 ## References
 
 [1] [NIH - National Institute on Drug Abuse: Tobacco, Nicotine, and E-Cigarettes](https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-nicotine)

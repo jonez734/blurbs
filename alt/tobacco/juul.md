@@ -145,6 +145,15 @@ Public health organizations argued JUUL should be regulated as a drug/device:
 
 ---
 
+## See Also
+
+- [E-Cigarettes](/alt/tobacco/e-cigarettes) - Overview of e-cigarette brands and products
+- [Vaping](/alt/tobacco/vaping) - Device types and vaping practices
+- [Nicotine Effects](/alt/tobacco/nicotine-effects) - Health effects of nicotine
+- [Nicotine Legal](/alt/tobacco/nicotine-legal) - FDA regulation and legal issues
+
+---
+
 ## References
 
 [1] [Stanford University - Dr. Robert Jackler Testimony: The Role of the Company in the JUUL Teen Epidemic](https://med.stanford.edu/news/all-news/2019/02/former-juul-scientists-targeted-teens-with-nicotine.html)

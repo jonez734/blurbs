@@ -62,6 +62,14 @@ E-cigarettes are regulated as tobacco products under the FDA's 2016 Deeming Rule
 
 ---
 
+## See Also
+
+- [JUUL](/alt/tobacco/juul) - Detailed case study of JUUL's legal issues
+- [Vaping](/alt/tobacco/vaping) - Tank systems, box mods, heat-not-burn devices
+- [Nicotine Legal](/alt/tobacco/nicotine-legal) - FDA regulation, Tobacco 21, flavor bans
+
+---
+
 ## References
 
 [1] [CDC - E-Cigarettes: Basics](https://www.cdc.gov/tobacco/basic_information/e-cigarettes/index.htm)

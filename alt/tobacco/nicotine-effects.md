@@ -78,6 +78,14 @@ Adolescent brains are particularly vulnerable:
 
 ---
 
+## See Also
+
+- [Nicotine Addiction](/alt/tobacco/nicotine-addiction) - Mechanism of dependence
+- [Nicotine Withdrawal](/alt/tobacco/nicotine-withdrawal) - Symptoms when quitting
+- [JUUL](/alt/tobacco/juul) - High-nicotine products and addiction concerns
+
+---
+
 ## References
 
 [1] [NIH - National Institute on Drug Abuse: Tobacco, Nicotine, and E-Cigarettes](https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-nicotine)
@@ -108,4 +116,4 @@ Adolescent brains are particularly vulnerable:
 
 [14] [CDC - Tobacco Use: Addiction](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/tobacco_industry/addiction/)
 
-[15] [World Health Organization - Tobacco: Nicotine](https://www.who.int/news-room/q-a-detail/tobacco-nicotine)
+[15] [World Health Organization - Tobacco: Nicotine](https://www.who.int/news-room/questions-and-answers/item/tobacco-nicotine)

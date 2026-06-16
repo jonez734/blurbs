@@ -101,6 +101,14 @@ Products claiming reduced risk must obtain specific FDA authorization:
 
 ---
 
+## See Also
+
+- [JUUL](/alt/tobacco/juul) - FDA warning letter, MDL, state settlements
+- [E-Cigarettes](/alt/tobacco/e-cigarettes) - FDA regulatory framework
+- [Jeffrey Wigand](/alt/tobacco/jeffrey-wigand) - Tobacco industry regulation history
+
+---
+
 ## References
 
 [1] [CDC - Tobacco 21](https://www.cdc.gov/tobacco/prevention/youth-use/tobacco-21.html)

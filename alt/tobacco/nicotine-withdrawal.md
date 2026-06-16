@@ -101,6 +101,14 @@ Quitting abruptly without assistance.
 
 ---
 
+## See Also
+
+- [Nicotine Addiction](/alt/tobacco/nicotine-addiction) - Mechanism of dependence
+- [Nicotine Usage](/alt/tobacco/nicotine-usage) - NRT products and traditional tobacco
+- [Nicotine Effects](/alt/tobacco/nicotine-effects) - Why quitting benefits health
+
+---
+
 ## References
 
 [1] [NIH - National Institute on Drug Abuse: Nicotine Withdrawal](https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-are-nicotine-withdrawal-symptoms)

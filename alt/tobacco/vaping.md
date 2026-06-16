@@ -67,6 +67,14 @@ Devices that heat tobacco rather than burning it:
 
 ---
 
+## See Also
+
+- [E-Cigarettes](/alt/tobacco/e-cigarettes) - Overview of e-cigarette brands
+- [JUUL](/alt/tobacco/juul) - Detailed case study of JUUL
+- [Nicotine Effects](/alt/tobacco/nicotine-effects) - Health effects
+
+---
+
 ## References
 
 [1] [CDC - E-Cigarettes: Basics](https://www.cdc.gov/tobacco/basic_information/e-cigarettes/index.htm)

@@ -95,6 +95,14 @@ Now 83 years old, Wigand continues to:
 
 ---
 
+## See Also
+
+- [Nicotine Legal](/alt/tobacco/nicotine-legal) - Tobacco regulation history
+- [Nicotine Addiction](/alt/tobacco/nicotine-addiction) - How nicotine creates dependence
+- [JUUL](/alt/tobacco/juul) - Modern e-cigarette legal issues
+
+---
+
 ## References
 
 [1] [Jeffrey Wigand Biography](https://www.jeffreywigand.com/bio.php)

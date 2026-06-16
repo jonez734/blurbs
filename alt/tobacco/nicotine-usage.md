@@ -59,6 +59,14 @@ Combining NRT products (such as using patches for baseline nicotine along with g
 
 ---
 
+## See Also
+
+- [Nicotine Addiction](/alt/tobacco/nicotine-addiction) - How nicotine creates dependence
+- [Nicotine Withdrawal](/alt/tobacco/nicotine-withdrawal) - Symptoms and cessation methods
+- [Nicotine Effects](/alt/tobacco/nicotine-effects) - Positive and negative health effects
+
+---
+
 ## References
 
 [1] [CDC - Smoking & Tobacco Use: Fact Sheet](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/index.htm)
