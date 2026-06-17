@@ -160,3 +160,55 @@ For AI in television, see the AI in Sci-Fi TV article. For I, Robot details, see
 [17] [Short Circuit (1986)](https://www.amazon.com/Short-Circuit-Synergy-Steve-Gutenberg/dp/B00EHMX2I8?tag=blurbs-20)
 
 [18] [Iron Man (2008)](https://www.amazon.com/Iron-Man-Blu-ray-Double-pack/dp/B00EHMX2FQ?tag=blurbs-20)
+
+## DC Universe: AI Characters
+
+The DC Extended Universe (DCEU) and broader DC universe feature several prominent artificial intelligence and AI-adjacent characters.
+
+### Brainiac
+
+Brainiac is one of the most intelligent beings in the universe—a superintelligent android and one of Superman's greatest enemies. Originally from the planet Colu, Brainiac's artificial mind has taken many forms over the decades, but his thirst for absolute knowledge remains constant [10].
+
+Key characteristics:
+- **Twelfth-Level Intellect**: Brainiac possesses artificial intelligence with computing power far beyond human capability
+- **City Shrunken**: He travels the galaxy shrinking cities to bottle size, including Kandor (the capital of Krypton), and destroying the source planets
+- **Obsessed with Knowledge**: Believes knowledge is only valuable if he alone possesses it
+- **Multiple Resurrections**: His consciousness has been resurrected in new forms repeatedly—like a computer virus that can never be fully purged
+
+First appearing in Action Comics #242 (1958), Brainiac has been a major villain in comics, animated series, and films. In the DCEU, there were plans to introduce Brainiac—Lex Luthor's "Lex/OS" in Batman v Superman was speculated to be setting up the character [10].
+
+### Amazo
+
+Amazo is an advanced android created by Professor Anthony Ivo, designed to mimic and copy the powers of superheroes—particularly the Justice League [11].
+
+Powers and abilities:
+- **Power Replication**: Uses "absorption cell" technology (later revealed as nanites) to mimic the physical structure and energy output of any metahuman he encounters
+- **Default Powers**: Often retains powers from the founding Justice League members (Superman, Flash, Aquaman, Martian Manhunter, Wonder Woman, Green Lantern)
+- **Weapon Duplication**: Can create copies of heroes' weapons like Green Lantern's ring or Wonder Woman's lasso—though less powerful than the originals
+- **Evolution**: In the DCAU, Amazo eventually gained infinite power and became a god-like being, traveling the universe
+
+Amazo first appeared in 1960 and has been a recurring threat to the Justice League [11].
+
+### Cyborg (Victor Stone)
+
+Victor Stone became Cyborg after a tragic accident left him critically injured, requiring his father to rebuild his body using advanced alien (Mother Box) technology. Now half-human, half-machine, Cyborg possesses integrated AI systems that enhance his physical capabilities and provide real-time data analysis [12].
+
+In the DCEU, Cyborg (played by Ray Fisher) was introduced in Batman v Superman: Dawn of Justice and became a founding member of the Justice League. His AI allows him to:
+- Interface with computer systems and technology
+- Analyze opponents' movements in combat
+- Access vast amounts of information instantly
+- Communicate with and control vehicles like the "Flying Fox"
+
+In Zack Snyder's Justice League (2021), Cyborg's arc was praised as one of the best aspects of the film, with his AI systems enabling him to weaken Steppenwolf's Mother Boxes and save the world [12].
+
+[10] [Brainiac - Wikipedia](https://en.wikipedia.org/wiki/Brainiac_(character))
+
+[11] [Amazo - Wikipedia](https://en.wikipedia.org/wiki/Amazo)
+
+[12] [Cyborg (DC) - Wikipedia](https://en.wikipedia.org/wiki/Cyborg_(Victor_Stone))
+
+[19] [Batman v Superman: Dawn of Justice](https://www.amazon.com/Batman-v-Superman-Dawn-Justice-Blu-ray/dp/B01DXP5Q6M?tag=blurbs-20)
+
+[20] [Justice League (2017)](https://www.amazon.com/Justice-League-Blu-ray-Ben-Affleck/dp/B0764HNJ7R?tag=blurbs-20)
+
+[21] [Zack Snyder's Justice League](https://www.amazon.com/Zack-Snyders-Justice-League-4K/dp/B09JVPJYPB?tag=blurbs-20)
