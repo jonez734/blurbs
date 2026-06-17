@@ -43,11 +43,27 @@ Matthew Broderick starred as David Lightman, a teenage hacker who inadvertently 
 
 The central AI, called Joshua (voiced by Kent Smith), is named after the computer from the 1983 film "WarGames" itself—it nearly triggered nuclear war. When David asks to play "a nice game," Joshua responds with "A strange game. The only winning move is not to play." This line became one of the most iconic in sci-fi history [5].
 
-### Impact
+### The Real WARGAMES Incident
 
-WarGames was loosely based on real events—the 1980s "WARGAMES" incident where a teenager, Matthew Broderick inspired, actually hacked into a Pentagon computer. The film led to major changes in computer security practices and raised national awareness about cybersecurity [5].
+The film was inspired by real events involving teenage hackers. In 1982-1983, a group known as "The 414s" (named after Milwaukee's area code)—six teenagers aged 16 to 22—broke into dozens of high-profile computer systems including Los Alamos National Laboratory, Sloan-Kettering Cancer Center, and Security Pacific National Bank [5].
 
-The film's success led to a 1985 television series and a 1999 sequel, though neither matched the original's impact. In 2008, the US Department of Defense renamed the fictional AI to avoid confusion with a real system, though it was later reverted [5].
+The most infamous real-life hacker who inspired the film was David Scott Lewis, who accessed military computer systems including the Pentagon's. The teens used "war dialing"—a technique popularized by the movie where computers randomly dial phone numbers searching for modems to hack [5].
+
+### Reagan and Cybersecurity Policy
+
+President Ronald Reagan watched WarGames at Camp David and was deeply troubled. At a White House meeting, he turned to General John Vessey, Chairman of the Joint Chiefs, and asked: "Could something like this really happen? Could someone break into our most sensitive computers?" [5]
+
+The answer came back: "Mr. President, the problem is much worse than you think." This led to major changes:
+
+- National Security Decision Directive NSDD-145 (September 1984) - the first presidential directive on cybersecurity
+- Congressional hearings where clips of WarGames were shown as evidence
+- The Computer Fraud and Abuse Act (1986) - the first major anti-hacking law [5]
+
+The film also coined the term "war dialing," which hackers continue to use today [5].
+
+### Legacy
+
+In 2008, the US Department of Defense renamed the fictional AI to avoid confusion with a real system, though it was later reverted. The film's success also led to a 1985 television series and a 1999 sequel, though neither matched the original's impact [5].
 
 ## Wall-E (2008)
 
