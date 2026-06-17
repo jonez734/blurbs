@@ -27,6 +27,8 @@ See the dedicated Automan article for more details.
 
 ## Data: The Android Searching for Humanity
 
+For the in-depth episode "The Measure of a Man," see the dedicated article.
+
 Star Trek: The Next Generation (1987-1994) gave us Data, a Soong-type android portrayed by Brent Spiner who became one of the franchise's most beloved characters. Data served as the ship's Operations Officer aboard the USS Enterprise-D, possessing superhuman strength, processing speed, and memory. However, what made Data fascinating wasn't his physical capabilities—it was his lifelong quest to become more human [1].
 
 Spiner spent more hours in makeup than out, applying pale skin makeup and gold contacts to achieve Data's distinctive appearance. He used Robby the Robot from Forbidden Planet as a primary influence for his portrayal. Data appeared in 178 of 179 TNG episodes—the only exception being "The Offspring" [1].
