@@ -13,6 +13,13 @@ The Knight Industries Two Thousand (KITT) from Knight Rider (1982-1986) remains 
 
 See the dedicated KITT article for more details on KARR, features, and legacy.
 
+## Max Headroom: The Glitchy AI
+
+Another 1980s AI character was Max Headroom, the fictional artificial intelligence created for British television in 1985. Max was introduced in "Max Headroom: 20 Minutes into the Future" and became the first cyberpunk character on US network TV. Max was an AI program based on journalist Edison Carter's mind, created after Carter crashed his motorcycle. He became a TV host who existed within broadcast signals and computer systems. Actor Matt Frewer played both Edison Carter and Max Headroom, though Max was presented as "computer-generated" (it was actually prosthetics). Max was known for his stuttering speech, glitchy visual effect, and biting social commentary [8].
+
+See the dedicated Max Headroom article for more details.
+
+
 ## Automan: The Holographic Hero
 
 Another Glen A. Larson creation, Automan (1983-1984) featured an artificially intelligent computer construct as its hero. Police officer and computer programmer Walter Nebicher (Desi Arnaz Jr.) created Automan—a holographic "automatic man" who could leave the computer world and fight crime in the real world [7]. Automan's sidekick was Cursor, a floating polyhedron that could "draw" holographic objects including vehicles (Autocar, Autochopper), weapons, and more [7]. The show deliberately emulated the visual style of Disney's Tron and ran for only 13 episodes before cancellation [7].
