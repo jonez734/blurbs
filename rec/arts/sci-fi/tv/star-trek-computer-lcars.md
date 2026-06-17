@@ -5,11 +5,11 @@ date: 2026-06-16 00:00:00 GMT
 
 # The Star Trek Computer: LCARS and Beyond
 
-The Federation computers aboard Star Trek vessels use LCARS (Library Computer Access/Retrieval System), one of the most iconic computer interfaces in science fiction. Designed by Michael Okuda for Star Trek: The Next Generation, LCARS has influenced real-world interface design and anticipated the touchscreen era.
+The Federation computers aboard Star Trek vessels use LCARS (Library Computer Access/Retrieval System), one of the most iconic computer interfaces in science fiction. Designed by Michael Okuda for Star Trek: The Next Generation, LCARS has influenced real-world interface design and anticipated the touchscreen era [1].
 
 ## LCARS: Library Computer Access/Retrieval System
 
-LCARS was created by Michael Okuda, who served as scenic art supervisor and technical consultant for Star Trek: The Next Generation. The distinctive interface—featuring curved shapes, bold colors, and unusual typography—became instantly recognizable as part of the Star Trek aesthetic.
+LCARS was created by Michael Okuda, who served as scenic art supervisor and technical consultant for Star Trek: The Next Generation. The distinctive interface—featuring curved shapes, bold colors, and unusual typography—became instantly recognizable as part of the Star Trek aesthetic [1].
 
 Gene Roddenberry requested that the instrument panels "not have a great deal of activity on them," leading to the minimalized look that suggested technology far more advanced than in the original Star Trek [1].
 
@@ -30,15 +30,15 @@ The computer voice throughout most of the Star Trek franchise was provided by Ma
 The voice evolved significantly over time:
 
 - **Original Series**: "Rhythmic and mechanical" sound
-- **TNG and beyond**: More natural-sounding female voice
+- **TNG and beyond**: More natural-sounding female voice [2]
 
 ### Fun Facts
 
-- Episode "11001001" (TNG) temporarily featured both male and female voices after Bynar modifications to the Enterprise-D
-- The M-5 multitronic unit (2268) from the Original Series had a male voice
-- In 2267, a computer was reprogrammed to address Captain Kirk in an "amorous manner" and giggle—this modification was short-lived
+- Episode "11001001" (TNG) temporarily featured both male and female voices after Bynar modifications to the Enterprise-D [2]
+- The M-5 multitronic unit (2268) from the Original Series had a male voice [2]
+- In 2267, a computer was reprogrammed to address Captain Kirk in an "amorous manner" and giggle—this modification was short-lived [2]
 
-Her final performance as the computer voice was in the 2009 Star Trek film, using archived audio recorded before her death.
+Her final performance as the computer voice was in the 2009 Star Trek film, using archived audio recorded before her death [2].
 
 ## Influence on Real Technology
 
@@ -52,8 +52,12 @@ LCARS has had a measurable influence on real-world interface design:
 
 See the AI in Sci-Fi TV article for more on television's AI characters.
 
-[^1]: [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
+[1] [LCARS - Wikipedia](https://en.wikipedia.org/wiki/LCARS)
 
-[^2]: [Star Trek: The Next Generation Technical Manual](https://www.amazon.com/Star-Trek-Next-Generation-Technical/dp/0671704203?tag=blurbs-20)
+[2] [Computer voice - Memory Alpha](https://memory-alpha.fandom.com/wiki/Computer_voice)
 
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
+
+[3] [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
+
+[4] [Star Trek: The Next Generation Technical Manual](https://www.amazon.com/Star-Trek-Next-Generation-Technical/dp/0671704203?tag=blurbs-20)
