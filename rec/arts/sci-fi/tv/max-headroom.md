@@ -63,3 +63,5 @@ See the AI in Sci-Fi TV article for more on television's AI characters.
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
 [3] [Max Headroom: The Complete Series](https://www.amazon.com/Max-Headroom-Complete-Series/dp/B000KQKT1T?tag=blurbs-20)
+
+[4] [Max Headroom: 20 Minutes Into the Future (1985)](https://www.amazon.com/Max-Headroom-20-Minutes-Future/dp/B000KQKT1U?tag=blurbs-20)
