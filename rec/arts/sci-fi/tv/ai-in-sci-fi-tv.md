@@ -19,7 +19,6 @@ Another 1980s AI character was Max Headroom, the fictional artificial intelligen
 
 See the dedicated Max Headroom article for more details.
 
-
 ## Automan: The Holographic Hero
 
 Another Glen A. Larson creation, Automan (1983-1984) featured an artificially intelligent computer construct as its hero. Police officer and computer programmer Walter Nebicher (Desi Arnaz Jr.) created Automan—a holographic "automatic man" who could leave the computer world and fight crime in the real world [7]. Automan's sidekick was Cursor, a floating polyhedron that could "draw" holographic objects including vehicles (Autocar, Autochopper), weapons, and more [7]. The show deliberately emulated the visual style of Disney's Tron and ran for only 13 episodes before cancellation [7].
@@ -40,11 +39,9 @@ The hearing became a landmark case. Maddox argued that Data was "a collection of
 
 Guinan told Picard that creating more Data units would be "tantamount to slavery"—treating sentient beings as property to be copied and used. Picard delivered the episode's most powerful argument: Data was intelligent, self-aware, and had repeatedly demonstrated free will, judgment, and moral reasoning. A machine that could choose, feel, and develop should not be treated as property [2].
 
-This acclaimed episode explored questions of artificial consciousness and robot rights. When Scientist Commander Maddox wanted to disassemble Data for study, Starfleet ruled Data was property—he could not resign or refuse. Picard represented Data in a formal hearing, while Riker was forced to argue against his friend. The episode asked: what makes someone "alive"? Can consciousness be measured? [2]
+The court ruled in Data's favor, recognizing him as a sentient being with the right to refuse the procedure. By the episode's end, even Maddox referred to Data as "he" rather than "it"—a small but profound linguistic victory marking Data's recognition as a person [2].
 
-Guinan told Picard that creating more Data units would be "tantamount to slavery." Picard argued that Data was intelligent and self-aware—a being with rights, not property [2].
-
-The court ruled in Data's favor, recognizing him as a sentient being. By the episode's end, even Maddox referred to Data as "he" rather than "it"—a small but profound victory [2].
+The episode's legacy is immense—it won the Hugo Award for Best Dramatic Presentation in 1990 and is frequently cited as one of the best episodes in Star Trek history. Entertainment Weekly called it "well-established Trek gospel that the first truly great episode of Star Trek: The Next Generation" [2]. In 2017, Space.com ranked it #1 out of all 700+ Star Trek episodes [2]. Nerdist ranked it the number one best TNG episode [2]. The Washington Post and IGN both ranked it in their top 10 best Star Trek episodes [2]. Despite some fans noting minor plot holes (like why this question wasn't settled earlier in Data's career), the episode is widely regarded as a masterpiece of philosophical science fiction [2].
 
 Data returned in Star Trek: Picard (2020-2023), with Spiner appearing in Seasons 1 and 3. Digital de-aging technology was used to portray younger versions of the character [3].
 
@@ -82,10 +79,12 @@ For AI in movies, see the Hollywood Movies article.
 
 [7] [Automan - Wikipedia](https://en.wikipedia.org/wiki/Automan)
 
+[8] [Max Headroom (character) - Wikipedia](https://en.wikipedia.org/wiki/Max_Headroom_(character))
+
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
-[8] [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
+[9] [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
 
-[9] [Quantum Leap: The Complete Series (1989-1993)](https://www.amazon.com/Quantum-Leap-Complete-Seasons-DVD/dp/B000J0HKPA?tag=blurbs-20)
+[10] [Quantum Leap: The Complete Series (1989-1993)](https://www.amazon.com/Quantum-Leap-Complete-Seasons-DVD/dp/B000J0HKPA?tag=blurbs-20)
 
-[10] [Star Trek: Picard - Season 1](https://www.amazon.com/Star-Trek-Picard-Season-1/dp/B084M5NMZG?tag=blurbs-20)
+[11] [Star Trek: Picard - Season 1](https://www.amazon.com/Star-Trek-Picard-Season-1/dp/B084M5NMZG?tag=blurbs-20)
