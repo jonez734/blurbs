@@ -65,6 +65,32 @@ The film also coined the term "war dialing," which hackers continue to use today
 
 In 2008, the US Department of Defense renamed the fictional AI to avoid confusion with a real system, though it was later reverted. The film's success also led to a 1985 television series and a 1999 sequel, though neither matched the original's impact [5].
 
+## Silent Running (1972)
+
+Douglas Trumbull's directorial debut starred Bruce Dern as Freeman Lowell, an ecologist aboard the space freighter Valley Forge, where the last remaining forests of Earth are preserved in bio-domes. When ordered to destroy the forests and return to Earth, Lowell reprograms the ship's three service drones—Huey, Dewey, and Louie—to help him save the last forest [7].
+
+The three robots, named after Donald Duck's nephews, become Lowell's companions and helpers. They learn to plant trees, play poker, and even perform surgery on Lowell when he's injured. In the emotional climax, Dewey is left alone tending the forest in space after Lowell's sacrifice—a poignant portrayal of AI as loyal, emotional partners [7].
+
+The film's budget was just $1.35 million, and Trumbull had previously worked on special effects for 2001: A Space Odyssey. Universal once sued Star Wars for alleged infringement over the design of R2-D2 vs. the drones, but the case was dismissed.
+
+## Westworld (1973)
+
+Michael Crichton's directorial debut (written and directed by him) was one of the first films to feature realistic-looking android robots. The film takes place at Delos, a futuristic theme park where adult guests can experience lifelike recreations of historical eras—including the Old West, Medieval times, and Roman times—populated by sophisticated androids [8].
+
+Yul Brynner gives a memorable performance as the Gunslinger, a black-clad android cowboy who becomes the film's primary antagonist. When the androids begin malfunctioning, the Gunslinger turns deadly, pursuing guests through the park. Brynner drew on his iconic role in The Magnificent Seven for the performance [8].
+
+Westworld was notably the first film to use computer-generated imagery (CGI) for the robot's point-of-view shots—a landmark in visual effects history. The film cost just $1.2 million to make and grossed $10 million, launching Crichton's career as a director [8].
+
+The film spawned sequels Futureworld (1976), Westworld (TV series 2016-2022), and the concept influenced countless AI-gone-wrong stories.
+
+## Dark Star (1974)
+
+John Carpenter's low-budget comedy (made for just $60,000) follows the crew of the starship Dark Star, 20 years into their mission to destroy unstable planets. The ship features an artificially intelligent computer that manages ship systems—and a crew of sentient bombs called "Exponential Thermostellar Devices" [9].
+
+The film's most memorable AI character is Bomb #20, a sentient thermonuclear bomb that can talk and reason. When it receives an erroneous detonation order, the ship's computer must convince it not to explode. Later, when the bomb gets stuck in the bay counting down, Lt. Doolittle attempts to teach it phenomenology to make it question whether its orders are real—with comedic results [9].
+
+Dan O'Bannon (who later wrote Alien) co-wrote and starred in the film. Carpenter described it as "Waiting for Godot in outer space." The film's AI is both comedic and philosophical, questioning machine consciousness [9].
+
 ## Wall-E (2008)
 
 Pixar's animated film features the title character, a small waste-management robot left on Earth to clean up humanity's mess. Wall-E has minimal dialogue—mostly beeps and sounds—but conveys remarkable emotion through design and movement [3].
@@ -109,16 +135,28 @@ For AI in television, see the AI in Sci-Fi TV article. For I, Robot details, see
 
 [6] [J.A.R.V.I.S. - Wikipedia](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)
 
+[7] [Silent Running - Wikipedia](https://en.wikipedia.org/wiki/Silent_Running)
+
+[8] [Westworld - Wikipedia](https://en.wikipedia.org/wiki/Westworld_(film))
+
+[9] [Dark Star - Wikipedia](https://en.wikipedia.org/wiki/Dark_Star_(film))
+
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
-[7] [2001: A Space Odyssey (1968)](https://www.amazon.com/2001-Space-Odyssey-Blu-ray-Keir/dp/B004Q5TZ4G?tag=blurbs-20)
+[10] [2001: A Space Odyssey (1968)](https://www.amazon.com/2001-Space-Odyssey-Blu-ray-Keir/dp/B004Q5TZ4G?tag=blurbs-20)
 
-[8] [The Terminator (1984)](https://www.amazon.com/Terminator-Blu-ray-Arnold-Schwarzenegger/dp/B00EHMX26O?tag=blurbs-20)
+[11] [The Terminator (1984)](https://www.amazon.com/Terminator-Blu-ray-Arnold-Schwarzenegger/dp/B00EHMX26O?tag=blurbs-20)
 
-[9] [WarGames (1983)](https://www.amazon.com/Wargames-Blu-ray-Matthew-Broderick/dp/B00EHMX2I2?tag=blurbs-20)
+[12] [WarGames (1983)](https://www.amazon.com/Wargames-Blu-ray-Matthew-Broderick/dp/B00EHMX2I2?tag=blurbs-20)
 
-[10] [Wall-E (2008)](https://www.amazon.com/WALL-E-Blu-ray-Disneys-Pixar/dp/B001VOONLW?tag=blurbs-20)
+[13] [Silent Running (1972)](https://www.amazon.com/Silent-Running-Blu-ray-Douglas/dp/B00KQKT1HG?tag=blurbs-20)
 
-[11] [Short Circuit (1986)](https://www.amazon.com/Short-Circuit-Synergy-Steve-Gutenberg/dp/B00EHMX2I8?tag=blurbs-20)
+[14] [Westworld (1973)](https://www.amazon.com/Westworld-Blu-ray-Yul-Brynner/dp/B00EHMX2JY?tag=blurbs-20)
 
-[12] [Iron Man (2008)](https://www.amazon.com/Iron-Man-Blu-ray-Double-pack/dp/B00EHMX2FQ?tag=blurbs-20)
+[15] [Dark Star (1974)](https://www.amazon.com/Dark-Star-Blu-ray-John-Carpenter/dp/B00EHMX2I4?tag=blurbs-20)
+
+[16] [Wall-E (2008)](https://www.amazon.com/WALL-E-Blu-ray-Disneys-Pixar/dp/B001VOONLW?tag=blurbs-20)
+
+[17] [Short Circuit (1986)](https://www.amazon.com/Short-Circuit-Synergy-Steve-Gutenberg/dp/B00EHMX2I8?tag=blurbs-20)
+
+[18] [Iron Man (2008)](https://www.amazon.com/Iron-Man-Blu-ray-Double-pack/dp/B00EHMX2FQ?tag=blurbs-20)
