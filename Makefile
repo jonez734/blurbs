@@ -39,3 +39,52 @@ prod:
 help:
 	@echo "Available targets:"
 	@echo "  make prod              - Install blurbs locally and sync to merlin"
+
+# Generate copies of blurbs to multiple paths based on folder-path frontmatter
+# Usage: make copy-paths
+.PHONY: copy-paths
+
+copy-paths:
+	@echo "Generating copies based on folder-path frontmatter..."
+	@for f in $$(find . -name "*.md" -type f); do \
+		paths=$$(sed -n 's/^folder-path: //p' "$$f" 2>/dev/null); \
+		if [ -n "$$paths" ]; then \
+			IFS=',' read -ra DIRS <<< "$$paths"; \
+			for dir in "$${DIRS[@]}"; do \
+				dir=$$(echo "$$dir" | tr -d ' '); \
+				if [ "$$dir" != "." ] && [ -n "$$dir" ]; then \
+					mkdir -p "$$dir"; \
+					if [ "$$f" != "$$dir/$$(basename "$$f")" ]; then \
+						cp "$$f" "$$dir/"; \
+						echo "  Copied $$f -> $$dir/"; \
+					fi \
+				fi \
+			done \
+		fi \
+	done
+	@echo "Done."
+
+# Clean up generated copies (keeps originals in first folder-path location)
+# Usage: make clean-copies
+.PHONY: clean-copies
+
+clean-copies:
+	@echo "Removing generated copies based on folder-path frontmatter..."
+	@for f in $$(find . -name "*.md" -type f); do \
+		paths=$$(sed -n 's/^folder-path: //p' "$$f" 2>/dev/null); \
+		if [ -n "$$paths" ]; then \
+			filename=$$(basename "$$f"); \
+			first_path=$$(echo "$$paths" | cut -d',' -f1 | tr -d ' '); \
+			for dir in $$(echo "$$paths" | tr ',' ' '); do \
+				dir=$$(echo "$$dir" | tr -d ' '); \
+				if [ -n "$$dir" ] && [ "$$dir" != "." ]; then \
+					if [ "$$dir/$$filename" != "$$f" ]; then \
+						rm -f "$$dir/$$filename"; \
+						echo "  Removed $$dir/$$filename"; \
+						rmdir --ignore-fail-on-non-empty "$$dir" 2>/dev/null || true; \
+					fi \
+				fi \
+			done \
+		fi \
+	done
+	@echo "Done. Originals preserved in first folder-path location."
