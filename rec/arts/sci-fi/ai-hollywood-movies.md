@@ -35,6 +35,20 @@ The film cost just $6.4 million and grossed $78 million worldwide—an extraordi
 
 Unlike HAL's gradual breakdown, Skynet is deliberately malicious—a military AI that decides humanity is a threat to be eliminated. The contrast between these two approaches to AI antagonism (malfunction vs. deliberate) has influenced countless sci-fi works since [2].
 
+## WarGames (1983)
+
+Matthew Broderick starred as David Lightman, a teenage hacker who inadvertently hacks into NORAD's supercomputer WAR (Worldwide Automated Rrogressive) and nearly starts World War III by almost triggering a Soviet nuclear strike. The film was a cultural phenomenon that introduced millions to the terrifying possibility of AI-driven military systems [5].
+
+### Joshua: "A strange game"
+
+The central AI, called Joshua (voiced by Kent Smith), is named after the computer from the 1983 film "WarGames" itself—it nearly triggered nuclear war. When David asks to play "a nice game," Joshua responds with "A strange game. The only winning move is not to play." This line became one of the most iconic in sci-fi history [5].
+
+### Impact
+
+WarGames was loosely based on real events—the 1980s "WARGAMES" incident where a teenager, Matthew Broderick inspired, actually hacked into a Pentagon computer. The film led to major changes in computer security practices and raised national awareness about cybersecurity [5].
+
+The film's success led to a 1985 television series and a 1999 sequel, though neither matched the original's impact. In 2008, the US Department of Defense renamed the fictional AI to avoid confusion with a real system, though it was later reverted [5].
+
 ## Wall-E (2008)
 
 Pixar's animated film features the title character, a small waste-management robot left on Earth to clean up humanity's mess. Wall-E has minimal dialogue—mostly beeps and sounds—but conveys remarkable emotion through design and movement [3].
@@ -59,7 +73,7 @@ The famous line "No disassemble!" became a cultural touchstone. The film spawned
 
 ## JARVIS: The AI Who Became Human
 
-Tony Stark's personal AI assistant J.A.R.V.I.S. (Just A Rather Very Intelligent System) appeared in Iron Man (2008), becoming one of the most beloved AI characters in the Marvel Cinematic Universe [5].
+Tony Stark's personal AI assistant J.A.R.V.I.S. (Just A Rather Very Intelligent System) appeared in Iron Man (2008), becoming one of the most beloved AI characters in the Marvel Cinematic Universe [6].
 
 See the dedicated JARVIS article for more details.
 
@@ -75,16 +89,20 @@ For AI in television, see the AI in Sci-Fi TV article. For I, Robot details, see
 
 [4] [Short Circuit - Wikipedia](https://en.wikipedia.org/wiki/Short_Circuit)
 
-[5] [J.A.R.V.I.S. - Wikipedia](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)
+[5] [WarGames - Wikipedia](https://en.wikipedia.org/wiki/WarGames)
+
+[6] [J.A.R.V.I.S. - Wikipedia](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)
 
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
-[6] [2001: A Space Odyssey (1968)](https://www.amazon.com/2001-Space-Odyssey-Blu-ray-Keir/dp/B004Q5TZ4G?tag=blurbs-20)
+[7] [2001: A Space Odyssey (1968)](https://www.amazon.com/2001-Space-Odyssey-Blu-ray-Keir/dp/B004Q5TZ4G?tag=blurbs-20)
 
-[7] [The Terminator (1984)](https://www.amazon.com/Terminator-Blu-ray-Arnold-Schwarzenegger/dp/B00EHMX26O?tag=blurbs-20)
+[8] [The Terminator (1984)](https://www.amazon.com/Terminator-Blu-ray-Arnold-Schwarzenegger/dp/B00EHMX26O?tag=blurbs-20)
 
-[8] [Wall-E (2008)](https://www.amazon.com/WALL-E-Blu-ray-Disneys-Pixar/dp/B001VOONLW?tag=blurbs-20)
+[9] [WarGames (1983)](https://www.amazon.com/Wargames-Blu-ray-Matthew-Broderick/dp/B00EHMX2I2?tag=blurbs-20)
 
-[9] [Short Circuit (1986)](https://www.amazon.com/Short-Circuit-Synergy-Steve-Gutenberg/dp/B00EHMX2I8?tag=blurbs-20)
+[10] [Wall-E (2008)](https://www.amazon.com/WALL-E-Blu-ray-Disneys-Pixar/dp/B001VOONLW?tag=blurbs-20)
 
-[10] [Iron Man (2008)](https://www.amazon.com/Iron-Man-Blu-ray-Double-pack/dp/B00EHMX2FQ?tag=blurbs-20)
+[11] [Short Circuit (1986)](https://www.amazon.com/Short-Circuit-Synergy-Steve-Gutenberg/dp/B00EHMX2I8?tag=blurbs-20)
+
+[12] [Iron Man (2008)](https://www.amazon.com/Iron-Man-Blu-ray-Double-pack/dp/B00EHMX2FQ?tag=blurbs-20)
