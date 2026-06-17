@@ -11,7 +11,7 @@ Television has long explored the theme of artificial intelligence, creating some
 
 The Knight Industries Two Thousand (KITT) from Knight Rider (1982-1986) remains one of television's most beloved AI characters. Unlike the servile computers of earlier science fiction, KITT was a genuine partner to his human counterpart Michael Knight. Voice actor William Daniels insisted on delivering his lines in a natural human voice rather than a robotic monotone, giving KITT warmth and personality.
 
-See the dedicated KITT article for more details on KARR, features, and legacy.
+See the dedicated KITT article for more details on KARR, features, and legacy [9].
 
 ## Max Headroom: The Glitchy AI
 
@@ -81,7 +81,9 @@ For AI in movies, see the Hollywood Movies article.
 
 [7] [Automan - Wikipedia](https://en.wikipedia.org/wiki/Automan)
 
-[8] [Max Headroom (character) - Wikipedia](https://en.wikipedia.org/wiki/Max_Headroom_(character))
+[8] [Max Headroom (character) - Wikipedia]
+
+[9] [KITT - Knight Rider Blurb](/blurbs/rec/arts/sci-fi/tv/knight-rider/kitt.md)
 
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
