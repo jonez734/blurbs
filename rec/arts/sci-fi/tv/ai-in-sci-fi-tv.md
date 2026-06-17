@@ -34,6 +34,12 @@ Spiner spent more hours in makeup than out, applying pale skin makeup and gold c
 
 ### "The Measure of a Man" (Season 2, Episode 9)
 
+This acclaimed episode, first aired on February 13, 1989, explored questions of artificial consciousness and robot rights. When Scientist Commander Bruce Maddox wanted to disassemble Data for study to create more android replicas, Starfleet ruled Data was property—he could not resign or refuse. Picard represented Data in a formal hearing, while Riker was forced to argue against his friend (ordered by Starfleet Command). The episode asked: what makes someone "alive"? Can consciousness be measured? Can a machine have rights? [2]
+
+The hearing became a landmark case. Maddox argued that Data was "a collection of neural net processors and positronic pathways"—a machine that could be replicated and improved. Riker, forced into the role of prosecutor, demonstrated that Data could be shut down with an "off switch"—reducing him to "a toaster." The implication: if something can be turned off like an appliance, is it truly alive? [2]
+
+Guinan told Picard that creating more Data units would be "tantamount to slavery"—treating sentient beings as property to be copied and used. Picard delivered the episode's most powerful argument: Data was intelligent, self-aware, and had repeatedly demonstrated free will, judgment, and moral reasoning. A machine that could choose, feel, and develop should not be treated as property [2].
+
 This acclaimed episode explored questions of artificial consciousness and robot rights. When Scientist Commander Maddox wanted to disassemble Data for study, Starfleet ruled Data was property—he could not resign or refuse. Picard represented Data in a formal hearing, while Riker was forced to argue against his friend. The episode asked: what makes someone "alive"? Can consciousness be measured? [2]
 
 Guinan told Picard that creating more Data units would be "tantamount to slavery." Picard argued that Data was intelligent and self-aware—a being with rights, not property [2].
