@@ -13,6 +13,12 @@ The Knight Industries Two Thousand (KITT) from Knight Rider (1982-1986) remains 
 
 See the dedicated KITT article for more details on KARR, features, and legacy.
 
+## Automan: The Holographic Hero
+
+Another Glen A. Larson creation, Automan (1983-1984) featured an artificially intelligent computer construct as its hero. Police officer and computer programmer Walter Nebicher (Desi Arnaz Jr.) created Automan—a holographic "automatic man" who could leave the computer world and fight crime in the real world [7]. Automan's sidekick was Cursor, a floating polyhedron that could "draw" holographic objects including vehicles (Autocar, Autochopper), weapons, and more [7]. The show deliberately emulated the visual style of Disney's Tron and ran for only 13 episodes before cancellation [7].
+
+See the dedicated Automan article for more details.
+
 ## Data: The Android Searching for Humanity
 
 Star Trek: The Next Generation (1987-1994) gave us Data, a Soong-type android portrayed by Brent Spiner who became one of the franchise's most beloved characters. Data served as the ship's Operations Officer aboard the USS Enterprise-D, possessing superhuman strength, processing speed, and memory. However, what made Data fascinating wasn't his physical capabilities—it was his lifelong quest to become more human [1].
@@ -61,10 +67,12 @@ For AI in movies, see the Hollywood Movies article.
 
 [6] [LCARS - Wikipedia](https://en.wikipedia.org/wiki/LCARS)
 
+[7] [Automan - Wikipedia](https://en.wikipedia.org/wiki/Automan)
+
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 
-[7] [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
+[8] [Star Trek: The Next Generation - The Complete Series](https://www.amazon.com/Star-Trek-Next-Generation-Complete/dp/B00005J6RS?tag=blurbs-20)
 
-[8] [Quantum Leap: The Complete Series (1989-1993)](https://www.amazon.com/Quantum-Leap-Complete-Seasons-DVD/dp/B000J0HKPA?tag=blurbs-20)
+[9] [Quantum Leap: The Complete Series (1989-1993)](https://www.amazon.com/Quantum-Leap-Complete-Seasons-DVD/dp/B000J0HKPA?tag=blurbs-20)
 
-[9] [Star Trek: Picard - Season 1](https://www.amazon.com/Star-Trek-Picard-Season-1/dp/B084M5NMZG?tag=blurbs-20)
+[10] [Star Trek: Picard - Season 1](https://www.amazon.com/Star-Trek-Picard-Season-1/dp/B084M5NMZG?tag=blurbs-20)
