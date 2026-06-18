@@ -68,9 +68,6 @@ Caputo describes her process as fundamentally different from what audiences migh
 
 She explains that spirit uses a "vocabulary of signs and symbols" that she has learned to interpret over years of practice. [2] The messages come through as images, feelings, and intuitive knowledge rather than audible voices.
 
-### Client Support
-
-Caputo maintains a team of counselors on staff who are available to speak with clients after readings, recognizing the emotional intensity of connecting with deceased loved ones. [7] This support system demonstrates her commitment to ethical practice and client wellbeing.
 
 ---
 
@@ -99,39 +96,39 @@ Caputo has read for numerous celebrities, though she maintains confidentiality a
 
 ### The Pigasus Award
 
-In April 2012, the **James Randi Educational Foundation** awarded Caputo its **Pigasus Award** in the performer category. [8][9][10] The award, created by former magician and skeptic James Randi, is a tongue-in-cheek recognition of "the most egregious examples of flim-flammery" in the paranormal field. [10]
+In April 2012, the **James Randi Educational Foundation** awarded Caputo its **Pigasus Award** in the performer category. [7][8][9] The award, created by former magician and skeptic James Randi, is a tongue-in-cheek recognition of "the most egregious examples of flim-flammery" in the paranormal field. [9]
 
 James Randi wrote critically of Caputo:
 
-> "Caputo is just one more of the myriad faux seers who have stepped into the TV spotlight for their turn... she'll do her number along with Van Praagh, John Edward and 'Psychic Sally' until someone with a newer novelty elbows her offstage." [9]
+> "Caputo is just one more of the myriad faux seers who have stepped into the TV spotlight for their turn... she'll do her number along with Van Praagh, John Edward and 'Psychic Sally' until someone with a newer novelty elbows her offstage." [8]
 
 ### Cold Reading Allegations
 
-Caputo has been criticized for using **cold reading** techniques—a method used by mentalists to gather information about a person through educated guesses, leading questions, and general statements that could apply to anyone. [11][12][13]
+Caputo has been criticized for using **cold reading** techniques—a method used by mentalists to gather information about a person through educated guesses, leading questions, and general statements that could apply to anyone. [10][11][12]
 
 Skeptical investigator Dr. Karen Stollznow wrote:
 
-> "Caputo had emotionally disarmed the woman who was taken in by what a real skeptic would readily recognize as a classic cold reading. Skillful editing seems to have ironed out any misses and genuine skeptics." [11]
+> "Caputo had emotionally disarmed the woman who was taken in by what a real skeptic would readily recognize as a classic cold reading. Skillful editing seems to have ironed out any misses and genuine skeptics." [10]
 
 ### Hot Reading Allegations
 
-Investigative reports have alleged that Caputo uses **hot reading**—gathering information about clients before readings through social media and other sources. [12][13] Mark Edward, a former psychic who now works as a skeptical investigator, conducted a sting operation with Inside Edition in 2012:
+Investigative reports have alleged that Caputo uses **hot reading**—gathering information about clients before readings through social media and other sources. [11][12] Mark Edward, a former psychic who now works as a skeptical investigator, conducted a sting operation with Inside Edition in 2012:
 
-> "Instead of taking chances with too much guessing, Theresa bumps-up her percentage of hits and avoids bad misses by front-loading her stage shows with a combination of techniques... planting previous clients they have already read for in specific seats in the audience." [12]
+> "Instead of taking chances with too much guessing, Theresa bumps-up her percentage of hits and avoids bad misses by front-loading her stage shows with a combination of techniques... planting previous clients they have already read for in specific seats in the audience." [11]
 
 ### Celebrity Skeptics
 
 Caputo has faced criticism from several high-profile figures:
 
-* **Anderson Cooper** appeared skeptical after Caputo's appearance on "Anderson Live" in 2012: "There's a lot you can say to a room of 300 people. If you say somebody here has ashes of a loved one, there's a pretty good chance somebody has a piece of jewelry with some ashes in it." [13]
+* **Anderson Cooper** appeared skeptical after Caputo's appearance on "Anderson Live" in 2012: "There's a lot you can say to a room of 300 people. If you say somebody here has ashes of a loved one, there's a pretty good chance somebody has a piece of jewelry with some ashes in it." [12]
 
-* **Howard Stern** refused to have her on his show in 2014, calling her "a charlatan" and saying "She's never coming in here... The Long Island psychic is not a psychic." [13]
+* **Howard Stern** refused to have her on his show in 2014, calling her "a charlatan" and saying "She's never coming in here... The Long Island psychic is not a psychic." [12]
 
-* **Andy Cohen** described his reading as "a lot of fishing," suggesting Caputo made vague statements that he interpreted to fit his own knowledge of his deceased friend Natasha Richardson. [13]
+* **Andy Cohen** described his reading as "a lot of fishing," suggesting Caputo made vague statements that he interpreted to fit his own knowledge of his deceased friend Natasha Richardson. [12]
 
 ### The Million Dollar Challenge
 
-James Randi created the **One Million Dollar Paranormal Challenge**, offering $1 million to anyone who could prove paranormal abilities under controlled conditions. Caputo has declined to participate: "I will never prove or defend my gift." [13]
+James Randi created the **One Million Dollar Paranormal Challenge**, offering $1 million to anyone who could prove paranormal abilities under controlled conditions. Caputo has declined to participate: "I will never prove or defend my gift." [12]
 
 ### Criss Angel's Offer
 
@@ -163,20 +160,19 @@ Unlike some mediums who have participated in controlled scientific studies (such
 
 [6] [Amazon - Theresa Caputo Books](https://www.amazon.com/Theresa-Caputo/e/B00C4JVS7G)
 
-[7] [John Edward - Background Information](https://example.com) (Note: Unverified report about counselors)
 
-[8] [Skeptical Inquirer - Theresa Caputo: The Fake Long Island Medium](https://skepticalinquirer.org/2016/10/theresa-caputo-the-fake-long-island-medium/)
+[7] [Skeptical Inquirer - Theresa Caputo: The Fake Long Island Medium](https://skepticalinquirer.org/2016/10/theresa-caputo-the-fake-long-island-medium/)
 
-[9] [Wired - The 'Medium' Is Not the Messenger](https://www.wired.com/2012/04/opinion-randilimedium0409/)
+[8] [Wired - The 'Medium' Is Not the Messenger](https://www.wired.com/2012/04/opinion-randilimedium0409/)
 
-[10] [Wikipedia - Pigasus Award](https://en.wikipedia.org/wiki/Pigasus_Award)
+[9] [Wikipedia - Pigasus Award](https://en.wikipedia.org/wiki/Pigasus_Award)
 
-[11] [James Randi Foundation - Long Island Medium: A Tall Story](https://archive.randi.org/site/index.php/swift-blog/1755-long-island-medium-a-tall-story.html)
+[10] [James Randi Foundation - Long Island Medium: A Tall Story](https://archive.randi.org/site/index.php/swift-blog/1755-long-island-medium-a-tall-story.html)
 
-[12] [ILLuMiNuTTi - Is Caputo Kaputo Yet?](https://illuminutti.com/2012/11/10/is-caputo-kaputo-yet/)
+[11] [ILLuMiNuTTi - Is Caputo Kaputo Yet?](https://illuminutti.com/2012/11/10/is-caputo-kaputo-yet/)
 
-[13] [Des Moines Register - The Long Island Medium on critics, gifts ahead of Des Moines stop](https://www.desmoinesregister.com/story/entertainment/2019/10/31/long-island-medium-critics-gifts-ahead-des-moines-stop-iowa-civic-center/2495555001/)
+[12] [Des Moines Register - The Long Island Medium on critics, gifts ahead of Des Moines stop](https://www.desmoinesregister.com/story/entertainment/2019/10/31/long-island-medium-critics-gifts-ahead-des-moines-stop-iowa-civic-center/2495555001/)
 
-[14] [PsychicReview.org - Theresa Caputo Certified Expert](https://www.psychicreview.org/certified-expert/theresa-caputo)
+[13] [PsychicReview.org - Theresa Caputo Certified Expert](https://www.psychicreview.org/certified-expert/theresa-caputo)
 
-[15] [Skepchick - Open Letter to Ellen Degeneres: Don't Promote Theresa Caputo](https://skepchick.org/2014/03/ellen-degeneres-theresa-caputo-the-long-island-medium/)
+[14] [Skepchick - Open Letter to Ellen Degeneres: Don't Promote Theresa Caputo](https://skepchick.org/2014/03/ellen-degeneres-theresa-caputo-the-long-island-medium/)
