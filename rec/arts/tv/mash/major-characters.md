@@ -15,7 +15,9 @@ The 4077th Mobile Army Surgical Hospital was home to one of television's most be
 
 **Trapper John McIntyre** (Wayne Rogers, Seasons 1-3) - The original Hawkeye's partner in pranks and surgery before leaving in a contract dispute after Season 3.
 
-**Frank Burns** (Larry Linville, Seasons 1-5) - The pompous, incompetent executive officer whose rivalry with Hawkeye drove many storylines. Burns was written out when Linville declined to renew his contract.
+**Frank Burns** (Larry Linville, Seasons 1-5) - The pompous, incompetent executive officer whose rivalry with Hawkeye drove many storylines. Frank was universally despised by everyone at the 4077th—he was greedy, sanctimonious, a Hypocrite, and had an incestuous affair with Margaret that he constantly tried to hide. He was the ultimate company man who had no sense of humor and served as the perfect foil to Hawkeye's irreverence.
+
+Larry Linville played Frank Burns as a "straight man" to Hawkeye's insanity—an approach he described as "playing it straight for the sake of the show." He realized early on that audiences didn't need to see Burns react humorously to the chaos around him; instead, playing it straight made the comedy from Hawkeye and the others land harder. Linville was grateful for the role but ultimately chose not to renew his contract after Season 5, wanting to avoid being typecast. Burns was written out when he was replaced by Charles Winchester.
 
 **Charles Emerson Winchester III** (David Ogden Stiers, Seasons 6-11) - A brilliant but arrogant surgeon from a wealthy Boston family. His snobbery and rivalry with Hawkeye provided both comedy and occasional growth. Replaced Frank Burns.
 
