@@ -1,7 +1,7 @@
 export HOST = merlin
 export PROJECT = blurbs
 
-export TEOSDIR ?= /srv/www/zoid6/teos/
+export TEOSDIR ?= /srv/www/vhosts/zoidtechnologies.com/html/teos/
 export PROD = $(HOST):$(TEOSDIR)
 
 export RSYNC = rsync --delete-after --chmod=Dg=rwxs,Fgu=rw,Fo=r --verbose \
@@ -33,7 +33,7 @@ prod:
 			fi \
 		fi \
 	done
-	$(RSYNC) --exclude='Makefile' --exclude='*~' . $(TEOSDIR)/
+	$(RSYNC) --exclude='Makefile' --exclude='*~' . $(TEOSDIR)
 	$(RSYNC) $(TEOSDIR) $(PROD)
 
 help:

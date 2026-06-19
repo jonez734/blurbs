@@ -1,6 +1,6 @@
 ---
 folder-path: comp/lang/python/
-date: 2026-06-15 22:50:17 GMT (18:50:17 NYC)
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 ---
 
 # Functions and Modules in Python

@@ -1,6 +1,6 @@
 ---
 folder-path: ec/
-date: 2026-06-15 22:50:16 GMT (18:50:16 NYC)
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 ---
 
 # Movies: Psychics, Mediums, and Ghosts in Film

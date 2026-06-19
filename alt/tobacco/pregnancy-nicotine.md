@@ -1,6 +1,6 @@
 ---
 folder-path: alt/tobacco/
-date: 2026-06-16 GMT
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 ---
 
 # Pregnancy and Nicotine: Fetal and Infant Risks

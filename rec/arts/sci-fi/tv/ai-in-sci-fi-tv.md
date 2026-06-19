@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/sci-fi/tv/, rec/arts/sci-fi/
-date: 2026-06-16 00:00:00 GMT
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 ---
 
 # Artificial Intelligence in Science Fiction Television

@@ -1,6 +1,6 @@
 ---
 folder-path: ec/
-date: 2026-06-18 14:40:10 GMT (10:40:10 NYC)
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 ---
 
 # Theresa Caputo: The Long Island Medium
