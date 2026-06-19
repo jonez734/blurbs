@@ -56,7 +56,7 @@ The show also got a boost from summer reruns and word-of-mouth. Larry Gelbart wr
 
 ## Lasting Impact
 
-M*A*S*H proved that television could tackle serious issues—war, death, morality—while maintaining humor. Its success paved the way for future dramedies and demonstrated that audiences would embrace complex, emotionally challenging storytelling. Despite never finishing #1 in the season ratings, it was a Top 10 fixture for most of its run, cementing its place as one of the greatest television series ever made.
+M*A*S*H proved that television could tackle serious issues—war, death, morality—while maintaining humor. Its success paved the way for future dramedies and demonstrated that audiences would embrace complex, emotionally challenging storytelling. The show peaked at #4 in seasons 2-6, reached #3 in the final season, and was a Top 10 fixture for most of its run—never #1 for a week or season, but beloved nonetheless.
 
 ---
 
