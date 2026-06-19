@@ -9,7 +9,7 @@ As of 2026, only a handful of the principal M*A*S*H cast members remain. The sho
 
 ## Currently Living (as of 2026)
 
-**Alan Alda (age 89)** - The iconic Hawkeye Pierce remains the heart of M*A*S*H. At 89, Alda is the last surviving member of the original Season 1 cast. He is the only actor to appear in all 256 episodes of the series. Beyond M*A*S*H, Alda starred in films including "Same Time, Next Year" and "The Aviator," and hosted the PBS series "Scientific American Frontiers" for 13 years. He has been married to actress Arlene Alda since 1957 [1].
+**Alan Alda (age 89)** - The iconic Hawkeye Pierce remains the heart of M*A*S*H. At 89, Alda is one of only two surviving members of the original Season 1 cast (alongside Gary Burghoff). He is the only actor to appear in all 256 episodes of the series. Beyond M*A*S*H, Alda starred in films including "Same Time, Next Year" and "The Aviator," and hosted the PBS series "Scientific American Frontiers" for 13 years. He has been married to actress Arlene Alda since 1957 [1].
 
 **Mike Farrell (age 87)** - The beloved B.J. Hunnicutt, who joined the show in Season 4 replacing Wayne Rogers, is now 87. After M*A*S*H, Farrell became a prominent activist for human rights and animal rights. He wrote two books and continued acting in television, including guest appearances on "Desperate Housewives" and "Criminal Minds" [2].
 
