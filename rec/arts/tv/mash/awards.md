@@ -1,0 +1,59 @@
+---
+folder-path: rec/arts/tv/mash/, rec/arts/tv/
+date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+---
+
+# Awards and Recognition: M*A*S*H
+
+M*A*S*H (1972-1983) stands as one of the most awarded television series in history, dominating the Emmy Awards throughout its 11-season run and earning critical acclaim that continues to resonate over four decades later.
+
+## Emmy Awards
+
+During its original run, M*A*S*H received **105 Emmy Award nominations** and won **14 Emmy Awards** [1]:
+
+### Major Wins
+
+- **Outstanding Series**: 1974, 1975, 1976, 1977, 1978, 1980, 1982
+- **Outstanding Lead Actor in a Comedy Series**: Alan Alda (1975, 1976, 1982)
+- **Outstanding Supporting Actor in a Comedy Series**: Harry Morgan (1980) - for his role as Colonel Potter
+- **Outstanding Supporting Actress in a Comedy Series**: Loretta Swit (1977, 1978)
+- **Outstanding Writing**: Multiple episodes across the series run
+
+### Alan Alda's Individual Achievements
+
+Alan Alda won **five Emmy Awards** for his work on M*A*S*H [2]:
+- Two for Outstanding Lead Actor in a Comedy Series
+- Two for Outstanding Writing for a Comedy Series
+- One for Outstanding Directing for a Comedy Series
+
+He was the first actor to win Emmys for acting, writing, and directing the same series.
+
+## Golden Globe Awards
+
+M*A*S*H also achieved significant recognition from the Golden Globes:
+
+- **Best Television Series (Musical or Comedy)**: 1981
+- **Best Actor in a Television Series (Musical or Comedy)**: Alan Alda won this award an unprecedented **six times** (1975, 1976, 1980, 1981, 1982, 1983)
+- **Best Supporting Actor in a Television Series**: McLean Stevenson (1974)
+
+## Record-Breaking Finale
+
+The series finale, "Goodbye, Farewell and Amen" (February 28, 1983), remains the **most-watched episode in television history** for a scripted series:
+
+- **105.97 million average viewers**
+- **121.6 million total audience** (peaking in the final six minutes)
+- Held the record as the most-watched broadcast in American television history for 27 years (until Super Bowl XLIV in 2010)
+
+The finale earned 14 Emmy nominations and won 4, including Outstanding Writing for a Miniseries, Movie, or Special [3].
+
+## Lasting Impact
+
+M*A*S*H proved that television could tackle serious issues—war, death, morality—while maintaining humor. Its success paved the way for future dramedies and demonstrated that audiences would embrace complex, emotionally challenging storytelling. The show finished at #1 in the Nielsen ratings four times (1974, 1975, 1976, 1983), cementing its place as one of the greatest television series ever made.
+
+---
+
+[1] [M*A*S*H Emmy Awards - Wikipedia](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_M*A*S*H)
+
+[2] [Alan Alda - Emmy Awards](https://en.wikipedia.org/wiki/Alan_Alda)
+
+[3] [Goodbye, Farewell and Amen - Wikipedia](https://en.wikipedia.org/wiki/Goodbye,_Farewell_and_Amen)
