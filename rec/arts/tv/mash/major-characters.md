@@ -15,9 +15,19 @@ The 4077th Mobile Army Surgical Hospital was home to one of television's most be
 
 **Trapper John McIntyre** (Wayne Rogers, Seasons 1-3) - The original Hawkeye's partner in pranks and surgery before leaving in a contract dispute after Season 3.
 
-**Frank Burns** (Larry Linville, Seasons 1-5) - The pompous, incompetent executive officer whose rivalry with Hawkeye drove many storylines. Frank was universally despised by everyone at the 4077th—he was greedy, sanctimonious, a Hypocrite, and had an incestuous affair with Margaret that he constantly tried to hide. He was the ultimate company man who had no sense of humor and served as the perfect foil to Hawkeye's irreverence.
+**Frank Burns** (Larry Linville, Seasons 1-5) - The pompous, incompetent executive officer whose rivalry with Hawkeye drove many storylines. Frank was universally despised by everyone at the 4077th—he was greedy, sanctimonious, a hypocrite, and had an incestuous affair with Margaret that he constantly tried to hide. He was the ultimate company man who had no sense of humor and served as the perfect foil to Hawkeye's irreverence.
 
-Larry Linville played Frank Burns as a "straight man" to Hawkeye's insanity—an approach he described as "playing it straight for the sake of the show." He realized early on that audiences didn't need to see Burns react humorously to the chaos around him; instead, playing it straight made the comedy from Hawkeye and the others land harder. Linville was grateful for the role but ultimately chose not to renew his contract after Season 5, wanting to avoid being typecast. Burns was written out when he was replaced by Charles Winchester.
+Larry Linville played Frank Burns as a "straight man" to Hawkeye's insanity—an approach he described as "playing it straight for the sake of the show." He realized early on that audiences didn't need to see Burns react humorously to the chaos around him; instead, playing it straight made the comedy from Hawkeye and the others land harder.
+
+Linville himself despised the character. *"Frank is the type of character I personally despise,"* he told The Shreveport Journal in 1975. *"He's the ultimate hypocrite... He's almost human but not quite. He has all the elements—he's intelligent because after all he did get through med school, and he does have sensitivity. But somewhere it all went wrong."*
+
+He was initially reluctant to take the role, thinking the character (originally played by Robert Duvall in the film) was too humorless. Producer Gene Reynolds convinced him: *"We're going to have fun with this part."*
+
+After five years, Linville chose not to renew his contract. *"I guess I was just tired of being the guy you loved to loathe,"* he explained to The Hamilton Spectator. *"By then, my involvement with Major Frank Burns had run its course. It was time to move on."*
+
+The hatred from fans followed him off-screen: *"People I'd never met lambasted me, thinking I was a pain-in-the-ass kind of guy. Actually, I think I'm quite nice. You just need to separate Larry from Frank."* Despite that, he remained proud of the role: *"Wherever I go, it's Frank they remember... when people nudge each other on the street and wave to me, I think it's kinda nice."*
+
+Burns was written out when he was replaced by Charles Winchester.
 
 **Charles Emerson Winchester III** (David Ogden Stiers, Seasons 6-11) - A brilliant but arrogant surgeon from a wealthy Boston family. His snobbery and rivalry with Hawkeye provided both comedy and occasional growth. Replaced Frank Burns.
 
