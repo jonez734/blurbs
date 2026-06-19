@@ -46,9 +46,17 @@ The series finale, "Goodbye, Farewell and Amen" (February 28, 1983), remains the
 
 The finale earned 14 Emmy nominations and won 4, including Outstanding Writing for a Miniseries, Movie, or Special [3].
 
+## The Ratings Turnaround
+
+M*A*S*H's first season was a disaster. It aired on Sunday nights opposite NBC's *The Wonderful World of Disney* and ABC's *The FBI*—both Top 30 shows—and finished the 1972-1973 season in **46th place**. The wrap party had most of the cast assuming they wouldn't be back.
+
+But CBS believed in the show's potential and made one crucial change: they moved M*A*S*H to **Saturday nights at 8:30pm**, right after *All in the Family* (the #1 show). This was part of CBS's legendary Saturday "wrecking crew" lineup: *All in the Family*, *M*A*S*H*, *The Mary Tyler Moore Show*, *The Bob Newhart Show*, and *The Carol Burnett Show*. With weaker competition (mostly movies on ABC and NBC), M*A*S*H skyrocketed to **4th place** in season 2 and never fell out of the Top 20 again.
+
+The show also got a boost from summer reruns and word-of-mouth. Larry Gelbart wrote the Season 2 premiere "Divided We Stand" as a "second pilot" to re-introduce the show to audiences who missed it first time. The rest is history.
+
 ## Lasting Impact
 
-M*A*S*H proved that television could tackle serious issues—war, death, morality—while maintaining humor. Its success paved the way for future dramedies and demonstrated that audiences would embrace complex, emotionally challenging storytelling. The show finished at #1 in the Nielsen ratings four times (1974, 1975, 1976, 1983), cementing its place as one of the greatest television series ever made.
+M*A*S*H proved that television could tackle serious issues—war, death, morality—while maintaining humor. Its success paved the way for future dramedies and demonstrated that audiences would embrace complex, emotionally challenging storytelling. Despite never finishing #1 in the season ratings, it was a Top 10 fixture for most of its run, cementing its place as one of the greatest television series ever made.
 
 ---
 
