@@ -5,7 +5,7 @@ date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
 
 # Special Episodes of M*A*S*H
 
-Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Six episodes stand out as particularly iconic.
+Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Seven episodes stand out as particularly iconic.
 
 ## "The Nurses" (Season 5, Episode 6, 1976)
 
@@ -26,6 +26,23 @@ The series finale remains the **most-watched scripted television episode in U.S.
 The finale showed each character finding peace: Hawkeye imagines a future without war, B.J. dreams of returning to his family, and Colonel Potter receives news of his granddaughter's birth. The final scene shows Hawkeye leaving the 4077th by helicopter, looking down at rocks spelling "A.S.A.P." (the camp's motto: "Animation, Situation, Action, Propensity"—a running joke throughout the series).
 
 The episode won four Emmy Awards and held the record as the most-watched broadcast in American television for 27 years.
+
+## "As Time Goes By" (Season 11, Episode 15, 1983)
+
+This penultimate episode (the second-to-last episode of the entire series) centers on Margaret's idea to create a time capsule for the 4077th, inspired by a newspaper story about a time capsule being buried in the cornerstone of a new Los Angeles skyscraper [7].
+
+Margaret collects official military items: a nurse's manual and an Army field manual. Hawkeye initially mocks the idea but then decides to create his own "unofficial" time capsule with personal items. The two clash until a dramatic subplot unfolds: a helicopter pilot, Lt. Brannum, delivers a wounded soldier (Corporal Stoddard) after being shot by snipers. The bullet hit the helicopter's fan belt, forcing Brannum to fly in **200-yard hops**—he'd land, walk ahead to find a safe clearing, walk back, fly to the new spot, wait for the engine to cool down, and repeat. At nightfall, he kept Stoddard warm with a blanket until dawn.
+
+Remarkably, Brannum never mentioned his heroic efforts—he simply got a new fan belt and flew away. When Hawkeye learns the story, he adds the **broken fan belt** to the time capsule: *"The pilot's heroism is something that deserves to be remembered in 100 years."*
+
+Other items added to the capsule:
+- **Radar's teddy bear** - to represent "soldiers who came over here as boys and went home as men"
+- **Henry Blake's fishing lure** - to represent "all the men that never made it home"
+- **Boxing gloves** (from Father Mulcahy) - hoping future nations will use them to settle differences instead of guns
+- **A bottle of cognac** (from Winchester) - noting it will be over 100 years old when opened
+- **A black dress** (from Klinger) - dedicated to "all the women we left behind"
+
+The episode also introduces Soon-Lee, Klinger's future wife, and features the famous dummy hand grenade prank between Rizzo and Winchester. It serves as a beautiful setup for the series finale.
 
 ## "Abyssinia, Henry" (Season 3, Episode 24, 1975)
 
@@ -80,3 +97,5 @@ Afterward, Hawkeye enters the Officers' Club, orders a drink, then pauses and de
 [5] [Bottle Fatigue - MASH Fandom](https://mash.fandom.com/wiki/Bottle_Fatigue)
 
 [6] [The Nurses - MASH4077TV](https://www.mash4077tv.com/2016/05/episode-spotlight-the-nurses/)
+
+[7] [As Time Goes By - Wikipedia](https://en.wikipedia.org/wiki/As_Time_Goes_By_(M*A*S*H))
