@@ -11,6 +11,14 @@ The 4077th Mobile Army Surgical Hospital was home to one of television's most be
 
 **Benjamin Franklin "Hawkeye" Pierce** (Alan Alda) - The heart and soul of the 4077. A brilliant surgeon with a sharp wit who used humor to cope with the horrors of war. He appeared in all 256 episodes and won five Emmys for his work. Hawkeye was the only character to appear in every episode of the series.
 
+Alan Alda was initially reluctant to take the role. He was shooting a movie in Utah State Prison when he received the script: *"It was the best comedy writing I'd ever seen in a half-hour script. It certainly brightened up my day in cell block 9. Right away, I knew I wanted to play in it."* His main concern was that it would become *"high jinks at the front"*—a goofy show where war was just a pretext for silly stories. He met with producers Gene Reynolds and Larry Gelbart until 1 a.m. the night before rehearsals to ensure they shared his vision of making it reflect real people's lives.
+
+On the show's success, Alda reflected: *"I don't know if we ever really realized how successful the show was. We started out at the bottom of the ratings, and we just got used to concentrating on the work every day. For most of the first year, I'd proudly say, 'We're in the Top 72!'"*
+
+He credited the cast's bond for the show's authenticity: *"For the first season, every Friday night we'd stay late and eat pizza and drink beer and end many Fridays in a circle airing our complaints to one another. We'd make real contact that was open and free so that when we'd be called to the set, the connection was still happening underneath the dialogue."*
+
+How did M*A*S*H change his life? *"I became a better actor, better writer and learned how to direct. But more than that, it thrust all of us into something that was more important than we were."*
+
 **B.J. Hunnicutt** (Mike Farrell) - Replaced Trapper John in Season 4. A devoted family man and skilled surgeon who formed an inseparable partnership with Hawkeye. His heartfelt letters to his wife Peg became a recurring emotional anchor.
 
 **Trapper John McIntyre** (Wayne Rogers, Seasons 1-3) - The original Hawkeye's partner in pranks and surgery before leaving in a contract dispute after Season 3.
