@@ -33,7 +33,7 @@ Burghoff chose to leave because his "life at that time, it was a beautiful pictu
 
 **Larry Linville (1939-2000)** - Frank Burns died in 2000 at age 60 from pneumonia following cancer surgery.
 
-**Wayne Rogers (1933-2023)** - Trapper John passed away in 2023 at age 84. He left M*A*S*H after Season 3 in a contract dispute.
+**Wayne Rogers (1933-2023)** - Trapper John passed away in 2023 at age 84. He left M*A*S*H after Season 3. Rogers wanted to pursue film opportunities and felt the role was limiting his career. He had not signed a formal contract with 20th Century Fox, and when the studio sued him for breach of contract, the lawsuit collapsed. His character was written out in "Welcome to Korea," the first episode of Season 4, with Trapper leaving for a transfer to Japan without saying goodbye to anyone. This was notably less dramatic than Henry Blake's exit in the previous episode.
 
 ## Legacy
 
