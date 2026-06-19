@@ -13,7 +13,9 @@ As of 2026, only a handful of the principal M*A*S*H cast members remain. The sho
 
 **Mike Farrell (age 87)** - The beloved B.J. Hunnicutt, who joined the show in Season 4 replacing Wayne Rogers, is now 87. After M*A*S*H, Farrell became a prominent activist for human rights and animal rights. He wrote two books and continued acting in television, including guest appearances on "Desperate Housewives" and "Criminal Minds" [2].
 
-**Gary Burghoff (age 81)** - The man behind Radar O'Reilly is now 81. Burghoff was the only actor to appear in both the original 1970 M*A*S*H film and the television series. He left M*A*S*H after Season 8, with his character written out in the two-part episode "Good-Bye Radar." After the show, Burghoff worked as a spokesman for BP and IBM and appeared on various game shows [3].
+**Gary Burghoff (age 81)** - The man behind Radar O'Reilly is now 81. Burghoff was the only actor to appear in both the original 1970 M*A*S*H film and the television series. He left M*A*S*H after Season 8, with his character written out in the two-part episode "Good-Bye Radar." 
+
+Burghoff chose to leave because his "life at that time, it was a beautiful picture that was all crooked, and I had to step back, big time, in order to grow as a human being." He had a seven-year contract and simply didn't renegotiate because he was "stepping back from everything." He also felt he wasn't being given enough to do on the series. Additionally, problems in his marriage had begun to affect his performance. After the show, Burghoff worked as a spokesman for BP and IBM and appeared on various game shows [3].
 
 **Jamie Farr (age 90)** - Maxwell Klinger himself is approaching 91. Farr was originally brought on as a recurring character but became a regular starting in Season 4. His portrayal of the cross-dressing combat medic who became company clerk made him a fan favorite. He is the longest-lived principal cast member and appeared in all 11 seasons [4].
 
