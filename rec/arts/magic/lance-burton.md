@@ -27,6 +27,14 @@ In 1991, Burton opened his own show, "Lance Burton World Champion Magician," at 
 
 In 1996, "Lance Burton Master Magician" opened at the brand-new Monte Carlo Hotel in the Lance Burton Theatre. This was the first time any entertainer in the history of Las Vegas had a theater built and named for him. The contract at the Monte Carlo was for an unprecedented 13 years, the longest contract ever given to a live performer. Burton stayed at the Monte Carlo for a total of 14 years, performing over 5,000 shows for over 5 million fans, grossing over $200 million. His last performance was September 4, 2010.
 
+## Show Style
+
+Burton was known as the "gentleman magician" of Las Vegas, maintaining a classic, elegant style that set him apart from more contemporary magicians. He always performed in a **tuxedo with tails**, projecting sophistication and old-school charm. His show was family-friendly and traditional, featuring the classic "ta-da" after tricks and a traditional assistant—contrasting sharply with the irreverent style of acts like Penn & Teller.
+
+His signature act was an elegant **dove manipulation routine**, performing graceful card manipulations, candle productions, and dove productions while wearing his formal tailcoat. The act won him the Grand Prix at FISM (Federation Internationale des Societes Magiques) in Lausanne, Switzerland in 1982, making him the first American and youngest contestant to win that prestigious award.
+
+Burton's soft-spoken, charming Kentucky demeanor came through in his performances. He incorporated his Southern roots into his act, once joking: "I'm actually very well known in Kentucky. I'm the only person... with... a... tuxedo!" His humor was dry and understated, matching his refined presentation.
+
 ## TV Appearances
 
 Over the years, Burton has appeared on a wide range of TV shows:
@@ -74,3 +82,5 @@ He now tours with his show "Lance Burton & Friends," a mix of illusions, sleight
 [4] [Knight Rider "Deadly Knightshade" (1986)](https://www.imdb.com/title/tt0096643/)
 
 [5] [Knight Rider Episode "Deadly Knightshade" - IMDb](https://www.imdb.com/title/tt0620810/)
+
+[6] [Las Vegas Sun - Burton's magic takes many forms at Monte Carlo](https://lasvegassun.com/news/2003/jan/17/burtons-magic-takes-many-forms-at-monte-carlo/)
