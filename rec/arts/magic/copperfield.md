@@ -40,6 +40,38 @@ In his 1989 CBS special "The Magic of David Copperfield XI: Explosive Encounter,
 
 - [Full special: "Explosive Encounter" (1989)](https://www.youtube.com/watch?v=C2ulb7-g608)
 
+## Building Implosion Escape
+
+Also from the 1989 "Explosive Encounter" special, this was the centerpiece illusion: Copperfield was locked inside a safe in a 13-story building (the White House Hotel in Charlotte, North Carolina) with only 2 minutes and 30 seconds to escape before the building was demolished. He had to free himself from the safe and escape the building before it exploded. The entire building was wired with hundreds of pounds of explosives and demolished live on TV in one continuous shot.
+
+## Walking Through the Great Wall of China (1986)
+
+In his eighth CBS special, Copperfield performed one of his most iconic illusions: walking through the actual Great Wall of China. The performance took place at the Badaling section of the Great Wall, one of the most visited parts of the wall near Beijing.
+
+**Logistics:**
+- The illusion was performed in front of hundreds of thousands of Chinese spectators who gathered around the site
+- Copperfield used a remote-controlled camera that never cut away during the trick
+- The camera started on one side of the wall, showed Copperfield enter the wall, traveled over the wall in a continuous shot, and then showed him emerge from the other side
+- The entire performance took about 90 seconds
+- To add authenticity, Copperfield attached a small tracking chip to his body, allowing audience members to follow his signal on radio screens as he passed through the wall
+
+This was the first time a magician had performed a penetration illusion at the actual Great Wall, and it required extensive coordination with Chinese authorities and months of preparation.
+
+- [Performance: "Walking Through the Great Wall of China" (1986)](https://youtu.be/bp4fG_RNQM4?si=awrf2dw_cMYA4Hv0)
+
+## Death Saw (1988)
+
+One of Copperfield's most dramatic illusions, the Death Saw was introduced in his 1988 special "The Magic of David Copperfield X: The Bermuda Triangle." Unlike traditional "Sawing a Woman in Half" illusions, Copperfield presented this as an escape gone wrong—sawing himself in half rather than an assistant.
+
+**The illusion:** Copperfield is secured to a table with chains and ropes. A massive circular saw descends from above. He attempts to escape from a box, but fails to escape in time. The saw cuts through his body in plain view, separating his top and bottom halves. The two halves of the table are pulled apart, showing Copperfield's upper and lower body separated. He still moves his feet, then reverses time to rejoin himself and emerge unharmed.
+
+This was groundbreaking because Copperfield was the first to present a sawing illusion as an escape gone wrong rather than a planned sawing. The illusion was filmed in one continuous long take to show there were no camera tricks.
+
+Copperfield has claimed exclusive rights to this specific presentation, though the general method has earlier origins in magic literature.
+
+- [Performance: "Death Saw" (1988)](https://youtu.be/-SefD84fbEE?si=a4-SYzp5Kd18taY5)
+- [Compilation includes Death Saw: "15 Years of Magic" (1994)](https://www.youtube.com/watch?v=jXR20CgnRiM)
+
 ## Film & TV
 
 In this interview, Copperfield discusses his legendary flying illusion and reflects on the 1993 movie adaptation "The Legend of the Flying Wizard":
@@ -55,6 +87,19 @@ In this GQ video, Copperfield breaks down some of his most iconic illusions:
 One of the few card tricks Copperfield performs, this elegant routine is a handling of the classic "Dream of Aces" (also known as "MacDonald's Aces"). Copperfield performs a tribute to his grandfather, who taught him magic as a child. The effect follows the classic Ace Assembly plot: four aces are produced and each is covered with three indifferent cards. Three of the aces vanish from their piles and reappear together under the fourth ace.
 
 - [Performance: "Dream of Aces" / "Grampa's Aces"](https://www.youtube.com/watch?v=QI8diYJ7yv0)
+
+## Escape from Alcatraz (1987)
+
+In his ninth CBS special, Copperfield traveled to Alcatraz Island to attempt an elaborate escape from the infamous prison. The special features multiple illusions before the finale:
+
+- **Table of Death** - A classic escape from a spiked table
+- **Death-Defying Duck** - An audience member's selected card appears inside a sealed container with a live duck
+- **On the Edge** - A dangerous blade-edge illusion
+- **Dream Vision** - A visual illusion
+- **Duck-O-Matic / Kid-O-Matic** - Production illusions producing ducks and children
+- **Escape from Alcatraz** - The finale where Copperfield escapes from a prison cell, navigates through security, avoids guard dogs, escapes a straightjacket, and finally escapes the island via helicopter
+
+- [Full special: "The Magic of David Copperfield IX: Escape From Alcatraz" (1987)](https://www.dailymotion.com/video/x6omj7j)
 
 ## References
 
