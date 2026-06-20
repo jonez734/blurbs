@@ -45,12 +45,7 @@ Magic consultant David Kwong (Now You See Me 1-2) and later Eric Siegel designed
 
 See also: [/teos/rec/arts/magic/vanity-fair](/teos/rec/arts/magic/vanity-fair) - Professional magicians analyze magic in film and TV, including clips from Now You See Me.
 
-## Eric Chien - "Ribbon" (2018 FISM Winner)
-
-Chinese-American magician Eric Chien won the Grand Prix at the 2018 FISM World Championships of Magic in Busan, South Korea with his "Ribbon" routine—the first Asian magician to win the top close-up prize. The six-minute act features cards, a ribbon, and coins with color changes, vanishes, and transformations. The performance went viral, with Penn & Teller inviting him on Fool Us in 2021.
-
-- [Eric Chien - Ribbon (FISM 2018)](https://www.youtube.com/watch?v=pV08tEMP8qU)
-- [TwistedSifter - Eric Chien Ribbon Breakdown](https://twistedsifter.com/videos/eric-chien-ribbon-routine-2018-fism-world-champion/)
+See also: [/teos/rec/arts/magic/fism](/teos/rec/arts/magic/fism) - FISM World Championships of Magic, including Eric Chien's "Ribbon" winning routine.
 
 ## Houdini Biopics
 
@@ -106,5 +101,3 @@ Animated films have also embraced magical themes:
 [2] [The Illusionist - Official site](https://www.sonypictures.com/movies/theillusionist)
 
 [3] [Now You See Me - Official site](https://www.lionsgate.com/movies/now-you-see-me)
-
-[4] [Eric Chien FISM Ribbon - South China Morning Post](https://www.youtube.com/watch?v=pV08tEMP8qU)

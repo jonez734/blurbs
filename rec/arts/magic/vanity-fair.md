@@ -68,7 +68,9 @@ Ben Seidman has been public about the production process. The VF videos are chal
 
 The series is part of Vanity Fair's broader "VF Reviews" franchise where experts in various fields analyze their specialties in media.
 
-See also: [/teos/rec/arts/magic/magic-in-movies](/teos/rec/arts/magic/magic-in-movies) - Comprehensive guide to magic in cinema including Now You See Me, The Prestige, The Illusionist, and FISM competition routines.
+See also: [/teos/rec/arts/magic/magic-in-movies](/teos/rec/arts/magic/magic-in-movies) - Comprehensive guide to magic in cinema including Now You See Me, The Prestige, The Illusionist.
+
+See also: [/teos/rec/arts/magic/fism](/teos/rec/arts/magic/fism) - FISM World Championships of Magic, including Eric Chien's "Ribbon" winning routine.
 
 ## References
 
