@@ -1,6 +1,6 @@
 ---
-folder-path: rec/arts/magic/
-date: 2026-06-19 01:26:11 GMT (21:26:11 NYC)
+folder-path: rec/arts/magic/, ec/
+date: 2026-06-19 02:45:00 GMT (22:45:00 NYC)
 ---
 
 # David Copperfield
@@ -33,6 +33,24 @@ Copperfield spent seven years developing his famous flying illusion, which debut
 
 - [Full special: "Flying - Live the Dream" (1992)](https://www.youtube.com/watch?v=j9sAI6HVHnY)
 - [Flying portion only (via Flixxy)](https://www.flixxy.com/david-copperfield-flying-illusion-live-the-dream.htm)
+
+## Telekinesis Illusion
+
+In his 1989 CBS special "The Magic of David Copperfield XI: Explosive Encounter," Copperfield performed a stunning telekinesis effect. He placed a clear lightbulb inside a plexiglass case and asked audience members to examine both the bulb and the case to verify they were genuine. Using only the power of concentration—appearing to channel his energy toward the bulb—he caused it to suddenly explode and shatter, all while remaining sealed inside the case. The effect creates the chilling illusion of genuine telekinetic power.
+
+- [Full special: "Explosive Encounter" (1989)](https://www.youtube.com/watch?v=C2ulb7-g608)
+
+## Film & TV
+
+In this interview, Copperfield discusses his legendary flying illusion and reflects on the 1993 movie adaptation "The Legend of the Flying Wizard":
+
+- [Interview: "The Legend of the Flying Wizard" (1993)](https://youtu.be/nwacMaqSfhM?si=u1xVjFSwvfyhQnCm)
+
+## Grampa's Aces (Dream of Aces)
+
+One of the few card tricks Copperfield performs, this elegant routine is a handling of the classic "Dream of Aces" (also known as "MacDonald's Aces"). Copperfield performs a tribute to his grandfather, who taught him magic as a child. The effect follows the classic Ace Assembly plot: four aces are produced and each is covered with three indifferent cards. Three of the aces vanish from their piles and reappear together under the fourth ace.
+
+- [Performance: "Dream of Aces" / "Grampa's Aces"](https://www.youtube.com/watch?v=QI8diYJ7yv0)
 
 ## References
 
