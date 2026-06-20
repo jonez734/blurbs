@@ -46,6 +46,10 @@ In this interview, Copperfield discusses his legendary flying illusion and refle
 
 - [Interview: "The Legend of the Flying Wizard" (1993)](https://youtu.be/nwacMaqSfhM?si=u1xVjFSwvfyhQnCm)
 
+In this GQ video, Copperfield breaks down some of his most iconic illusions:
+
+- [GQ: "David Copperfield Breaks Down His Most Iconic Illusions"](https://youtu.be/QCBUx4g5H04?si=LYF-AHVcUy9hpquc)
+
 ## Grampa's Aces (Dream of Aces)
 
 One of the few card tricks Copperfield performs, this elegant routine is a handling of the classic "Dream of Aces" (also known as "MacDonald's Aces"). Copperfield performs a tribute to his grandfather, who taught him magic as a child. The effect follows the classic Ace Assembly plot: four aces are produced and each is covered with three indifferent cards. Three of the aces vanish from their piles and reappear together under the fourth ace.
