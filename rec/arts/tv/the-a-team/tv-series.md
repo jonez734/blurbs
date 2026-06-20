@@ -46,6 +46,8 @@ Several episodes stand out as fan favorites:
 
 **"The Court Martial"** (Season 5, Episodes 1-3) — The team is captured and put on trial for their original crime. They escape and become indebted to General Hunt Stockwell, who sends them on black ops missions in exchange for potential pardons. This marked a significant shift in the show's tone toward more spy-thriller content.
 
+**"Family Reunion"** (Season 5, Episode 8) — One of the most emotionally resonant episodes. A former political adviser named A.J. Bancroft asks the team to help him reunite with his daughter. Murdock discovers Bancroft is Face's father, but Bancroft asks Murdock to keep it secret for 24 hours so he can tell Face himself. Before Bancroft can reveal the truth, he dies. Face learns the news from Murdock and confronts him for not telling him sooner. The confrontation between Face and Murdock is one of the most genuinely affecting moments in the series, built on the close bond they've developed over five seasons. Two endings were filmed, and viewers actually voted by phone on which one to air — deciding whether Bancroft was truly Face's father. The alternate ending has never been aired or released.
+
 ## Pop Culture Impact
 
 The A-Team became a cultural phenomenon, generating merchandise, catchphrases, and a devoted fanbase. The famous black GMC Vandura van became instantly recognizable, as did the team's distinctive look.
@@ -83,3 +85,7 @@ Despite mixed critical reception, The A-Team proved there was a market for actio
 [4] [Television Heaven - The A-Team Review](https://televisionheaven.co.uk/reviews/the-a-team)
 
 [5] [Bulletproof Action - Essential Episodes](https://www.bulletproofaction.com/2024/08/02/essential-episodes-the-a-team/)
+
+[6] [Wikipedia - Templeton Peck](https://en.wikipedia.org/wiki/Templeton_Peck)
+
+[7] [The A-Team Guide - Family Reunion](http://theateamguide.blogspot.com/2011/05/family-reunion-s5ep8.html)
