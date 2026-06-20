@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/, ec/
-date: 2026-06-19 02:45:00 GMT (22:45:00 NYC)
+date: 2026-06-20 04:32:00 GMT (00:32:00 NYC)
 ---
 
 # Magic in Movies
@@ -32,10 +32,25 @@ The "Now You See Me" franchise brings magic into the modern era with heist films
 
 The films combine spectacle, humor, and the theme of exposing wealthy corruptions through magical deception. Now You See Me: Now You Don't takes the magicians to London, where they face a new threat and must outsmart a powerful adversary who knows their secrets. The fourth film is currently in development with director Ruben Fleischer returning, though no release date has been set yet (likely 2027-2028).
 
+Magic consultant David Kwong (Now You See Me 1-2) and later Eric Siegel designed practical tricks for the films, with director Ruben Fleischer emphasizing real magic over CGI for NYSM3.
+
 - [Now You See Me - Full movie](https://www.youtube.com/watch?v=KzJNuxkB_70)
 - [Amazon - Now You See Me](https://www.amazon.com/dp/B00D3GJKKK/?tag=copperfieldblu-20)
 - [Amazon - Now You See Me 2](https://www.amazon.com/dp/B01G5PQSEU/?tag=copperfieldblu-20)
 - [Amazon - Now You See Me: Now You Don't](https://www.amazon.com/dp/B0C4QJG3P4/?tag=copperfieldblu-20)
+- [Now You See Me - Featurette: Real Magic](https://www.youtube.com/watch?v=HFizbPQUO0Y)
+- [Now You See Me: Now You Don't - Behind the Scenes](https://www.youtube.com/watch?v=sR6VPSmUQxI)
+- [Now You See Me 2 - Set Visit](https://www.youtube.com/watch?v=vgIZ_wm_2m0)
+- [Director Louis Leterrier Interview](https://collider.com/louis-leterrier-now-you-see-me-interview/)
+
+See also: [/teos/rec/arts/magic/vanity-fair](/teos/rec/arts/magic/vanity-fair) - Professional magicians analyze magic in film and TV, including clips from Now You See Me.
+
+## Eric Chien - "Ribbon" (2018 FISM Winner)
+
+Chinese-American magician Eric Chien won the Grand Prix at the 2018 FISM World Championships of Magic in Busan, South Korea with his "Ribbon" routine—the first Asian magician to win the top close-up prize. The six-minute act features cards, a ribbon, and coins with color changes, vanishes, and transformations. The performance went viral, with Penn & Teller inviting him on Fool Us in 2021.
+
+- [Eric Chien - Ribbon (FISM 2018)](https://www.youtube.com/watch?v=pV08tEMP8qU)
+- [TwistedSifter - Eric Chien Ribbon Breakdown](https://twistedsifter.com/videos/eric-chien-ribbon-routine-2018-fism-world-champion/)
 
 ## Houdini Biopics
 
@@ -91,3 +106,5 @@ Animated films have also embraced magical themes:
 [2] [The Illusionist - Official site](https://www.sonypictures.com/movies/theillusionist)
 
 [3] [Now You See Me - Official site](https://www.lionsgate.com/movies/now-you-see-me)
+
+[4] [Eric Chien FISM Ribbon - South China Morning Post](https://www.youtube.com/watch?v=pV08tEMP8qU)
