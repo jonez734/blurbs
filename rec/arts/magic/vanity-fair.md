@@ -70,8 +70,6 @@ The series is part of Vanity Fair's broader "VF Reviews" franchise where experts
 
 See also: [/teos/rec/arts/magic/magic-in-movies](/teos/rec/arts/magic/magic-in-movies) - Comprehensive guide to magic in cinema including Now You See Me, The Prestige, The Illusionist.
 
-See also: [/teos/rec/arts/magic/fism](/teos/rec/arts/magic/fism) - FISM World Championships of Magic, including Eric Chien's "Ribbon" winning routine.
-
 ## References
 
 [1] [Vanity Fair - Penn Jillette Reviews Magic](https://www.vanityfair.com/video/watch/penn-jillette-penn-teller-review-magic-tricks-in-film)
