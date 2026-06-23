@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-06-19 03:15:00 GMT (22:15:00 NYC)
+date: 2026-06-20 02:42:32 GMT (22:42:32 NYC)
 ---
 
 # Lance Burton

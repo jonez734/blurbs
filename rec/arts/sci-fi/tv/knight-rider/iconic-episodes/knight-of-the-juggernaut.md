@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/sci-fi/tv/knight-rider/, rec/arts/sci-fi/tv/
-date: 2026-06-20 00:00:00 GMT
+date: 2026-06-20 22:30:45 GMT (18:30:45 NYC)
 ---
 
 # Knight of the Juggernaut (Season 4, Episode 1)

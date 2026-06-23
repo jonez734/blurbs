@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/the-a-team/
-date: 2026-06-20 21:40:35 GMT (17:40:35 NYC)
+date: 2026-06-20 21:58:08 GMT (17:58:08 NYC)
 ---
 
 # The A-Team Cast: Then and Now

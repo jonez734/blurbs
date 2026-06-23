@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-19 12:12:46 GMT (08:12:46 NYC)
 ---
 
 # Awards and Recognition: M*A*S*H

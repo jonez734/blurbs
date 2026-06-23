@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/sci-fi/tv/knight-rider/, rec/arts/sci-fi/tv/
-date: 2026-06-20 00:00:00 GMT
+date: 2026-06-20 22:31:36 GMT (18:31:36 NYC)
 ---
 
 # Knight Rider Fans and Conventions

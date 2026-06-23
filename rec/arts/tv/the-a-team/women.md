@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/the-a-team/
-date: 2026-06-20 21:42:35 GMT (17:42:35 NYC)
+date: 2026-06-20 21:44:36 GMT (17:44:36 NYC)
 ---
 
 # Women and The A-Team

@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/sci-fi/tv/knight-rider/, rec/arts/sci-fi/tv/
-date: 2026-06-20 00:00:00 GMT
+date: 2026-06-20 22:45:13 GMT (18:45:13 NYC)
 ---
 
 # Knight Song (Season 4, Episode 10/11)

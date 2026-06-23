@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-19 03:07:48 GMT (23:07:48 NYC)
 ---
 
 # Major Characters of M*A*S*H (4077)

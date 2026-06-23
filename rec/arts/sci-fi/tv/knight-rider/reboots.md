@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/sci-fi/tv/knight-rider/, rec/arts/sci-fi/tv/
-date: 2026-06-20 00:00:00 GMT
+date: 2026-06-20 22:31:59 GMT (18:31:59 NYC)
 ---
 
 # Knight Rider: Reboots, Sequels, and Ownership

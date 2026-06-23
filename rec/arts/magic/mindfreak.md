@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-06-19 01:26:42 GMT (21:26:42 NYC)
+date: 2026-06-20 01:45:26 GMT (21:45:26 NYC)
 ---
 
 # Criss Angel
@@ -45,6 +45,33 @@ Criss Angel holds several world records:
 - Fastest time to perform the "Metamorphosis" illusion (under one second)
 - Fastest straight-jacket escape (2 minutes, 30 seconds)
 
+## Seance Episodes
+
+Criss Angel aired two seance-themed episodes of Mindfreak around Halloween, both on October 30th.
+
+### Celebrity Seance (Season 2, Episode 20)
+
+*Also cross-posted to [/teos/ec/criss-angel-seance.md](/teos/ec/criss-angel-seance.md)*
+
+Originally aired: October 30, 2006
+
+Criss invited celebrity guests to spend a night at one of America's most haunted locations—the Amargosa Hotel in Death Valley, California—conducting a seance to attempt communication with the dead. The episode featured:
+
+- **Deborah Gibson** (singer/songwriter)
+- **Steve Valentine** (actor, Crossing Jordan)
+- **Three Six Mafia** (Oscar-winning musical group)
+- Paranormal investigators from Ghost Connection
+
+The episode was filmed in May 2006, with 6 hours of footage condensed into a 21-minute segment. Intuitive counselor Erin Pavlina, who appeared on the episode, noted that A&E owned all 6 hours of footage and considered turning it into a longer special. [4][5]
+
+### Seance (Season 3, Episode 20)
+
+Originally aired: October 30, 2007
+
+Criss returned to another famously haunted location—the Artisan Hotel in Las Vegas—where he conducted a seance and "interacted with the afterlife, revealing secrets from the spirits." The episode also featured Criss walking on the ceiling of the hotel. [6][7]
+
+---
+
 ## References
 
 [1] [Wikipedia - Criss Angel](https://en.wikipedia.org/wiki/Criss_Angel)
@@ -52,3 +79,11 @@ Criss Angel holds several world records:
 [2] [Las Vegas Sun - Criss Angel Biography](https://lasvegassun.com/criss-angel/bio/)
 
 [3] [IMDb - Criss Angel Biography](https://www.imdb.com/name/nm1630927/bio/)
+
+[4] [Erin Pavlina Blog - Criss Angel Mindfreak Episode Airing on Halloween](https://www.erinpavlina.com/blog/2006/10/criss-angel-mindfreak-episode-airing-on-halloween/)
+
+[5] [Erin Pavlina Blog - The Criss Angel Celebrity Seance Episode](https://www.erinpavlina.com/blog/2007/09/the-criss-angel-celebrity-seance-episode/)
+
+[6] [TheTVDB - Criss Angel Mindfreak Season 3 Seance](https://thetvdb.com/series/criss-angel-mindfreak/episodes/339471)
+
+[7] [Metacritic - Criss Angel Mindfreak Season 3 Seance](https://www.metacritic.com/tv/criss-angel-mindfreak/season-3/episode-20-seance/)

@@ -1,6 +1,6 @@
 ---
 folder-path: ec/
-date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-19 01:40:06 GMT (21:40:06 NYC)
 ---
 
 # Edgar Cayce: The Sleeping Prophet

@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/the-a-team/
-date: 2026-06-20 21:43:35 GMT (17:43:35 NYC)
+date: 2026-06-20 21:44:41 GMT (17:44:41 NYC)
 ---
 
 # The A-Team's Cartoonish Violence

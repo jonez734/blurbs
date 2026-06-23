@@ -34,7 +34,7 @@ prod:
 		fi \
 	done
 	$(RSYNC) --exclude='Makefile' --exclude='*~' . $(TEOSDIR)
-	$(RSYNC) --dry-run $(TEOSDIR) $(PROD)
+	$(RSYNC) $(TEOSDIR) $(PROD)
 
 help:
 	@echo "Available targets:"

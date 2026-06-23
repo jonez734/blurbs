@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-19 02:54:21 GMT (22:54:21 NYC)
 ---
 
 # Surviving Cast Members of M*A*S*H (2026)

@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/the-a-team/
-date: 2026-06-20 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-20 22:05:07 GMT (18:05:07 NYC)
 ---
 
 # The A-Team (TV Series)
@@ -68,6 +68,16 @@ The show boosted Mr. T's career significantly, making him a pop culture icon. Hi
 ## Legacy
 
 Despite mixed critical reception, The A-Team proved there was a market for action-oriented television. The series ended in 1987 after five seasons, but its influence can be seen in countless action shows and films that followed. The 2010 film adaptation brought the characters to a new generation, though it couldn't replicate the original's charm.
+
+## Series Finale
+
+The A-Team **did not have a proper series finale**. The show was cancelled midway through Season 5 due to declining ratings, and NBC accidentally aired the final episodes out of order.
+
+The intended finale was **"The Grey Team"** (Season 5, Episode 12, December 30, 1986), in which the team helps protect a scientist's daughter from Russian agents. At the end, Hannibal tells General Stockwell they're done working for him, giving up their chances for a pardon. Murdock can be seen wearing a shirt that says **"Fini"** (French for "finished") — a visual hint that this was meant to be the series conclusion.
+
+However, NBC forgot to air **"Without Reservations"** (Season 5, Episode 13), which aired two months later on March 8, 1987 during a stretch of reruns. This episode has no sense of closure — it's a standard hostage situation with Face getting shot and the team rescuing him. Murdock wears a shirt saying **"Almost Fini"** in this episode, confirming it was intended as the penultimate episode.
+
+The result is that The A-Team simply... ended, without any proper wrap-up or final farewell to the characters audiences had come to love over five seasons.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-06-18 21:39:35 GMT (17:39:35 NYC)
+date: 2026-06-19 03:00:36 GMT (23:00:36 NYC)
 ---
 
 # Special Episodes of M*A*S*H

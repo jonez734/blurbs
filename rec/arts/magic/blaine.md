@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-06-19 01:26:56 GMT (21:26:56 NYC)
+date: 2026-06-20 01:37:37 GMT (21:37:37 NYC)
 ---
 
 # David Blaine

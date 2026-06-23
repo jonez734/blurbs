@@ -88,3 +88,6 @@ clean-copies:
 		fi \
 	done
 	@echo "Done. Originals preserved in first folder-path location."
+
+backup:
+	rsync --recursive --verbose --exclude=.venv . /run/media/jam/AEAB-CF37/projects/$(PROJECT)/
