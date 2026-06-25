@@ -6,3 +6,4 @@
 - [ ] sneakers
 - [ ] hackers
 - [ ] mythbusters: "rolling stone gathers no moss" experiment
+- [ ] M*A*S*H: "the red/white blues"
