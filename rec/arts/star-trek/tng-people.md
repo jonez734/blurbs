@@ -85,6 +85,14 @@ Despite everything, Wheaton credits his TNG castmates as being like family. He h
 
 The road back was not smooth. In 2002, Wheaton was **cut from Creation Entertainment's 15th anniversary TNG convention** — an experience he wrote about publicly, describing the con circuit's transformation from fan-driven community to corporate business. He also said at the time that executive producer Rick Berman "hates me," and LeVar Burton had to intervene to get Wheaton a cameo in *Nemesis*. In the years since, however, Wheaton has appeared at numerous conventions alongside the full TNG cast — including the 25th anniversary reunion at Austin Comic-Con (2012), Phoenix Comicon (2012), and Awesome Con (2019) — and the relationships appear genuinely warm. At a 2017 Salt Lake Comic Con panel with Gates McFadden, he called her *"space mom"* and the two discussed how long it took to understand what the show meant to people [17][21][24][25].
 
+### The Big Bang Theory
+
+When TBBT co-creator **Bill Prady** pitched Wheaton a role on the show, he initially described it as playing himself. Wheaton hesitated — he worried that playing "himself" meant a one-off appearance with no creative substance. Prady called back and changed the pitch: the character would be **"delightfully evil"** — a fictionalized, darker version of Wil Wheaton. Wheaton said yes without hesitation [26].
+
+Wheaton first appeared in Season 3 (2009) as Sheldon's nemesis — holding a years-long grudge because Wheaton failed to show up for a 1995 *Star Trek* convention. The rivalry became one of the show's recurring bits, with Sheldon and Evil Wil Wheaton clashing at comic book stores, on podcasts, and in D&D tournaments. Over the series' run, the character softened from antagonist to friend, mirroring Wheaton's own reconciliation with the Trek fandom [26][27].
+
+He appeared in **17 episodes** across Seasons 3 through 12 (2009–2019). Wheaton later called the role *"the greatest joy of my professional life,"* ranking it second only to his marriage. In a 2019 blog post after filming his final episode, he wrote: *"They welcomed me into their family, and made me feel like I was as important to the production as anyone else who works there"* [26].
+
 ## The Writers and Creators
 
 **Gene Roddenberry** (1921–1991) — Remained involved in TNG's early seasons but was increasingly incapacitated by frontotemporal dementia and alcoholism. He approved the overall vision but left day-to-day production to others. He died on October 24, 1991, midway through Season 5. The episode "The Bonding" (S3E5) was the first episode produced after his death. His funeral at his Hollywood Hills home was attended by most of the TNG and TOS casts. Majel Barrett, his widow, continued working on Trek until her own death in 2008 [1][22].
@@ -150,3 +158,7 @@ The road back was not smooth. In 2002, Wheaton was **cut from Creation Entertain
 [24] [Wil Wheaton - I See Another Hurdle Approaching (Creation convention)](https://wilwheaton.net/2002/08/i_see_another_hurdle_approachi/)
 
 [25] [TrekMovie - PHXCC12 TNG Reunion Panel](https://trekmovie.com/2012/05/28/phxcc12-star-trek-tng-reunion-panel-photos-video/)
+
+[26] [Wil Wheaton - It All Started with a Big Bang](https://wilwheaton.net/2019/02/it-all-started-with-a-big-bang/)
+
+[27] [Looper - Wil Wheaton Filmed Fewer Episodes Of TBBT Than You Might Think](https://www.looper.com/981903/wil-wheaton-filmed-fewer-episodes-of-the-big-bang-theory-than-you-might-think/)
