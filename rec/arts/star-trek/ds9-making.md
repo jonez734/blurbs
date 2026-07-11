@@ -105,6 +105,74 @@ When Nana Visitor became pregnant during Season 5, the writers faced a challenge
 
 The most consequential villain in DS9's history was first mentioned as a casual aside in **"Rules of Acquisition"** (S2E7), a Ferengi comedy episode. Quark and Rom travel through the Gamma Quadrant seeking new business opportunities, and the word "Dominion" is spoken almost in passing. The Season 2 finale, **"The Jem'Hadar"**, revealed the true nature of this power — and changed the show forever [10].
 
+### Avery Brooks Punches Marc Alaimo
+
+During filming of the final Sisko-vs-Dukat confrontation in **"What You Leave Behind"** (S7E25–26), Brooks accidentally punched **Marc Alaimo** for real. Alaimo had to take several days off to recover. The production couldn't wait for his return, so Brooks filmed his shots without Alaimo present, then Alaimo came in and did the same in reverse — the two actors' final scene together on the series was never actually shot in the same room [15].
+
+The incident was later detailed in the *What We Left Behind* documentary's bonus feature **"One Last Punch"** (2:31), in which stunt coordinator Dennis "Danger" Madalone and Alaimo recount the story [15].
+
+### Colm Meaney's Klingon Makeup Nightmare
+
+When Meaney was getting made up as a Klingon for the first time — a rare instance of O'Brien donning forehead ridges — **Michael Dorn** was initially thrilled to have company. By day three of Meaney's complaints — *"I can't close my eyes! I can't close my eyes!"* — Dorn snapped: **"Get him out of that makeup and never put him in it again, I can't stand listening to him!"** [16].
+
+### Meaney's Irish Bar Pranks on Siddig
+
+Meaney and Siddig went drinking *"twice a week every week for seven years."* Meaney loved taking Siddig to Irish bars where the patrons *"hated English people."* Siddig, who is Black with an English accent, was bewildered by the hostility: *"I thought they were being racist about the fact that I'm black and they weren't. They just hated the English people... and he just laughed his head off"* [17].
+
+### Damar's Last Word
+
+In **"What You Leave Behind"**, Damar's script called for him to die silently. Actor **Casey Briggs** asked permission to improvise something and came up with **"Keep..."** — a single, ambiguous syllable that has fueled fan speculation for two decades. Briggs has admitted he has no idea how he would have finished the sentiment [18].
+
+### Jeffrey Combs: The Improv King
+
+At a convention, **Armin Shimerman** confirmed that actors on DS9 had no input into scripts and had to follow them exactly — then **Jeffrey Combs** admitted he improvised a lot. Shimerman's response: that was why his character was killed so often [19].
+
+### The Serious Set
+
+Multiple cast members confirmed DS9 had a dramatically different atmosphere from TNG. Shimerman: *"The Next Generation people, they laughed all the time. We didn't laugh... not really."* Visitor: *"We weren't that funny. I tried. The set is really run by whoever is number one on the callsheet, and that was Avery Brooks. We were all deadly serious."* She joked about the TNG cast: *"They would come on our set and be funny, but we were deadly serious"* [20].
+
+### Brooks and the Toupee
+
+For nearly **three seasons**, Brooks was forced to wear a toupee because Paramount feared a bald Black captain would remind audiences of his role in *Spenser: For Hire*. Brooks hated it. **Ira Steven Behr** and **Rick Berman** had to fight Paramount for permission to let Brooks shave his head and grow the goatee. When they finally won approval, Brooks walked right past Behr and just said *"Oh, OK"* without even reacting [21].
+
+### Terry Farrell vs. Rick Berman
+
+Farrell later accused Berman of being *"very misogynistic,"* commenting on her bra size and comparing her body to his secretary's. She wanted to go recurring for Season 7; the studio demanded full season or nothing. A junior producer told her she'd *"be working at K-Mart"* without DS9. Behr said he had no idea and would have stopped it [22].
+
+Farrell was also *"so incredibly intimidated"* by Brooks during her first scene that she pulled him aside during a lighting break and appealed to his gentler side. Brooks softened afterward and they developed a good working relationship. She was also nearly fired early on because she couldn't memorize her science-heavy lines — the producers hired an acting coach, and she solved the problem by asking science consultant **Andre Bormanis** to simplify the technobabble in scenes with other actors [22].
+
+### Siddig's Rebellion
+
+When the genetic enhancement twist was forced on Siddig with **one day's notice** (script arrived Thursday, filming Friday), he was furious. He deliberately sabotaged subsequent Data-esque scenes — literally pinning lines to the back of other actors' shoulders instead of learning them. *"I just fluffed the lines... I wasn't bothered even to learn them. And they got the message and dropped it"* [23].
+
+Siddig also claimed: *"The studio tried to get me fired every year for the first three years"* because Bashir wasn't the Jason Priestley-type heartthrob they wanted. Berman protected him each time. He was reportedly *"a pain in the ass"* for the first couple of seasons and refused to show up for the Season 4 cast photo because he was unhappy about a story decision — he is absent from that photo [23].
+
+### Berman Tried to Make Nimoy Hate DS9
+
+Behr recounted that Berman *"prepared me like it was going to be a very prickly phone call"* with **Leonard Nimoy** about using "Trouble with Tribbles" footage for "Trials and Tribble-ations" — heavily implying Nimoy would object. When Behr called, Nimoy enthusiastically said: *"What took you so long? Absolutely, yes."* Behr realized Berman had set him up — likely because Berman had denied Nimoy the chance to direct *Star Trek: Generations* and feared retaliation [24].
+
+### David Gerrold Directing the Director
+
+During filming of "Trials and Tribble-ations," the original "Trouble with Tribbles" writer **David Gerrold** was on set and caught the director scanning the reference tape the wrong direction. On a soundstage *"where nobody contradicts the director,"* Gerrold corrected him. He then found himself telling the director exactly how many tribbles to remove from a scene: *"I suddenly realised I'm directing the director"* [25].
+
+### Michael Dorn's Tribbles Paranoia
+
+During "Trials and Tribble-ations" filming, Dorn sat in the commissary with a scarf covering his head, muttering in Worf's voice: *"The tribbles know I'm here... I'm standing out."* He kept rationalizing they should be back on DS9. Terry Farrell called it *"hilarious"* [26].
+
+### The Final Scene Ever Filmed
+
+The last scene of DS9 ever filmed was **Quark and Vic Fontaine playing Go Fish**. The final shot of the station pulling away was CGI — the only time the station was ever depicted as a computer image rather than a physical model [27].
+
+### Notable On-Screen Goofs
+
+DS9's seven-season run produced its share of visible errors:
+
+- **Aron Eisenberg's name misspelled** on-screen as "Aron Eisenerg" in "A Man Alone" [28].
+- In **"Starship Down"**, Quark holds his tricorder upside-down, and Alexander Siddig's wristwatch is visible inside his sleeve cuff [29].
+- In **"What You Leave Behind"**, Weyoun's colored contact lenses are misaligned — one pupil looks forward, the other points toward the ceiling. When Sisko and Ross dump their bloodwine, liquid is heard but the mugs are visibly empty [30].
+- In **"Badda-Bing, Badda-Bang"**, Ezri wears transparent nylons with no Trill spots on her legs — contradicting established canon that Trill spots go "all the way" to the toes [30].
+- In **"Shadows and Symbols"**, the "planet Tyree" scenes are full of Joshua Trees — a highly distinctive plant found only in the Mojave Desert, California [29].
+
 ## Legacy
 
 DS9's ratings never matched TNG's, and the show was perpetually treated as the junior partner in the franchise. But the streaming era vindicated its innovations. The serialized storytelling that Paramount had resisted became the standard model for prestige television. Shows like **Battlestar Galactica** (created by DS9 alumnus **Ronald D. Moore**), **The Wire**, **Game of Thrones**, and **Homeland** owed debts to the ground DS9 had broken [8][14].
@@ -144,3 +212,35 @@ See also: [DS9 Milestones](ds9-milestones.md), [DS9 People](ds9-people.md), [TNG
 [13] [People - A Family Enterprise](https://people.com/archive/a-family-enterprise-vol-46-no-3/)
 
 [14] [CBR - DS9 Quietly Invented Prestige Serialized TV](https://www.cbr.com/star-trek-perfected-seralized-tv-before-the-wire/)
+
+[15] [TrekCore - What We Left Behind Bonus Features](https://blog.trekcore.com/2019/08/review-star-trek-ds9-documentary-bonus-features/)
+
+[16] [Cinemablend - Meaney Recalls Klingon Makeup Nightmare](https://www.cinemablend.com/television/star-treks-colm-meaney-recalls-michael-dorns-hilarious-reaction-to-his-deep-space-nine-klingon-transformation)
+
+[17] [Giant Freakin Robot - DS9 Cast Pranks](https://www.giantfreakinrobot.com/ent/star-trek-prank-ds9.html)
+
+[18] [DITL - What You Leave Behind Episode Page](https://ns2.ditl.org/episode-page.php?Episode=173)
+
+[19] [Inside Trekker - DS9 Convention Panel](http://insidetrekker.blogspot.com/2009/08/star-trek-convention-friday-ds9-panel.html)
+
+[20] [Screen Rant - DS9 Set Was Deadly Serious](https://screenrant.com/star-trek-ds9-set-serious-tng-comparison/)
+
+[21] [Yahoo - Avery Brooks Finally Allowed True Look](https://www.yahoo.com/entertainment/tv/articles/avery-brooks-finally-allowed-true-130040966.html)
+
+[22] [Screen Rant - Why Terry Farrell Left DS9](https://screenrant.com/star-trek-why-terry-farrell-left-ds9-jadzia-dax/)
+
+[23] [Red Shirts Always Die - Siddig Hated Season 5 Change](https://redshirtsalwaysdie.com/2020/11/23/star-trek-deep-space-nine-alexander-siddig-hated-the-season-5-change-to-his-character/)
+
+[24] [Giant Freakin Robot - Berman Tried to Make Nimoy Hate DS9](https://www.giantfreakinrobot.com/ent/scifi/star-trek-producer-conflict.html)
+
+[25] [BBC - David Gerrold Interview](http://bbc.adactio.com/cult/st/interviews/gerrold/page3.shtml)
+
+[26] [TrekMovie - How Trials and Tribble-ations Started](https://trekmovie.com/2026/03/31/how-the-making-of-a-classic-star-trek-ds9-episode-started-with-a-surprising-call-to-leonard-nimoy/)
+
+[27] [DITL - DS9 Final Scene](https://ns2.ditl.org/episode-page.php?Episode=173)
+
+[28] [MovieMistakes - DS9 Name Misspelling](https://www.moviemistakes.com/tv3295)
+
+[29] [IMDb - DS9 Goofs](https://www.imdb.com/title/tt0708605/goofs/)
+
+[30] [IMDb - What You Leave Behind Goofs](https://www.imdb.com/title/tt0394907/goofs/)

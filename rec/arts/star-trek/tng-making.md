@@ -113,6 +113,88 @@ Brent Spiner's daily makeup process for Data took approximately **three hours** 
 
 The Borg were originally conceived as a **purely technological species** — insect-like creatures that had replaced their bodies with machines. The concept was radicalized in "Q Who" (S2E16) when Q flings the Enterprise into uncharted space and introduces the crew to their worst nightmare. Maurice Hurley, who developed the Borg concept, intended them to be a force of nature rather than individual villains. The Borg would become TNG's most iconic antagonists, culminating in the "Best of Both Worlds" cliffhanger [1][10].
 
+### The Worf "I Did Not Play With Boys" Blooper
+
+In **"Booby Trap"** (S3E9), Picard asks if anyone built ships in bottles. Worf's line was supposed to be *"I did not play with toys,"* but Michael Dorn accidentally said **"I did not play with boys,"** conflating it with Data's line *"I was never a boy."* Patrick Stewart and Brent Spiner immediately broke character, cackling. Offscreen, Jonathan Frakes and others howled with laughter. It is widely considered one of the funniest bloopers in Trek history [13].
+
+### Stewart's "Hills Are Alive" Breakdown
+
+After Stewart lectured the cast for goofing off — *"We are NOT here, Denise, to have fun"* — he tried to stay serious. But during the filming of **"Skin of Evil"** (Denise Crosby's death episode), when Data goes up on the hill to mourn Tasha, Stewart started spinning around the field singing **"The Hills Are Alive"** from *The Sound of Music*. According to Brent Spiner: *"After that, he was the worst among us for the rest of the time"* [14].
+
+### The "Masks" Meltdown
+
+During Season 7's **"Masks,"** Brent Spiner and Patrick Stewart had to wear elaborate masks and reenact a mythological scene — him as the god of the sun, Spiner as the goddess of the moon. At 2 AM on a Saturday morning, they could not stop laughing at each other. Spiner recalled: *"The crew hated us because they wanted to go home! But we couldn't control it"* [15].
+
+### Patrick Stewart's Toes Get Smashed
+
+In the Season 7 gag reel, **Gates McFadden** accidentally steps on Patrick Stewart's toe, causing Captain Picard to drop a profanity bomb. Jonathan Frakes chases an ensign, and LeVar Burton keeps breaking character. Burton summed it up: *"I feel really silly"* [16].
+
+### The Famous Worf Door Problems
+
+Michael Dorn, in full Klingon makeup, frequently walked into doors that failed to open in time — sometimes face-planting into them. Actors were instructed to stride toward doors with purpose and not slow down, resulting in a running series of door-related bloopers across the entire run [17].
+
+### The Wet Costume Incident
+
+During the Western episode **"A Fistful of Datas,"** shot on the Universal backlot in blazing heat, the costumer admitted to Spiner he'd *"forgot to bring doubles."* A stunt performer had already worn Spiner's costume, and it was wet with sweat. Spiner wore it anyway. Frakes joked that Spiner *"smelled like a stuntman for the first time in his career."* As thanks, the costumer later gifted Spiner a Colt revolver purportedly belonging to the man who killed Pat Garrett [18].
+
+### Spiner's Pranks on Wheaton
+
+Spiner told Wheaton before a scene that Patrick Stewart was *"asking about the sauce."* During filming, when Picard said **"consider the source,"** Wheaton heard *"consider the sauce"* and exploded into laughter on camera. He got in trouble while Spiner sat there like he had nothing to do with it [19].
+
+Spiner also taped a sign to Stewart's trailer door reading **"BEWARE: UNKNOWN BRITISH SHAKESPEAREAN ACTOR"** — after an L.A. Times article called Stewart exactly that. Stewart still has the original. Fake versions have surfaced at auction [20].
+
+### The Table Read That Ended Table Reads for 30 Years
+
+Jonathan Frakes called a script by showrunner Maurice Hurley *"the biggest hack work I've ever seen."* Hurley was so offended that he ended the practice of table reads entirely — and it was never restored until *Star Trek: Discovery* in 2017. The ripple effect lasted through DS9, Voyager, and Enterprise [21].
+
+### Patrick Stewart's "We Are Not Here to Have Fun"
+
+In Season 1, Stewart called a meeting to lecture the cast for goofing off. When Denise Crosby said *"We've got to have some fun sometimes, Patrick,"* he replied: **"We are NOT here, Denise, to have fun."** The cast erupted in hysterics. Stewart stormed off to his trailer, slamming the door. Frakes and Spiner later came to counsel him [22].
+
+### Stewart Walked Off Over Good Morning America
+
+When GMA came to film on the TNG set (~1992), Stewart demanded *"no gags, no jokes, no Klingon jokes, no fooling around."* He then saw a weatherman wearing his captain's uniform. He said something unrepeatable and walked off the set entirely, going home. Paramount TV President **John Pike** called him in and *"read him the riot act"* — and threatened to write Picard out of the show entirely [23].
+
+### The "Worfland" Warning
+
+Stewart coined the term **"Worfland"** to describe particularly bad days on set when someone couldn't shake a bad mood. Saying someone had entered "Worfland" was apparently all anyone needed to be on high alert [17].
+
+### Dorn's Assassination Narrations
+
+Dorn would dramatically narrate plans to assassinate Patrick Stewart using whatever was at hand — even a banana — as a way to lighten the mood on long shooting days [17].
+
+### Stewart's Forehead Teleprompter for Muldaur
+
+When **Diana Muldaur** (Dr. Pulaski) was given a complex speech with only a couple of hours to learn it, Stewart kindly offered to tape a printout of her dialogue on his bald head so she could read it as she delivered lines to him — serving as a *"flesh-and-blood teleprompter"* [24].
+
+### Mick Fleetwood's One-Line Cameo
+
+Fleetwood Mac's **Mick Fleetwood** shaved his beard to play an Antedian fish-alien dignitary in "Manhunt." His single line was just the word **"food."** He admitted: *"I was basically an idiot, trying to do what I was doing."* Brent Spiner recalled Fleetwood continually flubbing his line [25].
+
+### Worf's Forehead — Lost or Stolen
+
+Between Seasons 1 and 2, Worf's facial prosthetics went missing. Makeup artist **Michael Westmore** had to redesign and rebuild them, which is why Worf looks noticeably different from Season 2 onward. Whether they were lost or stolen remains a mystery [26].
+
+### Sirtis and Dorn Initially Hated Each Other
+
+Marina Sirtis revealed that she and Michael Dorn initially *"hated each other"* during the first season, though they later became very close friends [17].
+
+### The Director Who Quit
+
+During **"The Big Goodbye"** (Season 1), the director became so frustrated with the cast's rowdy behavior that he went to producers and said he would never direct the show again. Rick Berman came to the set to scold them. According to Spiner, Stewart's response was to go up on a hill and spin around singing *"The Hills Are Alive"* [14].
+
+### Notable On-Screen Goofs
+
+TNG produced a remarkable number of visible bloopers across its 178 episodes:
+
+- **Data using contractions** — Data is established as never using contractions, yet he does so repeatedly throughout the series, including *"It's the Enterprise"* in the finale "All Good Things..." [27].
+- **The gum-chewing Romulan** — a Romulan guard visibly chews gum during a scene, one of the most famous goofs in the show [28].
+- **The Yamato registry number changed** — in "Where Silence Has Lease," the USS Yamato's registry is NCC-1305-E; in "Contagion," it's suddenly NCC-71807 [29].
+- **Worf's forehead changes every season** — each season, Worf's head ridges change slightly but noticeably [27].
+- **Geordi closes Data's eyes without touching him** — in "Contagion," LeVar Burton's hand is clearly too far from Brent Spiner's face, done so he wouldn't smear the makeup [29].
+- **A boom mic visible** in "When the Bough Breaks" on a door frame [30].
+- **A camera reflection** in the glass front of a sickbay console in "The Naked Now" — the first such goof in TNG [30].
+
 ---
 
 [1] [Star Trek: The Next Generation - Wikipedia](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation)
@@ -138,3 +220,39 @@ The Borg were originally conceived as a **purely technological species** — ins
 [11] [SlashFilm - A Lying Star Trek Producer Tried to Sabotage Wil Wheaton's Career](https://www.slashfilm.com/1359727/star-trek-lie-wesley-crusher-sabotage-wil-wheaton-career/)
 
 [12] [Wil Wheaton - The William Fucking Shatner Story](https://wilwheaton.net/2021/03/the-william-fucking-shatner-story/)
+
+[13] [Giant Freakin Robot - TNG Bloopers](https://www.giantfreakinrobot.com/ent/scifi/star-trek-blooper-cancelled.html)
+
+[14] [Screen Rant - Stewart's Sound of Music Breakdown](https://screenrant.com/star-trek-tng-patrick-stewart-silly-real-number-one/)
+
+[15] [FandomWire - Spiner Couldn't Stop Laughing in Masks](https://fandomwire.com/why-brent-spiner-couldnt-stop-laughing-while-filming-this-star-trek-tng-episode/)
+
+[16] [The Wrap - Season 7 Gag Reel](https://www.thewrap.com/william-riker-chases-an-ensign-jean-luc-picard-cusses-in-star-trek-tng-season-7-gag-reel-video/)
+
+[17] [Grunge - Bizarre Things on the TNG Set](https://www.grunge.com/1680553/bizarre-things-happened-set-star-trek-the-next-generation/)
+
+[18] [Collider - Brent Spiner's Wardrobe Malfunction](https://collider.com/star-trek-the-next-generation-western-episode-a-fistful-of-datas-brent-spiner-wardrobe-malfunction/)
+
+[19] [Red Shirts Always Die - Spiner's Consider the Sauce Prank](https://redshirtsalwaysdie.com/2022/04/19/wil-wheaton-explains-one-time-brent-spiner-got-trouble-set-star-trek/)
+
+[20] [SlashFilm - Stewart Owns Spiner's Prank Sign](https://www.slashfilm.com/1435221/star-trek-patrick-stewart-owns-hilarious-prank-created-by-brent-spiner/)
+
+[21] [TrekMovie - The Incident That Ended Table Reads](https://trekmovie.com/2025/11/29/exclusive-the-inside-story-of-the-tng-incident-that-ended-star-trek-table-reads-for-3-decades/)
+
+[22] [Hollywood Reporter - Stewart Stormed Off Set](https://www.hollywoodreporter.com/tv/tv-news/patrick-stewart-stormed-off-star-trek-next-generation-set-1235603395/)
+
+[23] [SlashFilm - Paramount President Threatened to Fire Stewart](https://www.slashfilm.com/1472356/paramount-president-threatened-patrick-stewart-star-trek-career/)
+
+[24] [Screen Rant - Stewart's Forehead Teleprompter](https://screenrant.com/patrick-stewart-help-diana-muldaur-star-trek-tng/)
+
+[25] [Vancouver Sun - Mick Fleetwood Recalls Star Trek](https://vancouversun.com/news/staff-blogs/fleetwood-mac-mick-fleetwood-recalls-star-trek-experience-pays-tribute-to-leonard-nimoy)
+
+[26] [Screen Rant - Worf's Makeup Changed](https://screenrant.com/star-trek-worf-tng-klingon-makeup-change-reason/)
+
+[27] [IMDb - All Good Things Goofs](https://www.imdb.com/title/tt0111281/goofs/)
+
+[28] [SlipUps - TNG Bloopers](https://slipups.com/tree/1689.html)
+
+[29] [IMDb - Contagion Goofs](https://www.imdb.com/title/tt0708692/goofs/)
+
+[30] [SlipUps - TNG Visible Crew](https://slipups.com/items/13706.html)
