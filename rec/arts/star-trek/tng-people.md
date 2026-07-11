@@ -63,7 +63,9 @@ During the Season 2 production hiatus, Wheaton was offered the role of **Danceny
 
 **An unnamed producer** contacted Wheaton's agent and then called Wheaton directly, telling him this was impossible: *"It's a Wesley episode, and I'm writing a scene with you and Gates [McFadden] that's going to move your mother-son relationship forward, and it's really important to the series."* Wheaton turned down *Valmont*. A few days before production began, the producer **wrote him out of the script entirely** [17][18].
 
-The episode received extensive rewrites — writer Melinda Snodgrass nearly removed her name from the credits over the changes. Wesley does appear in a handful of scenes in the final version, but his role was significantly reduced from whatever the producer had described. Wheaton saw it as deliberate career sabotage. He later recounted: *"The message was very clear — we own you — and it was a move to sabotage my career."* Years later, **Marina Sirtis told him** the producers' motive: *"They knew that if I had done this film, I would have been a movie star, and it would have been harder for them to deal with me."* Wheaton's response: *"F*** you guys, I am now doing anything I can to get off this show"* [17][18].
+The episode received extensive rewrites — writer Melinda Snodgrass nearly removed her name from the credits over the changes. Wesley does appear in a handful of scenes in the final version, but his role was significantly reduced from whatever the producer had described. It's possible the producer confused episodes: the Wesley-centric Crusher mother-son scene he described matches **"Evolution"** (the actual Season 3 premiere) rather than "The Ensigns of Command," which was produced first but aired second. If so, it may have been a scheduling mix-up rather than deliberate sabotage — though the effect on Wheaton was the same [17][18][30].
+
+Wheaton saw it as deliberate career sabotage. He later recounted: *"The message was very clear — we own you — and it was a move to sabotage my career."* Years later, **Marina Sirtis told him** the producers' motive: *"They knew that if I had done this film, I would have been a movie star, and it would have been harder for them to deal with me."* Wheaton's response: *"F*** you guys, I am now doing anything I can to get off this show"* [17][18].
 
 ### The Muscle Suit and Fan Abuse
 
@@ -172,3 +174,5 @@ He appeared in **17 episodes** across Seasons 3 through 12 (2009–2019). Wheato
 [28] [Wikipedia - Wil Wheaton](https://en.wikipedia.org/wiki/Wil_Wheaton)
 
 [29] [Memory Alpha - Wil Wheaton](https://memory-alpha.fandom.com/wiki/Wil_Wheaton)
+
+[30] [Giant Freakin Robot - The Star Trek Episode That Made Wil Wheaton Quit](https://www.giantfreakinrobot.com/ent/wil-wheaton-star-trek-quit.html)
