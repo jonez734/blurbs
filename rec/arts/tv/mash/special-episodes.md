@@ -94,6 +94,20 @@ The climax brings both storylines together when a North Korean POW smuggles a li
 
 Afterward, Hawkeye enters the Officers' Club, orders a drink, then pauses and delivers the iconic line: *"I'll be back when I want it, not when I need it."*
 
+## "Dear Sis" (Season 7, Episode 14, 1978)
+
+Written and directed by Alan Alda, this Christmas episode is structured as a letter from Father Mulcahy to his sister, a nun. Mulcahy feels useless at the 4077th—a crisis compounded when a wounded soldier punches him in triage and he punches back in a moment of rage [1].
+
+Meanwhile, Winchester is miserable about spending Christmas far from Boston. At the camp Christmas party, Radar approaches him with a gift: his **old childhood toboggan cap**, sent by his mother at Radar's request. Radar reveals it was actually **Father Mulcahy's idea** to write her [2].
+
+Overwhelmed, Winchester rushes to Mulcahy and stuffs his entire bankroll into the priest's hands: *"Here. Buy them whatever they need. [pause] Here! Buy them whatever they DON'T need!"* He delivers one of the series' most beloved speeches: *"You saved me, Father. You lowered a bucket into the well of my despair, and you raised me up to the light of day"* [2].
+
+The episode closes with the entire cast singing **"Dona Nobis Pacem"** ("Give Us Peace") in the snow—one of the show's most iconic musical moments. The episode ends on a **freeze frame with silent credits**, a rare departure from the usual format [3].
+
+"Dear Sis" is one of only two M*A*S*H episodes to feature snow on the compound, the other being "A War for All Seasons" [4].
+
+See also: ["Dear Sis" — full episode spotlight](/teos/rec/arts/tv/mash/dear-sis)
+
 ---
 
 [1] [Goodbye, Farewell and Amen - Wikipedia](https://en.wikipedia.org/wiki/Goodbye,_Farewell_and_Amen)
@@ -111,3 +125,9 @@ Afterward, Hawkeye enters the Officers' Club, orders a drink, then pauses and de
 [7] [As Time Goes By - Wikipedia](https://en.wikipedia.org/wiki/As_Time_Goes_By_(M*A*S*H))
 
 [8] [Run for the Money - MASH Fandom](https://mash.fandom.com/wiki/Run_for_the_Money)
+
+[9] [Dear Sis - MASH Fandom](https://mash.fandom.com/wiki/Dear_Sis_(TV_series_episode))
+
+[10] [Dear Sis - MASH4077TV](https://www.mash4077tv.com/2014/06/episode-spotlight-dear-sis/)
+
+[11] [M*A*S*H Season 7 - Wikipedia](https://en.wikipedia.org/wiki/M*A*S*H_season_7)
