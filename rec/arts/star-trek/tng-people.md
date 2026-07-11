@@ -83,6 +83,8 @@ When Wheaton approached Shatner in costume (the grey "acting ensign" jumpsuit, w
 
 Despite everything, Wheaton credits his TNG castmates as being like family. He has said returning to the set was *"like coming home."* He eventually reconciled with Trek and now hosts **The Ready Room**, the official Star Trek aftershow — becoming, ironically, the franchise's most effective ambassador to a fanbase that once despised his character. The reception has been, in his words, *"35 years overdue"* [17][21].
 
+The road back was not smooth. In 2002, Wheaton was **cut from Creation Entertainment's 15th anniversary TNG convention** — an experience he wrote about publicly, describing the con circuit's transformation from fan-driven community to corporate business. He also said at the time that executive producer Rick Berman "hates me," and LeVar Burton had to intervene to get Wheaton a cameo in *Nemesis*. In the years since, however, Wheaton has appeared at numerous conventions alongside the full TNG cast — including the 25th anniversary reunion at Austin Comic-Con (2012), Phoenix Comicon (2012), and Awesome Con (2019) — and the relationships appear genuinely warm. At a 2017 Salt Lake Comic Con panel with Gates McFadden, he called her *"space mom"* and the two discussed how long it took to understand what the show meant to people [17][21][24][25].
+
 ## The Writers and Creators
 
 **Gene Roddenberry** (1921–1991) — Remained involved in TNG's early seasons but was increasingly incapacitated by frontotemporal dementia and alcoholism. He approved the overall vision but left day-to-day production to others. He died on October 24, 1991, midway through Season 5. The episode "The Bonding" (S3E5) was the first episode produced after his death. His funeral at his Hollywood Hills home was attended by most of the TNG and TOS casts. Majel Barrett, his widow, continued working on Trek until her own death in 2008 [1][22].
@@ -144,3 +146,7 @@ Despite everything, Wheaton credits his TNG castmates as being like family. He h
 [22] [Wikipedia - Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry)
 
 [23] [Wikipedia - Michael Piller](https://en.wikipedia.org/wiki/Michael_Piller)
+
+[24] [Wil Wheaton - I See Another Hurdle Approaching (Creation convention)](https://wilwheaton.net/2002/08/i_see_another_hurdle_approachi/)
+
+[25] [TrekMovie - PHXCC12 TNG Reunion Panel](https://trekmovie.com/2012/05/28/phxcc12-star-trek-tng-reunion-panel-photos-video/)
