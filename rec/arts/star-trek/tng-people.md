@@ -39,6 +39,12 @@ Star Trek: The Next Generation (TNG) aired in first-run syndication from Septemb
 
 Wesley Crusher — the teenage prodigy who saves the Enterprise repeatedly — is one of the most controversial characters in Star Trek history. The character was so disliked that TVTropes named its "Creator's Pet" trope **"The Wesley"** before renaming it. In a *Maxim* magazine poll, Wesley ranked as the most annoying character in science fiction, surpassed only by Jar Jar Binks [12][13].
 
+### Before TNG
+
+Wheaton was born Richard William Wheaton III on July 29, 1972, in Burbank, California. He made his acting debut at age 9 in the television film *A Long Way Home* (1981), then voiced Martin in Don Bluth's animated feature *The Secret of NIMH* (1982). Through the early 1980s he worked steadily in television — guest spots on *Highway to Heaven*, *St. Elsewhere*, and a lead role in the TV movie *Young Harry Houdini* (1987) — while appearing in films like *The Buddy System* (1984, opposite Richard Dreyfuss and Susan Sarandon) and *The Last Starfighter* (1984), though his speaking scenes in the latter were cut from the theatrical release [28][29].
+
+His breakout came with Rob Reiner's *Stand by Me* (1986), adapting Stephen King's novella *The Body*. Wheaton played **Gordie Lachance**, the sensitive 12-year-old narrator — a role that required him to carry the film. The *Los Angeles Times* called him *"a gem,"* and the film was nominated for a Golden Globe for Best Motion Picture – Drama. *Stand by Me* became a defining coming-of-age classic, and it was this performance that put Wheaton on Roddenberry's radar when casting began for TNG the following year [28][29].
+
 ### Roddenberry's Self-Insert
 
 Gene Roddenberry loved Wesley Crusher. Executive producer Rick Berman confirmed that Wesley was designed as **a stand-in for a young Gene Roddenberry** — a brilliant, misunderstood outsider who proves himself against skeptical adults. The character's middle name was "George," for Roddenberry. Robert Justman, a senior producer, lobbied to change the character's name from Wesley to Leslie, fearing the name sounded too much like a girls' name, but Roddenberry overruled him [13][14].
@@ -162,3 +168,7 @@ He appeared in **17 episodes** across Seasons 3 through 12 (2009–2019). Wheato
 [26] [Wil Wheaton - It All Started with a Big Bang](https://wilwheaton.net/2019/02/it-all-started-with-a-big-bang/)
 
 [27] [Looper - Wil Wheaton Filmed Fewer Episodes Of TBBT Than You Might Think](https://www.looper.com/981903/wil-wheaton-filmed-fewer-episodes-of-the-big-bang-theory-than-you-might-think/)
+
+[28] [Wikipedia - Wil Wheaton](https://en.wikipedia.org/wiki/Wil_Wheaton)
+
+[29] [Memory Alpha - Wil Wheaton](https://memory-alpha.fandom.com/wiki/Wil_Wheaton)
