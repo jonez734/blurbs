@@ -123,6 +123,70 @@ Lofton kept his casting secret for over a year — one of Trek's best-kept secre
 
 The episode's resolution of Sisko's fate — preserved in deliberate ambiguity, honoring the mystical quality of his relationship with the Prophets — was a production decision that required coordination across multiple Trek continuities. The writers consulted with DS9's creative legacy while ensuring the resolution felt organic to Starfleet Academy's own narrative [15].
 
+## Amusing Anecdotes and Bloopers
+
+### The Infamous Glitter Vomit
+
+The most talked-about gag of the season: **Darem Reymi** (George Hawkins) vomits **glitter** twice — once after eating bananas on a dare in "Series Acclimation Mil" (S1E5), and again after drinking Klingon alcohol in "300th Night" (S1E9). The gag originated with showrunner **Noga Landau**, who is obsessed with glitter and pushed for maximum sparkle in every scene. **Jonathan Frakes**, who directed episode 9, said: *"She ends all of her emails with me with the glitter"* [17][18].
+
+Frakes initially resisted sprinkling glitter in hallway party scenes but eventually caved to Landau's persistence. The glitter vomit became one of the show's most meme'd moments — a physical comedy beat that cut against the series' more serious tones and became a fan favorite [17][18].
+
+### The "Ake Maneuver"
+
+**Holly Hunter's** Captain Nahla Ake developed an unconventional way of sitting in the captain's chair: she curled up like a cat, kicked off her shoes, adjusted the chair to its lowest setting, and read books on the bridge. The pose became an unexpected **viral sensation** on TikTok, Instagram, and YouTube, with fans imitating the curled-up position. **Paul Giamatti** called it *"genius"* [19].
+
+Landau admitted: *"We had no idea what was going to blow up online."* Hunter explained her physicality: *"I wanted her to feel like liquid. I wanted it to be without a spine."* The barefoot, spineless captain became the show's most iconic visual — a deliberate rejection of the rigid, upright command posture that every previous Trek captain had adopted [19][20].
+
+### Giamatti Almost Kissed Hunter
+
+In the Season 1 episodes where Braka and Ake share the screen, Giamatti told Collider he kept instinctively getting physically close to Hunter — resting his head on her in takes that didn't make the cut. Hunter admitted she thought *"maybe I was going to kiss him"* and called it *"so bizarre — it came out of nowhere."* They discussed an *"odd kind of attraction"* between their characters that neither the scripts nor the showrunners had explicitly intended [21].
+
+Giamatti described his performance philosophy: *"I felt like I was having too much fun. Occasionally, I thought somebody needed to come to sedate me."* He told Entertainment Weekly the showrunners rarely said no to his choices: *"I'm playing this combination of two incredibly aggressive alien species. You okay if I really go for the aggression?"* They said yes [3].
+
+### Hunter Didn't Know Being the Captain Was "a Big Deal"
+
+At the first table read, Hunter turned to Giamatti and asked: *"This is really great. This whole thing with being the captain, is this a big deal?"* Giamatti: *"Uh, yeah, I think it's a big deal, Holly."* The exchange — in which an Academy Award winner was casually informed that commanding a Starship in the Trek franchise carried significant cultural weight — became one of the production's most repeated anecdotes [22].
+
+### The Ocam Ad-Libs
+
+**Romeo Carere** (Ocam Sadal) was originally written as Tarima's **sister** — the role was completely rewritten after Carere's audition. Co-star **Karim Diané** said Carere *"sometimes says the most ridiculous things that are so funny and are so left field that he just breaks the entire set down. Everybody just starts laughing."* Many of Ocam's funniest lines were improvised [23].
+
+Landau confirmed that Carere's improvisational energy reshaped the character. The decision to rewrite Ocam from female to male — and to make him a scene-stealing comic presence — was one of the production's most consequential happy accidents [23].
+
+### Yashere's Ad-Libs and Picardo's Hologram Maintenance
+
+**Gina Yashere** said **Alex Kurtzman** constantly told her: *"Ad lib! Just carry on and see what comes out."* Some of her improvisations made it into the final episodes. **Robert Picardo** discussed a parallel challenge: changing dialogue to keep The Doctor sounding like a hologram — replacing phrases like *"my lifetime"* with *"my experience,"* since the Doctor's perspective on time is fundamentally different from a human's [24].
+
+Picardo also revealed a pitch for a Season 3 episode in which The Doctor would meet his *Voyager* backup program from "Living Witness" — a story that will never be produced because the show was cancelled [24].
+
+### Frakes' Directing Philosophy
+
+**Jonathan Frakes** told the young cast: *"There are no mistakes. Don't worry about anything. Feel free to make mistakes. Nobody's going to f***ing yell at you."* He also revealed that Darem's comic fall in the shuttle doorway in "300th Night" was an on-the-spot suggestion: *"What if you fell instead of just leaning against the door?"* The moment — which Hawkins performed with physical commitment that delighted the cast — became one of the episode's most quoted beats [25].
+
+### Canonical Errors and On-Screen Goofs
+
+The production was not immune to the kind of continuity errors that have plagued Trek since TOS. Notable goofs spotted by fans included:
+
+- **Kasidy Yates misspelled** in the Benjamin Sisko Museum family tree in "Series Acclimation Mil" — written as "Kassidy" and missing the Sisko-Yates child entirely [26].
+
+- **Kirk's rank wrong** on the Memorial Wall — listed as "Admiral" when he died as Captain in *Generations* [27].
+
+- **Wesley Crusher's rank wrong** — listed as "Lieutenant JG" when he left Starfleet as an Ensign [27].
+
+- **Jem'Hadar blood color wrong** — Lura Thok bleeds **white** in the premiere, but Jem'Hadar blood is **red** in DS9 canon. This sparked speculation about whether the writers had fact-checked against the Trek bible [28].
+
+- **The Doctor misquoted Judge Satie** — in a classroom scene, The Doctor quotes the speech from TNG's "The Drumhead" but gets the wording wrong [28].
+
+- **Post-production scene shuffling** — episodes 1 through 4 appeared to have been restructured in post, scattering Nus Braka prison scenes throughout and creating continuity issues with Ake's nebula address and Reno's classroom scene [28].
+
+- **Ocam vanishing** — breakout character Ocam Sadal disappeared from the last two episodes and the final group photo with no on-screen explanation. Showrunners later said he was on Betazed with his father [29].
+
+- **The "Tales from the Frontier" comic** — an in-universe comic book in episode 6 sparked widespread fan suspicion of AI generation due to inconsistent uniform styles, wonky hands, and poor lettering. TrekMovie later confirmed it was hand-drawn by an in-house artist, but the controversy illustrated how sloppy the art looked [30].
+
+### The Gag Reel
+
+The Season 1 digital release, available **June 15, 2026**, includes **4 minutes and 24 seconds of gag reel** footage, along with 52 minutes of behind-the-scenes featurettes and 15 minutes of prop-making content. ScreenRant released an exclusive clip showing the cast cracking up during takes — including moments from the glitter vomit scenes and Giamatti's improvisations [31][32].
+
 ## Legacy
 
 Starfleet Academy's production story is a cautionary tale about the gap between creative ambition and commercial reality — but also about what can be achieved when talented people are given the resources to execute a vision, even if the vision doesn't find its audience. The show built the largest set in Trek history, assembled a cast that included Oscar winners and Emmy nominees, resolved a 27-year narrative thread, and produced a DS9 tribute episode that will be watched as long as Trek is watched. That it was cancelled before its completed second season aired is a reflection of the corporate moment, not the creative achievement [1][7][13].
@@ -164,3 +228,35 @@ See also: [SFA Milestones](sfa-milestones.md), [SFA People](sfa-people.md), [DS9
 [15] [TrekMovie - DS9 Love Letter](https://trekmovie.com/2026/01/12/exclusive-starfleet-academy-showrunners-talk-easter-eggs-ds9-love-letter-and-keeping-star-trek-alive/)
 
 [16] [TrekMovie - Cirroc Lofton Interview](https://trekmovie.com/2026/02/07/interview-cirroc-lofton-on-returning-as-jake-sisko-in-starfleet-academy-with-avery-brooks-blessing/)
+
+[17] [Screen Rant - Darem Glitter Vomit Explained](https://screenrant.com/star-trek-starfleet-academy-joke-darem-glitter-jonathan-frakes-explain/)
+
+[18] [CBR - Glitter & Jonathan Frakes](https://www.cbr.com/star-trek-starfleet-academy-glitter-jonathan-frakes/)
+
+[19] [Screen Rant - Holly Hunter Captain Chair Reaction](https://screenrant.com/star-trek-starfleet-academy-holly-hunter-captain-chair-sit-fan-reaction/)
+
+[20] [Den of Geek - Why Ake Sits Like That](https://www.denofgeek.com/tv/holly-hunter-chancellor-ake-why-she-sits-like-that/)
+
+[21] [Redshirts Always Die - Braka-Ake Attraction](https://redshirtsalwaysdie.com/star-trek-starfleet-academy-nus-braka-nahla-ake-attraction)
+
+[22] [Collider - Giamatti & Hunter Scenes](https://collider.com/star-trek-starfleet-academy-paul-giamatti-holly-hunter-scenes/)
+
+[23] [Screen Rant - Ocam Breakout Character](https://screenrant.com/star-treks-starfleet-academy-surprise-breakout-character-ocam-changes/)
+
+[24] [TrekMovie - Picardo & Yashere on Ad-Libbing](https://trekmovie.com/2026/01/13/exclusive-robert-picardo-and-gina-yashere-on-ad-libbing-season-2-of-star-trek-starfleet-academy/)
+
+[25] [Screen Rant - Frakes Directing Episode 9](https://screenrant.com/star-trek-starfleet-academy-episode-9-jonathan-frakes-interview/)
+
+[26] [TrekCore - SFA Review: Series Acclimation Mil](https://blog.trekcore.com/2026/02/star-trek-starfleet-academy-review-series-acclimation-mil/)
+
+[27] [Giant Freakin Robot - Memorial Wall Errors](https://www.giantfreakinrobot.com/ent/scifi/starfleet-academy-ruin.html)
+
+[28] [Em Underwood - Episode 4 What Nobody's Talking About](https://emunderwood.com/2026/02/01/starfleet-academy-episode-4-what-nobodys-talking-about/)
+
+[29] [Screen Rant - Season 1 Unanswered Questions](https://screenrant.com/star-trek-starfleet-academy-season-1-unanswered-questions/)
+
+[30] [TrekBBS - Tales from the Frontier AI Art Controversy](https://www.trekbbs.com/threads/yikes-did-season-1-episode-6-use-ai-generated-art.321091/)
+
+[31] [Screen Rant - Gag Reel Clip](https://screenrant.com/video/star-trek-starfleet-academy-season-1-gag-reel-clip/)
+
+[32] [Collider - Digital Release Bonus Features](https://collider.com/star-trek-starfleet-academy-season-1-digital-release-bonus-features/)
