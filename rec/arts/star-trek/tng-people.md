@@ -31,6 +31,8 @@ Star Trek: The Next Generation (TNG) aired in first-run syndication from Septemb
 
 **Whoopi Goldberg** as Guinan — The enigmatic bartender on Ten Forward. Goldberg was already a major star when she **personally requested** a role on TNG, telling Roddenberry she had been a lifelong Star Trek fan and wanted to be on the show. She was written in as Guinan, a centuries-old El-Aurian with mysterious abilities and a deep friendship with Picard. Goldberg appeared in 29 episodes across six seasons and both the *Generations* and *Nemesis* films. She later said Guinan was one of her favorite roles [1][9].
 
+**Dwight Schultz** as Lieutenant Reginald Barclay — The socially anxious engineer who became one of TNG's most unexpectedly profound characters. Introduced in "Hollow Pursuits" (S3E21) as a holodeck addict who reimagined the senior staff in his simulations, Barclay evolved across TNG and Voyager into a figure whose quiet heroism left a lasting mark on the franchise. His most famous episode, "The Nth Degree" (S4E18), saw him merge his consciousness with the Enterprise's computer after exposure to a Cytherian probe — a mind meld with the ship itself. Schultz had previously played Captain H.M. "Howling Mad" Murdock on The A-Team. See the dedicated [Barclay blurb](tng-barclay.md) for more [31].
+
 **John de Lancie** as Q — An omnipotent being who puts humanity "on trial" in the series premiere and returns periodically throughout the run. De Lancie's Q is simultaneously menacing and comedic — a godlike trickster who forces Picard to confront uncomfortable truths about human nature. The Picard-Q dynamic became one of TNG's defining relationships, culminating in the final two episodes of the series [1][10].
 
 **Majel Barrett** as Lwaxana Troi — Deanna's mother, a flamboyant Betazoid ambassador. Barrett, who had played Number One in the original TOS pilot and Nurse Chapel in the series, was Roddenberry's wife. Lwaxana provided comic relief but also surprising depth in episodes like "Half a Life" (Season 4), where she falls in love with a man preparing for a ritual suicide. Barrett also continued voicing the ship's computer, as she had in TOS — see the LCARS blurb for more [1][11].
@@ -176,3 +178,5 @@ He appeared in **17 episodes** across Seasons 3 through 12 (2009–2019). Wheato
 [29] [Memory Alpha - Wil Wheaton](https://memory-alpha.fandom.com/wiki/Wil_Wheaton)
 
 [30] [Giant Freakin Robot - The Star Trek Episode That Made Wil Wheaton Quit](https://www.giantfreakinrobot.com/ent/wil-wheaton-star-trek-quit.html)
+
+[31] [Memory Alpha - Reginald Barclay](https://memory-alpha.fandom.com/wiki/Reginald_Barclay)
