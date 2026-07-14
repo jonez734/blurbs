@@ -57,7 +57,21 @@ Burns was written out when he was replaced by Charles Winchester.
 
 ---
 
-The chemistry between these characters made M*A*S*H a ratings juggernaut and critical darling, winning 14 Emmy Awards during its run. The show proved that television could tackle serious themes while maintaining humor, paving the way for future dramedies.
+## Real Military Service
+
+A remarkable number of M*A*S*H's principal cast members had actually served in the armed forces before joining the show, lending quiet authenticity to their portrayals.
+
+**Alan Alda** (Hawkeye Pierce) — Commissioned in the U.S. Army Reserve after ROTC at Fordham. Served six months in South Korea as an artillery gunnery officer (1956–58), shortly after the armistice. He later said the experience of watching shell-shocked soldiers stare blankly at their food in the mess tent shaped his determination that the show never gloss over the reality of war.
+
+**Jamie Farr** (Maxwell Klinger) — Drafted into the U.S. Army in 1957. Served two years on active duty and six in the Army Reserve, stationed in Japan and Korea. He worked with the Armed Forces Network and toured Korean military bases (including real MASH units) with comedian Red Skelton to entertain troops. Farr wore his own actual Army dog tags throughout the series' run.
+
+**Wayne Rogers** (Trapper John McIntyre) — Graduated from Princeton in 1954 and joined the U.S. Navy as a commissioned officer. Served as navigator aboard the USS Denebola, a supply ship.
+
+**McLean Stevenson** (Colonel Henry Blake) — Served in the U.S. Navy as a hospital corpsman ("pharmacist's mate") at the Naval Hospital in Great Lakes, Illinois (1946–48). He finished as a Seaman Second Class — ironically, the same medical setting his character would later command onscreen.
+
+**Mike Farrell** (B.J. Hunnicutt) — Enlisted in the U.S. Marine Corps in 1957. Served as a rifleman with the 3rd Marine Division in Okinawa, Japan, reaching the rank of Private First Class. He was the Honor Man of his platoon at basic training in San Diego. Farrell has credited the Marines with instilling the discipline and resilience he brought to B.J.
+
+Behind the scenes, co-creator **Gene Reynolds** served on a Navy destroyer in World War II, and writer/developer **Larry Gelbart** was an Army veteran who worked for Armed Forces Radio.
 
 ---
 
