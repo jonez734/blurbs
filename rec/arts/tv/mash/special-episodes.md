@@ -5,7 +5,7 @@ date: 2026-06-19 03:00:36 GMT (23:00:36 NYC)
 
 # Special Episodes of M*A*S*H
 
-Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Eight episodes stand out as particularly iconic.
+Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Nine episodes stand out as particularly iconic.
 
 ## "The Nurses" (Season 5, Episode 6, 1976)
 
@@ -18,6 +18,14 @@ The next morning, Margaret catches Baker returning to her tent. In the confronta
 This was a turning point for the character—Margaret revealed her vulnerability and feelings of isolation from the nurses who never accepted her. It marked the beginning of her transformation from antagonistic figure to a more sympathetic, humanized character.
 
 Loretta Swit named "The Nurses" as one of her favorite episodes, praising its depth and her own emotional performance.
+
+## "Tuttle" (Season 1, Episode 15, 1973)
+
+One of the show's purest comedy episodes, "Tuttle" is the story of a little white lie that spirals wildly out of control. When Hawkeye and Trapper sneak supplies to Sister Theresa's orphanage, Hawkeye credits the donations to "Captain Tuttle"—his imaginary childhood friend who, as Hawkeye explains, was the fall guy for everything he did wrong as a kid. The deception snowballs: Henry Blake wants Tuttle to serve as Officer of the Day, Frank and Margaret start asking questions, and Hawkeye, Trapper, and Radar are forced to fabricate an entire personnel file. Hawkeye even impersonates General Clayton on the phone to head off Margaret's inquiries [12].
+
+The situation reaches a breaking point when the real General Clayton arrives at the 4077th to award Tuttle a medal for his generosity. Backed into a corner, Hawkeye has one option: kill Captain Jonathan S. Tuttle. In front of the entire camp, he delivers a eulogy that became one of the series' most quoted speeches: *"There's a little Tuttle left in all of us. In fact, you might say that all of us together made up Tuttle."* The episode ends with Tuttle's GI insurance naming the orphanage as his sole beneficiary, and the end credits cheekily list "Tuttle as himself" [12][13].
+
+The episode was adapted by Larry Gelbart from a 1962 French play called *Lieutenant Tenant* by Pierre Gripari (based on a novella by Yuri Tynyanov), which told a similar story of a barely literate Russian private who accidentally creates a fictitious officer through a handwriting mistake. Gelbart had seen the play in London years earlier and had been taken with the concept, finally finding the right vehicle for it in M\*A\*S\*H [13]. Notably, Hawkeye's eulogy was not in the original script—Gelbart wrote it after the exteriors were filmed, feeling the scene needed it, which is why the speech was shot on the set [13].
 
 ## "Goodbye, Farewell and Amen" (Season 11, Episode 24, 1983)
 
@@ -131,3 +139,7 @@ See also: ["Dear Sis" — full episode spotlight](/teos/rec/arts/tv/mash/dear-si
 [10] [Dear Sis - MASH4077TV](https://www.mash4077tv.com/2014/06/episode-spotlight-dear-sis/)
 
 [11] [M*A*S*H Season 7 - Wikipedia](https://en.wikipedia.org/wiki/M*A*S*H_season_7)
+
+[12] [Tuttle - Wikipedia](https://en.wikipedia.org/wiki/Tuttle_(M*A*S*H))
+
+[13] [Episode Spotlight: Tuttle - MASH4077TV](https://www.mash4077tv.com/2017/06/episode-spotlight-tuttle/)
