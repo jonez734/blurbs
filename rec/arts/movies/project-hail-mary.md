@@ -68,6 +68,8 @@ The interview also surfaces Sandra Hüller's impromptu karaoke performance — s
 
 **Moviefone at JPL** — An in-person interview at NASA's Jet Propulsion Laboratory in Pasadena. Gosling discusses how Ortiz evolved from puppeteer to full scene partner: "He was just supposed to be the physical puppeteer, but he started reading the lines with me... we got to the point where we could improvise for hours sometimes off script as the characters on camera." He also reveals a deleted scene where, after too many days alone, his character "needs to make a friend out of a mop." [10]
 
+**StarTalk with Neil deGrasse Tyson** (41:23, 3.5M views, April 2026) — Andy Weir sits down with Tyson and Chuck Nice for a deep dive into the science behind the novel and film. Weir reveals he built Rocky's entire biology around a real exoplanet in the 40 Eridani star system — one that was later found not to exist. They discuss whether an alien species could achieve interstellar travel using only Newtonian physics, and Weir explains why he cut a scene where humanity nukes Antarctica to trigger controlled global warming. The episode closes with Weir's hard-won advice for aspiring writers. [15]
+
 ## Adam Savage Goes to Space (Without Leaving Earth)
 
 Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the *Project Hail Mary* production. The result was four videos that double as both promotional material and genuinely excellent behind-the-scenes documentary filmmaking. [11][12][13][14]
@@ -96,3 +98,4 @@ Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the 
 12. [Adam Savage Reviews Project Hail Mary's Spacesuit! — Adam Savage's Tested](https://www.youtube.com/watch?v=pUaxIn1N8ZI)
 13. [How Zero Gravity Spacewalks Are Filmed in Movies — Adam Savage's Tested](https://www.youtube.com/watch?v=jAGedfNAf4M)
 14. [How #ProjectHailMary Filmed Spacewalk Scenes — Adam Savage's Tested](https://www.youtube.com/watch?v=YTBZGF_Wxu4)
+15. [Neil deGrasse Tyson Confronts Andy Weir on the Science of Project Hail Mary — StarTalk](https://www.youtube.com/watch?v=IsoTRExywcM)
