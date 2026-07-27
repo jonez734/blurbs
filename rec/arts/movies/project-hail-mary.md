@@ -56,24 +56,29 @@ Notable pull quotes:
 - Sandra Hall (Sydney Morning Herald, 3.5/5): "Gosling makes an engaging companion who makes something poignant as well as funny out of Grace's unwelcome elevation to hero status." [7]
 - Jorge Rivera Rubio (El Barrio de la Nueva 94FM, 5/5): "A grand story of friendship, scientific smarts and adventure, one of my favorite movies of the year!" [7]
 
-## The View
+## Press Tour Highlights
 
-On release day — March 20, 2026 — Gosling joined directors Phil Lord and Chris Miller on ABC's *The View* for a 13-minute segment. Sara Eisen served as guest co-host. The trio discussed adapting Andy Weir's novel, what made it a "project of a lifetime," and the experience of filming alone with a puppet for 100 days. [8]
+The press junket yielded a bounty of good material, but a few standouts:
 
-- ABC clip: https://abc.com/video/24868e33-097f-4869-adff-9c31e0b777bf
-- Facebook (The View): https://www.facebook.com/TheView/videos/1246769673759245/
+**Collider with Steve Weintraub** — Gosling admits he shot approximately 100 days of material almost entirely alone, across a six-year journey from script to screen. "It's a lot of me. It's more me than I need, than you need, than any of us need," he jokes. At one point, the solitude got to him: "I can't just do another day alone today. I need something." Lord and Miller responded by duct-taping a mop to a stand, raiding other sets for accessories, and building him a mop co-star they named **Moppy Ringwald**. Gosling spent the day dancing and improvising with her. It ended up in the film. [8]
+
+The interview also surfaces Sandra Hüller's impromptu karaoke performance — she sang a Harry Styles song that became "the anthem of the film," appearing across all the marketing and trailers. Gosling heard her rehearsing in the hallway and asked her to perform it in the movie. [8]
+
+**Josh Horowitz's Happy Sad Confused** (45:23, YouTube, March 19, 2026) — Gosling's first-ever podcast appearance. The deep dive covers everything from *Project Hail Mary* to *Star Wars*, *Ghost Rider*, his Oscars "I'm Just Ken" performance, and his teenage encounter with Tina Turner at a movie theater (he asked her for an autograph, which informed how he treats fans today). [9]
+
+**Moviefone at JPL** — An in-person interview at NASA's Jet Propulsion Laboratory in Pasadena. Gosling discusses how Ortiz evolved from puppeteer to full scene partner: "He was just supposed to be the physical puppeteer, but he started reading the lines with me... we got to the point where we could improvise for hours sometimes off script as the characters on camera." He also reveals a deleted scene where, after too many days alone, his character "needs to make a friend out of a mop." [10]
 
 ## Adam Savage Goes to Space (Without Leaving Earth)
 
-Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the *Project Hail Mary* production. The result was four videos that double as both promotional material and genuinely excellent behind-the-scenes documentary filmmaking. [9][10][11][12]
+Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the *Project Hail Mary* production. The result was four videos that double as both promotional material and genuinely excellent behind-the-scenes documentary filmmaking. [10][11][12][13]
 
-**"Adam Savage Behind the Scenes of Project Hail Mary!"** (25:33, 1.1M views) — Production designer Charlie Wood gives Savage a full tour of the Hail Mary cockpit set. The set features thousands of buttons, hundreds of screens, and a lighting system with seven or eight distinct personality modes: monochromatic black-and-white for early scenes, amber for the "dawn of the film," cyan for relaxed moments, green for hostile. The entire set is built on an exoskeleton framework with extensive fabric and insulation work — Wood's drapes team cladded many of the sets entirely in stitched, grommeted, and foiled fabrics. A dedicated screen graphics artist named Mirage handled the narrative displays from day one. [9]
+**"Adam Savage Behind the Scenes of Project Hail Mary!"** (25:33, 1.1M views) — Production designer Charlie Wood gives Savage a full tour of the Hail Mary cockpit set. The set features thousands of buttons, hundreds of screens, and a lighting system with seven or eight distinct personality modes: monochromatic black-and-white for early scenes, amber for the "dawn of the film," cyan for relaxed moments, green for hostile. The entire set is built on an exoskeleton framework with extensive fabric and insulation work — Wood's drapes team cladded many of the sets entirely in stitched, grommeted, and foiled fabrics. A dedicated screen graphics artist named Mirage handled the narrative displays from day one. [10]
 
-**"Adam Savage Reviews Project Hail Mary's Spacesuit!"** (22:07, 248.5K views) — Costume designers David Crossman and Glyn Dillon walk Savage through the red EVA suit, one of the first red spacesuits in a major American film. NASA consulted via Zoom on what near-future EVA technology might look like. The undersuit is an actual cooling suit adapted with latex to give it "wet suit snap," making the struggle to put it on in zero gravity feel viscerally real. FFB Effects built the hero suits, with helmet molds eventually replacing the initial 3D-printed versions. By week three of filming they needed at least four suits for different purposes — discovery shots, dressing sequences, close-ups. [10]
+**"Adam Savage Reviews Project Hail Mary's Spacesuit!"** (22:07, 248.5K views) — Costume designers David Crossman and Glyn Dillon walk Savage through the red EVA suit, one of the first red spacesuits in a major American film. NASA consulted via Zoom on what near-future EVA technology might look like. The undersuit is an actual cooling suit adapted with latex to give it "wet suit snap," making the struggle to put it on in zero gravity feel viscerally real. FFB Effects built the hero suits, with helmet molds eventually replacing the initial 3D-printed versions. By week three of filming they needed at least four suits for different purposes — discovery shots, dressing sequences, close-ups. [11]
 
-**"How Zero Gravity Spacewalks Are Filmed in Movies"** (13:41, 435K views) — Savage dons the stunt spacesuit and gets strapped into a custom rig the stunt team designed specifically for this film. Stunt coordinator Ununice calls it "the least stunty film we've ever done, but possibly the most technical film we've ever done in 30 years." The rig had to give Gosling full Z-axis freedom — somersaults, inversions, traversing the entire hull. Savage also articulates what makes the stunt team's work underappreciated: the double (Ben) has to replicate Gosling's emotional performance while suspended 75 to 100 feet from the rope operators. [11]
+**"How Zero Gravity Spacewalks Are Filmed in Movies"** (13:41, 435K views) — Savage dons the stunt spacesuit and gets strapped into a custom rig the stunt team designed specifically for this film. Stunt coordinator Ununice calls it "the least stunty film we've ever done, but possibly the most technical film we've ever done in 30 years." The rig had to give Gosling full Z-axis freedom — somersaults, inversions, traversing the entire hull. Savage also articulates what makes the stunt team's work underappreciated: the double (Ben) has to replicate Gosling's emotional performance while suspended 75 to 100 feet from the rope operators. [12]
 
-**"How #ProjectHailMary Filmed Spacewalk Scenes"** (0:52, 144K views) — A short, perfect clip of Savage in the suit on the hull set, sweating profusely: "This is officially the most fun I've ever had in a space suit. But I am so sweaty." [12]
+**"How #ProjectHailMary Filmed Spacewalk Scenes"** (0:52, 144K views) — A short, perfect clip of Savage in the suit on the hull set, sweating profusely: "This is officially the most fun I've ever had in a space suit. But I am so sweaty." [13]
 
 ## Sources
 
@@ -84,8 +89,9 @@ Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the 
 5. [How 'Project Hail Mary' Rocky Puppeteer Brought the Alien to Life — Variety](https://variety.com/2026/film/news/project-hail-mary-rocky-puppeteer-alien-1236694834/)
 6. [James Ortiz 'Rocky' of Project Hail Mary — The Knockturnal](https://www.youtube.com/watch?v=D5NyXJLFc8o)
 7. [Project Hail Mary — Rotten Tomatoes](https://www.rottentomatoes.com/m/project_hail_mary)
-8. [The View: Ryan Gosling and 'Project Hail Mary' filmmakers — ABC](https://abc.com/video/24868e33-097f-4869-adff-9c31e0b777bf)
-9. [Adam Savage Behind the Scenes of Project Hail Mary! — Adam Savage's Tested](https://www.youtube.com/watch?v=CO6oyFP14rU)
-10. [Adam Savage Reviews Project Hail Mary's Spacesuit! — Adam Savage's Tested](https://www.youtube.com/watch?v=pUaxIn1N8ZI)
-11. [How Zero Gravity Spacewalks Are Filmed in Movies — Adam Savage's Tested](https://www.youtube.com/watch?v=jAGedfNAf4M)
-12. [How #ProjectHailMary Filmed Spacewalk Scenes — Adam Savage's Tested](https://www.youtube.com/watch?v=YTBZGF_Wxu4)
+8. [Ryan Gosling Was So Lonely During His Sci-fi Epic He Had The Production Build Him a Co-Star — Collider](https://collider.com/ryan-gosling-project-hail-mary-star-wars-starfighter-interview/)
+9. [Ryan Gosling on Project Hail Mary, Star Wars, Ghost Rider, Oscars Performance, & More — Happy Sad Confused / Josh Horowitz](https://www.youtube.com/watch?v=KpjZl_WSVoY)
+10. [Adam Savage Behind the Scenes of Project Hail Mary! — Adam Savage's Tested](https://www.youtube.com/watch?v=CO6oyFP14rU)
+11. [Adam Savage Reviews Project Hail Mary's Spacesuit! — Adam Savage's Tested](https://www.youtube.com/watch?v=pUaxIn1N8ZI)
+12. [How Zero Gravity Spacewalks Are Filmed in Movies — Adam Savage's Tested](https://www.youtube.com/watch?v=jAGedfNAf4M)
+13. [How #ProjectHailMary Filmed Spacewalk Scenes — Adam Savage's Tested](https://www.youtube.com/watch?v=YTBZGF_Wxu4)
