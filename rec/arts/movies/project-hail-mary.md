@@ -70,6 +70,8 @@ The interview also surfaces Sandra Hüller's impromptu karaoke performance — s
 
 **StarTalk with Neil deGrasse Tyson** (41:23, 3.5M views, April 2026) — Andy Weir sits down with Tyson and Chuck Nice for a deep dive into the science behind the novel and film. Weir reveals he built Rocky's entire biology around a real exoplanet in the 40 Eridani star system — one that was later found not to exist. They discuss whether an alien species could achieve interstellar travel using only Newtonian physics, and Weir explains why he cut a scene where humanity nukes Antarctica to trigger controlled global warming. The episode closes with Weir's hard-won advice for aspiring writers. [15]
 
+**StarTalk: "Alternative Aliens" with Andy Weir and David Grinspoon** (May 2021) — An earlier StarTalk episode from when the book first published, featuring Weir alongside astrobiologist David Grinspoon. Weir explains astrophage's cell membrane mechanism — converting proton collisions into energy via neutrinos — and they discuss panspermia, the oxygen catastrophe, snowball Earth, and why Weir chose to make all life in the story share a common origin. Grinspoon notes that astrophage "reverse-engineers" its fuel source in a way that mirrors real geoengineering proposals. [16]
+
 ## Adam Savage Goes to Space (Without Leaving Earth)
 
 Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the *Project Hail Mary* production. The result was four videos that double as both promotional material and genuinely excellent behind-the-scenes documentary filmmaking. [11][12][13][14]
@@ -99,3 +101,4 @@ Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the 
 13. [How Zero Gravity Spacewalks Are Filmed in Movies — Adam Savage's Tested](https://www.youtube.com/watch?v=jAGedfNAf4M)
 14. [How #ProjectHailMary Filmed Spacewalk Scenes — Adam Savage's Tested](https://www.youtube.com/watch?v=YTBZGF_Wxu4)
 15. [Neil deGrasse Tyson Confronts Andy Weir on the Science of Project Hail Mary — StarTalk](https://www.youtube.com/watch?v=IsoTRExywcM)
+16. [Alternative Aliens with Andy Weir and David Grinspoon — StarTalk](https://startalkmedia.com/show/alternative-aliens-with-andy-weir-and-david-grinspoon/)
