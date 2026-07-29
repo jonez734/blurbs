@@ -68,6 +68,8 @@ The interview also surfaces Sandra Hüller's impromptu karaoke performance — s
 
 **Moviefone at JPL** — An in-person interview at NASA's Jet Propulsion Laboratory in Pasadena. Gosling discusses how Ortiz evolved from puppeteer to full scene partner: "He was just supposed to be the physical puppeteer, but he started reading the lines with me... we got to the point where we could improvise for hours sometimes off script as the characters on camera." He also reveals a deleted scene where, after too many days alone, his character "needs to make a friend out of a mop." [10]
 
+**Cinema Therapy: "Psychology of a Hero: Dr. Ryland Grace from PROJECT HAIL MARY"** — Cinema Therapy's therapists break down the psychology of Ryland Grace, exploring what makes him tick as a reluctant hero, his coping mechanisms in isolation, and the friendship at the heart of the film. [17]
+
 **StarTalk with Neil deGrasse Tyson** (41:23, 3.5M views, April 2026) — Andy Weir sits down with Tyson and Chuck Nice for a deep dive into the science behind the novel and film. Weir reveals he built Rocky's entire biology around a real exoplanet in the 40 Eridani star system — one that was later found not to exist. They discuss whether an alien species could achieve interstellar travel using only Newtonian physics, and Weir explains why he cut a scene where humanity nukes Antarctica to trigger controlled global warming. The episode closes with Weir's hard-won advice for aspiring writers. [15]
 
 **StarTalk: "Alternative Aliens" with Andy Weir and David Grinspoon** (May 2021) — An earlier StarTalk episode from when the book first published, featuring Weir alongside astrobiologist David Grinspoon. Weir explains astrophage's cell membrane mechanism — converting proton collisions into energy via neutrinos — and they discuss panspermia, the oxygen catastrophe, snowball Earth, and why Weir chose to make all life in the story share a common origin. Grinspoon notes that astrophage "reverse-engineers" its fuel source in a way that mirrors real geoengineering proposals. [16]
@@ -102,3 +104,4 @@ Amazon MGM Studios embedded Adam Savage and his *Tested* crew directly with the 
 14. [How #ProjectHailMary Filmed Spacewalk Scenes — Adam Savage's Tested](https://www.youtube.com/watch?v=YTBZGF_Wxu4)
 15. [Neil deGrasse Tyson Confronts Andy Weir on the Science of Project Hail Mary — StarTalk](https://www.youtube.com/watch?v=IsoTRExywcM)
 16. [Alternative Aliens with Andy Weir and David Grinspoon — StarTalk](https://startalkmedia.com/show/alternative-aliens-with-andy-weir-and-david-grinspoon/)
+17. [Psychology of a Hero: Dr. Ryland Grace from PROJECT HAIL MARY — Cinema Therapy](https://youtu.be/RrEYFdr_Y2g?si=IiDEo2_zC7n8IwMz)
