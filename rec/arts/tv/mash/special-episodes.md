@@ -5,7 +5,7 @@ date: 2026-06-19 03:00:36 GMT (23:00:36 NYC)
 
 # Special Episodes of M*A*S*H
 
-Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Nine episodes stand out as particularly iconic.
+Over 11 seasons and 256 episodes, M*A*S*H produced numerous memorable installments that pushed the boundaries of television comedy-drama. Ten episodes stand out as particularly iconic.
 
 ## "The Nurses" (Season 5, Episode 6, 1976)
 
@@ -92,6 +92,18 @@ When Palmer asks why Winchester is being so nice, he deflects and takes him back
 
 Notably, actor **David Ogden Stiers** (who played Winchester) stuttered throughout his childhood, adolescence, and early career. He said being an actor helped cure him: *"I didn't stutter when the lines were written for me. Without lines to read was another story... I overcame it by not giving up, by continuing to play roles."* Stiers explained that Winchester would never admit to acts of kindness—it was part of his "glacial exterior" character trait.
 
+## "Follies of the Living, Concerns of the Dead" (Season 10, Episode 10, 1982)
+
+This haunting, Twilight Zone-flavored episode was written and directed by Alan Alda and broadcast on January 4, 1982. When a wounded soldier named Private Weston is brought into the 4077th but is declared dead on arrival, his "soul" climbs out of his body and begins wandering the camp — though only the feverish Klinger, laid up with a kidney stone, can see or hear him [14].
+
+The episode's title makes its thesis clear: this isn't really about the dead soldier, it's about how **petty and self-absorbed the living can be**. As Weston observes, Hawkeye, B.J., and Charles are caught up in a juvenile argument about something trivial; Margaret delivers an angry soliloquy outside Post-Op; only Father Mulcahy and Colonel Potter are depicted with sympathy. The famous moment comes when Weston, standing by the wall mid-argument, quietly asks *"Am I dead?"* [14][15]
+
+The episode has **two endings**: one follows Weston's soul as he joins other dead soldiers — including what appear to be North Korean troops and civilians — walking down a dirt road to an unknown destination; the other shows Klinger's fever breaking, with no one at the camp remembering who Weston was. The two are complementary, both arguing the same point — in war, the dead vanish and the living move on [14][16].
+
+The episode features **one of the series' rare uses of an optical special effect** (Weston climbing out of his body) and is widely believed to have been inspired by the 1960 *Twilight Zone* episode "The Passersby" — a connection made poignant by the fact that Jamie Farr had a small uncredited role in that original *Twilight Zone* installment [15][17]. Alan Alda cited this episode in winning the **Emmy for Outstanding Lead Actor in a Comedy Series** for the 1981–82 season [18].
+
+See also: ["Follies of the Living, Concerns of the Dead" — full episode spotlight](/teos/rec/arts/tv/mash/follies-of-the-living)
+
 ## "Bottle Fatigue" (Season 8, Episode 16, 1980)
 
 This episode balances multiple storylines that converge in the operating room. Hawkeye is horrified to discover his monthly bar tab totals $38.20—a staggering sum—and vows to give up alcohol for a week [5].
@@ -143,3 +155,13 @@ See also: ["Dear Sis" — full episode spotlight](/teos/rec/arts/tv/mash/dear-si
 [12] [Tuttle - Wikipedia](https://en.wikipedia.org/wiki/Tuttle_(M*A*S*H))
 
 [13] [Episode Spotlight: Tuttle - MASH4077TV](https://www.mash4077tv.com/2017/06/episode-spotlight-tuttle/)
+
+[14] [Episode Spotlight: Follies of the Living-Concerns of the Dead - MASH4077TV](https://www.mash4077tv.com/2013/09/episode-spotlight-follies-of-the-living-concerns-of-the-dead/)
+
+[15] [Follies of the Living-Concerns of the Dead - MASH Fandom](https://mash.fandom.com/wiki/Follies_of_the_Living,_Concerns_of_the_Dead)
+
+[16] [Episode of the Week: Follies of the Living-Concerns of the Dead - MASH4077TV](https://www.mash4077tv.com/2020/12/episode-of-the-week-follies-of-the-living-concerns-of-the-dead/)
+
+[17] [This M\*A\*S\*H Episode Took Inspiration from Jamie Farr's Only Twilight Zone Appearance - MeTV](https://www.metv.com/stories/this-m-a-s-h-episode-took-inspiration-from-jamie-farr-s-only-twilight-zone-appearance/)
+
+[18] [34th Primetime Emmy Awards - Wikipedia](https://en.wikipedia.org/wiki/34th_Primetime_Emmy_Awards)
