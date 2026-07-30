@@ -25,15 +25,15 @@ From 2003 to 2014, he had a recurring segment called "Magic Clerk" on "The Tonig
 
 "The Carbonaro Effect" features hidden-camera pranks where Michael performs baffling magic tricks on unsuspecting strangers. Some of his most viral moments include:
 
-- **"Milking Almonds"** - Convincing a health food store employee that you can milk almonds (Season 1, Episode 18)
-- **"Crabby Transformation"** - At a science museum, convinces a woman that space crabs from a meteor have morphed into kittens. Her reaction: "There were crabs, now they're cats!" [Watch on YouTube](https://www.youtube.com/watch?v=gIU09F8jdwc)
-- **"Shipping Store Bowling Ball"** - At a shipping store, convinces customers that a new "reverse air" technology allows bowling balls to be shipped in flat boxes
-- **"Green Car"** - Shrinks a customer's car down to the size of a pea, puts it in a slingshot, and shoots it across the parking lot - then reveals they're on "The Carbonaro Effect"
-- **"Drone Daycare"** - Poses as a park employee showing customers the "drone daycare" where people's drones are left to "fly around and get exercise"
-- **"Wireless Water Hose"** - Convinces a coworker that they've developed a hose that wirelessly transmits water (Season 1, Episode 25)
-- **"Wireless Soda"** - Convinces a snack bar employee that soda machines now work like WiFi, streaming beverages through the air
-- **"Disposable Paper Phone"** - Demonstrating a "new" prepaid phone made entirely from paper
-- **"Perforated Dollar"** - Explaining a new "currency ordinance" that allows dollars to be torn for different values
+- **"Milking Almonds"** - Convincing a health food store employee that you can milk almonds (Season 1, Episode 18). [Watch on YouTube: *The Carbonaro Effect - Milking Almonds Revealed*](https://www.youtube.com/watch?v=Imue7RLNGos)
+- **"Crabby Transformation"** - At a science museum, convinces a woman that space crabs from a meteor have morphed into kittens. Her reaction: "There were crabs, now they're cats!" [Watch on YouTube: *The Carbonaro Effect - Crabby Transformation*](https://www.youtube.com/watch?v=BKWRqH-vK_w)
+- **"Shipping Store Bowling Ball"** - At a shipping store, convinces customers that a new "reverse air" technology allows bowling balls to be shipped in flat boxes. [Watch on YouTube: *The Carbonaro Effect - How To Mail A Bowling Ball*](https://www.youtube.com/watch?v=ucZt-gTKucs)
+- **"Green Car"** - Shrinks a customer's car down to the size of a pea, puts it in a slingshot, and shoots it across the parking lot - then reveals they're on "The Carbonaro Effect." (Note: this appears to be the show's standard outro catchphrase rather than a specific trick; no standalone YouTube clip of a "green car" shrinking illusion is available.)
+- **"Drone Daycare"** - Poses as a park employee showing customers the "drone daycare" where people's drones are left to "fly around and get exercise." (No matching YouTube clip found; the closest is the "Drone Care" episode, which features a different premise about children transported in cardboard boxes by drones. [Watch on YouTube: *The Carbonaro Effect: Inside Carbonaro - Drone Care | truTV*](https://www.youtube.com/watch?v=we0n2WHLZYI))
+- **"Wireless Water Hose"** - Convinces a coworker that they've developed a hose that wirelessly transmits water (Season 1, Episode 25). [Watch on YouTube: *The Carbonaro Effect - WiFi Water Hose*](https://www.youtube.com/watch?v=-O_YCboJhvQ) (unofficial reupload; no official truTV clip appears to be published)
+- **"Wireless Soda"** - Convinces a snack bar employee that soda machines now work like WiFi, streaming beverages through the air. [Watch on YouTube: *The Carbonaro Effect - Wireless Soda Machine [SHORT VERSION] | truTV*](https://www.youtube.com/watch?v=IgUzHat9XIs)
+- **"Disposable Paper Phone"** - Demonstrating a "new" prepaid phone made entirely from paper. [Watch on YouTube: *The Carbonaro Effect - Disposable Paper Phone*](https://www.youtube.com/watch?v=N9CLm3SIMDM)
+- **"Perforated Dollar"** - Explaining a new "currency ordinance" that allows dollars to be torn for different values. [Watch on YouTube: *The Carbonaro Effect – Perforated Dollar Revealed*](https://www.youtube.com/watch?v=TBx1sXcxWic)
 
 [Watch more viral clips on YouTube](https://www.youtube.com/playlist?list=PLbmz0XhBWHx8hKCi3UiP8bXh2eNvPL8Kq)
 

@@ -52,7 +52,7 @@ Penn & Teller host the TV show "Penn & Teller: Fool Us" (The CW), where magician
 ### Notable Performances
 
 **Cube Acts That Fooled Them:**
-- **Steven Brundage** - Rubik's Cube magic (Season 2, 2015) - Solves Rubik's cube while tossing it in the air and in a paper bag - [Watch on YouTube](https://www.youtube.com/watch?v=BwDAXC0_Bxk)
+- **Steven Brundage** - Rubik's Cube magic (Season 2, 2015) - Solves Rubik's cube while tossing it in the air and in a paper bag - [Watch on YouTube: *Penn & Teller: Fool Us // Steven Brundage*](https://www.youtube.com/watch?v=BwDAXC0_Bxk)
 - **Bryan Saint** - Green Folder + Rubik's Cube - One of the rare magicians to fool Penn & Teller TWICE in 10 seasons - [Watch on Flixxy](https://www.flixxy.com/bryan-saint-fools-penn-and-teller-again-with-a-green-folder-and-a-rubiks-cube.htm)
 
 **Most Fooled Record:**

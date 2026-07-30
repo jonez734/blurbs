@@ -72,7 +72,7 @@ Blaine took off from a desert airstrip near Page, Arizona. The balloon cluster i
 
 [9] [David Blaine Official - Ascension](https://davidblaine.com/ascension/)
 
-[10] [YouTube - Full video of Ascension](https://www.youtube.com/watch?v=QwzvNAAqH3g)
+[10] [YouTube - Full video of Ascension](https://www.youtube.com/watch?v=QwzvNAAqH3g) *(YouTube title: "David Blaine Ascension")*
 
 ## References
 

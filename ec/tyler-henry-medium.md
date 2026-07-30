@@ -89,17 +89,17 @@ Critics note that heart disease is the number one cause of death for American ma
 
 ### Full Readings
 
-* **[Tyler Henry Gives Tiffany Haddish Closure & Makes Terrell Owens A Believer](https://www.youtube.com/watch?v=0chU2fhqIbQ)** - Full reading with comedian Tiffany Haddish and NFL star Terrell Owens (2025, 98K views)
+* **[Tyler Henry Gives Tiffany Haddish Closure & Makes Terrell Owens A Believer | Hollywood Medium | E!](https://www.youtube.com/watch?v=0chU2fhqIbQ)** - Full reading with comedian Tiffany Haddish and NFL star Terrell Owens (2025, 98K views)
 
-* **[Tyler Henry Turns Terra Jolé's Husband From Skeptic To Believer](https://www.youtube.com/watch?v=rfNTo0ytFvs)** - Reading with Little Women: LA star Terra Jolé (2025, 27K views)
+* **[Tyler Henry Turns Terra Jolé's Husband From Skeptic To Believer FULL READING | Hollywood Medium | E!](https://www.youtube.com/watch?v=rfNTo0ytFvs)** - Reading with Little Women: LA star Terra Jolé (2025, 27K views)
 
-* **[Tyler Henry Connects True Crime Reporter & Skeptic Nancy Grace](https://www.youtube.com/watch?v=SMEkkLCkXMI)** - Nancy Grace reading (2025, 1.1M views)
+* **[Tyler Henry Connects True Crime Reporter & Skeptic Nancy Grace To Loved Ones | Hollywood Medium | E!](https://www.youtube.com/watch?v=SMEkkLCkXMI)** - Nancy Grace reading (2025, 1.1M views)
 
-* **[Did Tyler Predict Khloe Kardashian's Drama With Tristan?](https://www.youtube.com/watch?v=qpkXi0-XkxI)** - Predicting Khloe Kardashian's relationship issues (2018)
+* **[Did Tyler Predict Khloe Kardashian's Drama With Tristan? | Hollywood Medium with Tyler Henry | E!](https://www.youtube.com/watch?v=qpkXi0-XkxI)** - Predicting Khloe Kardashian's relationship issues (2018)
 
 ### Interviews and Features
 
-* **[Boyfriend Material with Harry Jowsey - Hollywood Medium Breaks Down His Most Memorable Celebrity Readings](https://www.youtube.com/watch?v=9k_Dtb13fZ4)** - Henry discusses his career, early abilities, and memorable readings (2025, 69K views)
+* **[Hollywood Medium Tyler Henry Breaks Down His Most Memorable Celebrity Readings](https://www.youtube.com/watch?v=9k_Dtb13fZ4)** - Henry discusses his career, early abilities, and memorable readings (2025, 69K views)
 
 ---
 
@@ -203,7 +203,7 @@ Unlike mediums such as John Edward who have participated in controlled scientifi
 
 [9] [Them - Tyler Henry on His Live Netflix Show](https://www.them.us/story/live-from-the-other-side-with-tyler-henry-medium-interview)
 
-[10] [YouTube - Tyler Henry Connects Nancy Grace](https://www.youtube.com/watch?v=SMEkkLCkXMI)
+[10] [YouTube - Tyler Henry Connects Nancy Grace](https://www.youtube.com/watch?v=SMEkkLCkXMI) *(YouTube title: "Tyler Henry Connects True Crime Reporter & Skeptic Nancy Grace To Loved Ones | Hollywood Medium | E!")*
 
 [11] [Skeptical Inquirer - The One Where "Psychic" Tyler Henry Reads Alan Thicke](https://skepticalinquirer.org/exclusive/the-one-where-psychic-tyler-henry-reads-alan-thicke/)
 

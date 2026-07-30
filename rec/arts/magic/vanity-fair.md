@@ -17,7 +17,7 @@ Vanity Fair's "VF Reviews" series features professional magicians analyzing how 
 - **Arrested Development** - Comedic magic on TV
 - **The Incredible Burt Wonderstone** - Las Vegas stage magic
 
-- [Penn Jillette reviews magic in film](https://www.youtube.com/watch?v=S3vTld5pNlI)
+- [Penn Jillette (Penn & Teller) Reviews Magic Tricks from Movies & TV | Vanity Fair](https://www.youtube.com/watch?v=S3vTld5pNlI)
 
 ## Ben Seidman Reviews Sleight of Hand
 
@@ -58,7 +58,7 @@ Reviews visual tricks and illusions:
 - **Now You See Me 2**
 - **The Illusionist** - Pepper's Ghost illusion breakdown
 
-- [Ben Seidman Part Three](https://www.youtube.com/watch?v=Kq4IVJe2npg)
+- [Magician Reviews Sleight of Hand and Visual Tricks In Movies & TV (Part Three) | Vanity Fair](https://www.youtube.com/watch?v=Kq4IVJe2npg)
 - [Ben Seidman Part Two](https://www.vanityfair.com/video/watch/vf-vf-reviews-sleight-of-hand-expert-ben-seidman-part-two)
 - [Ben Seidman Part One](https://www.vanityfair.com/video/watch/reviews-sleight-of-hand-expert-ben-seidman)
 

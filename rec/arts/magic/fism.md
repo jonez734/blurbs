@@ -52,7 +52,7 @@ Chinese-American magician **Eric Chien** made history at the 2018 FISM World Cha
 
 The performance went viral among magic practitioners, with YouTubers slowing down the footage to analyze his techniques. Penn & Teller invited Chien onto their show Fool Us in 2021, admitting they had studied the "Ribbon" routine frame by frame. Teller described Chien as "a virtuoso" with "a staggering variety of methods at warp speed."
 
-- [Eric Chien - Ribbon (FISM 2018)](https://www.youtube.com/watch?v=pV08tEMP8qU)
+- [*Chinese magician performs world's best magic trick* (Eric Chien, FISM 2018)](https://www.youtube.com/watch?v=pV08tEMP8qU)
 - [TwistedSifter - Eric Chien Ribbon Breakdown](https://twistedsifter.com/videos/eric-chien-ribbon-routine-2018-fism-world-champion/)
 
 ## Historical Notes
@@ -69,6 +69,6 @@ See also: [/teos/rec/arts/magic/magic-in-movies](/teos/rec/arts/magic/magic-in-m
 
 [2] [FISM Winners List - Magicpedia](https://wiki.geniimagazine.com/index.php?title=FISM)
 
-[3] [Eric Chien FISM Ribbon - South China Morning Post](https://www.youtube.com/watch?v=pV08tEMP8qU)
+[3] [Eric Chien FISM Ribbon - South China Morning Post](https://www.youtube.com/watch?v=pV08tEMP8qU) *(uploaded as "Chinese magician performs world's best magic trick")*
 
 [4] [Texas Monthly - The Young Magician Planning to Make History](https://www.texasmonthly.com/arts-entertainment/eric-chien-magic-world-championships/)

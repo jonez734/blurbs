@@ -335,17 +335,17 @@ The most parsimonious explanation is that consciousness can transfer information
 
 [49] [Julia Hatmaker - Psychic John Edward connects with the dead, science and skeptics](https://juliahatmaker.com/2012/05/24/psychic-john-edward-connects-with-the-dead-science-and-skeptics/)
 
-[50] [YouTube - Jay Shetty Podcast: The TRUTH About Life After Death (Jan 2026)](https://www.youtube.com/watch?v=PiV8OWNRd5w)
+[50] [YouTube - Jay Shetty Podcast: The TRUTH About Life After Death (Jan 2026)](https://www.youtube.com/watch?v=PiV8OWNRd5w) *(YouTube title: "#1 Medium John Edward: The TRUTH About Life After Death Everyone Needs to Hear!")*
 
-[51] [YouTube - Inside of You with Michael Rosenbaum: Confronting Cynicism (Aug 2025)](https://www.youtube.com/watch?v=qyWHJphT2bQ)
+[51] [YouTube - Inside of You with Michael Rosenbaum: Confronting Cynicism (Aug 2025)](https://www.youtube.com/watch?v=qyWHJphT2bQ) *(YouTube title: "Medium JOHN EDWARD: Confronting Cynicism, Stories From Beyond & Getting Kicked from Dr. Phil")*
 
-[52] [YouTube - Maria Menounos: Becoming Your Own Psychic (Sep 2025)](https://www.youtube.com/watch?v=sCQLQnt88Ag)
+[52] [YouTube - Maria Menounos: Becoming Your Own Psychic (Sep 2025)](https://www.youtube.com/watch?v=sCQLQnt88Ag) *(YouTube title: "Psychic John Edward on Becoming Your Own Psychic & What's Left in 2025")*
 
-[53] [YouTube - DEAD Talks: Incredible Grief Advice (Apr 2026)](https://www.youtube.com/watch?v=nWhAIgtT_kA)
+[53] [YouTube - DEAD Talks: Incredible Grief Advice (Apr 2026)](https://www.youtube.com/watch?v=nWhAIgtT_kA) *(YouTube title: "Incredible Grief Advice From Famous Medium John Edward.")*
 
-[54] [YouTube - A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo)
+[54] [YouTube - A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo) *(link broken — `aspoonfulofpaolo` is not a valid 11-character YouTube video ID; needs repair)*
 
-[55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ)
+[55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ) *(YouTube title: "John Edward on Death, Energy, and the Afterlife: You Won't Believe This!")*
 
 ---
 

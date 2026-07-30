@@ -152,7 +152,7 @@ Unlike some mediums who have participated in controlled scientific studies (such
 
 [2] [Theresa Caputo Official Website - About](https://theresacaputo.com/pages/about-tc)
 
-[3] [YouTube - Theresa Caputo on Dumb Blonde Podcast](https://www.youtube.com/watch?v=lEuKMKf03tA)
+[3] [YouTube - Theresa Caputo on Dumb Blonde Podcast](https://www.youtube.com/watch?v=lEuKMKf03tA) *(YouTube title: "Theresa Caputo | Dumb Blonde Podcast")*
 
 [4] [Theresa Caputo Official Website - Raising Spirits](https://theresacaputo.com/)
 

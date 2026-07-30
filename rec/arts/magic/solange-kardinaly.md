@@ -48,7 +48,7 @@ Solange returned to the AGT stage as a guest performer during the Season 20 semi
 ## Notable Performances
 
 ### AGT Audition (2024)
-[View on YouTube](https://youtu.be/6iM-1yANZXk)
+[View on YouTube](https://youtu.be/6iM-1yANZXk) *(link may be unavailable — video not found via YouTube API)*
 
 The audition that launched her to fame. Performing to "Material Girl," she transformed through multiple outfits including:
 - Blue dress and baseball cap, changing both to scarlet with a nod

@@ -186,4 +186,4 @@ This legal battle stands in contrast to most psychic/critic conflicts, where ske
 
 [27] [James Randi Educational Foundation - Pigasus Awards](https://web.archive.org/web/20121116142813/https://www.randi.org/site/index.php?option=com_content&task=view&id=314&Itemid=48)
 
-[28] [YouTube - James Randi exposes Uri Geller](https://youtu.be/cN47YNe5-Yg?si=yhp67aCjyonldiJw)
+[28] [YouTube - James Randi exposes Uri Geller](https://www.youtube.com/watch?v=JXv3TvB4LNI) *(replaced — original `cN47YNe5-Yg` resolved to a 9/11-related video, not Randi/Geller; this is the canonical "James Randi debunks Uri Geller" upload)*

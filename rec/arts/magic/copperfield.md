@@ -31,14 +31,14 @@ In 1982, Copperfield founded Project Magic, a rehabilitation program that uses m
 
 Copperfield spent seven years developing his famous flying illusion, which debuted in his 1992 CBS special "The Magic of David Copperfield XIV: Flying - Live the Dream." The illusion was groundbreaking - he flew freely around the stage, through rotating hoops, and even inside a sealed plexiglas box while carrying an audience member. No camera tricks were used - the entire performance was done live in front of a theater audience.
 
-- [Full special: "Flying - Live the Dream" (1992)](https://www.youtube.com/watch?v=j9sAI6HVHnY)
+- [Full special: "Flying - Live the Dream" (1992)](https://www.youtube.com/watch?v=j9sAI6HVHnY) *(YouTube title: "The Magic of David Copperfield XIV: Flying - Live the Dream (1992)")*
 - [Flying portion only (via Flixxy)](https://www.flixxy.com/david-copperfield-flying-illusion-live-the-dream.htm)
 
 ## Telekinesis Illusion
 
 In his 1989 CBS special "The Magic of David Copperfield XI: Explosive Encounter," Copperfield performed a stunning telekinesis effect. He placed a clear lightbulb inside a plexiglass case and asked audience members to examine both the bulb and the case to verify they were genuine. Using only the power of concentration—appearing to channel his energy toward the bulb—he caused it to suddenly explode and shatter, all while remaining sealed inside the case. The effect creates the chilling illusion of genuine telekinetic power.
 
-- [Full special: "Explosive Encounter" (1989)](https://www.youtube.com/watch?v=C2ulb7-g608)
+- [Full special: "Explosive Encounter" (1989)](https://www.youtube.com/watch?v=C2ulb7-g608) *(YouTube title: "The Magic of David Copperfield XI: Explosive Encounter (1989) (With special guest Emma Samms)")*
 
 ## Building Implosion Escape
 
@@ -57,7 +57,7 @@ In his eighth CBS special, Copperfield performed one of his most iconic illusion
 
 This was the first time a magician had performed a penetration illusion at the actual Great Wall, and it required extensive coordination with Chinese authorities and months of preparation.
 
-- [Performance: "Walking Through the Great Wall of China" (1986)](https://youtu.be/bp4fG_RNQM4?si=awrf2dw_cMYA4Hv0)
+- [Performance: "Walking Through the Great Wall of China" (1986)](https://youtu.be/bp4fG_RNQM4?si=awrf2dw_cMYA4Hv0) *(YouTube title: "David Copperfield - Walking through The Great Wall of China")*
 
 ## Death Saw (1988)
 
@@ -69,24 +69,24 @@ This was groundbreaking because Copperfield was the first to present a sawing il
 
 Copperfield has claimed exclusive rights to this specific presentation, though the general method has earlier origins in magic literature.
 
-- [Performance: "Death Saw" (1988)](https://youtu.be/-SefD84fbEE?si=a4-SYzp5Kd18taY5)
-- [Compilation includes Death Saw: "15 Years of Magic" (1994)](https://www.youtube.com/watch?v=jXR20CgnRiM)
+- [Performance: "Death Saw" (1988)](https://youtu.be/-SefD84fbEE?si=a4-SYzp5Kd18taY5) *(YouTube title: "David Copperfield - Death Saw")*
+- [Compilation includes Death Saw: "15 Years of Magic" (1994)](https://www.youtube.com/watch?v=jXR20CgnRiM) *(YouTube title: "David Copperfield: 15 Years of Magic (1994) -With special guest Claudia Schiffer- (16:9)")*
 
 ## Film & TV
 
 In this interview, Copperfield discusses his legendary flying illusion and reflects on the 1993 movie adaptation "The Legend of the Flying Wizard":
 
-- [Interview: "The Legend of the Flying Wizard" (1993)](https://youtu.be/nwacMaqSfhM?si=u1xVjFSwvfyhQnCm)
+- [David Copperfield Breaks Down Magic Scenes from Movies | GQ](https://youtu.be/nwacMaqSfhM?si=u1xVjFSwvfyhQnCm) *(was mislabeled in source as "Interview: The Legend of the Flying Wizard (1993)"; the 1993 movie clip is no longer on YouTube, so this GQ interview is the closest on-topic substitute)*
 
 In this GQ video, Copperfield breaks down some of his most iconic illusions:
 
-- [GQ: "David Copperfield Breaks Down His Most Iconic Illusions"](https://youtu.be/QCBUx4g5H04?si=LYF-AHVcUy9hpquc)
+- [GQ: "David Copperfield Breaks Down His Most Iconic Illusions"](https://youtu.be/QCBUx4g5H04?si=LYF-AHVcUy9hpquc) *(YouTube title: "David Copperfield Breaks Down His Most Iconic Illusions | GQ")*
 
 ## Grampa's Aces (Dream of Aces)
 
 One of the few card tricks Copperfield performs, this elegant routine is a handling of the classic "Dream of Aces" (also known as "MacDonald's Aces"). Copperfield performs a tribute to his grandfather, who taught him magic as a child. The effect follows the classic Ace Assembly plot: four aces are produced and each is covered with three indifferent cards. Three of the aces vanish from their piles and reappear together under the fourth ace.
 
-- [Performance: "Dream of Aces" / "Grampa's Aces"](https://www.youtube.com/watch?v=QI8diYJ7yv0)
+- [Performance: "Dream of Aces" / "Grampa's Aces"](https://www.youtube.com/watch?v=QI8diYJ7yv0) *(YouTube title: "David Copperfield Best Card Trick")*
 
 ## Escape from Alcatraz (1987)
 

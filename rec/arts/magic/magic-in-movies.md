@@ -11,14 +11,14 @@ Cinema has long been fascinated with magic and magicians, using the art form to 
 
 Directed by Christopher Nolan, this psychological thriller follows rival Victorian-era magicians who engage in an escalating battle of one-upmanship. With stunning performances from Christian Bale, Hugh Jackman, and Michael Caine, the film explores the sacrifices magicians make for their craft and the ultimate price of obsession.
 
-- [Full movie](https://www.youtube.com/watch?v=ijXruHp-HNEw)
+- [Full movie](https://www.youtube.com/watch?v=ijXruHp-HNEw) *(link may be unavailable — video not found via YouTube API)*
 - [Amazon DVD/Blu-ray](https://www.amazon.com/dp/B000M7W2GE/?tag=copperfieldblu-20)
 
 ## The Illusionist (2006)
 
 Set in Vienna around 1900, this film stars Edward Norton as a magician who uses his skills to reunite with his lost love. Rather than the competitive thriller of The Prestige, The Illusionist is a more romantic mystery that weaves together magic, politics, and intrigue.
 
-- [Full movie](https://www.youtube.com/watch?v=yk19bRvmz2I)
+- [Full movie](https://www.youtube.com/watch?v=yk19bRvmz2I) *(link may be unavailable — video not found via YouTube API)*
 - [Amazon DVD/Blu-ray](https://www.amazon.com/dp/B000X7PQ26/?tag=copperfieldblu-20)
 
 ## Now You See Me Series
@@ -34,13 +34,13 @@ The films combine spectacle, humor, and the theme of exposing wealthy corruption
 
 Magic consultant David Kwong (Now You See Me 1-2) and later Eric Siegel designed practical tricks for the films, with director Ruben Fleischer emphasizing real magic over CGI for NYSM3.
 
-- [Now You See Me - Full movie](https://www.youtube.com/watch?v=KzJNuxkB_70)
+- [Now You See Me - Full movie](https://www.youtube.com/watch?v=KzJNuxkB_70) *(link may be unavailable — video not found via YouTube API)*
 - [Amazon - Now You See Me](https://www.amazon.com/dp/B00D3GJKKK/?tag=copperfieldblu-20)
 - [Amazon - Now You See Me 2](https://www.amazon.com/dp/B01G5PQSEU/?tag=copperfieldblu-20)
 - [Amazon - Now You See Me: Now You Don't](https://www.amazon.com/dp/B0C4QJG3P4/?tag=copperfieldblu-20)
-- [Now You See Me - Featurette: Real Magic](https://www.youtube.com/watch?v=HFizbPQUO0Y)
-- [Now You See Me: Now You Don't - Behind the Scenes](https://www.youtube.com/watch?v=sR6VPSmUQxI)
-- [Now You See Me 2 - Set Visit](https://www.youtube.com/watch?v=vgIZ_wm_2m0)
+- [*Now You See Me: Now You Don't Featurette - Real Magic* (2025)](https://www.youtube.com/watch?v=HFizbPQUO0Y)
+- [*Now You See Me 3 – The Moment You Almost See the Trick* | Behind the Scenes](https://www.youtube.com/watch?v=sR6VPSmUQxI)
+- [*Now You See Me 2 Official Set Visit* (2015) - Jesse Eisenberg, Dave Franco Movie HD](https://www.youtube.com/watch?v=vgIZ_wm_2m0)
 - [Director Louis Leterrier Interview](https://collider.com/louis-leterrier-now-you-see-me-interview/)
 
 See also: [/teos/rec/arts/magic/vanity-fair](/teos/rec/arts/magic/vanity-fair) - Professional magicians analyze magic in film and TV, including clips from Now You See Me.
@@ -55,7 +55,7 @@ Harry Houdini's life has inspired numerous films:
 - **Houdini** (1998) - Television film starring Johnathon Schaech
 - **Houdini** (2015) - TV miniseries starring Adrien Brody
 
-- [Tony Curtis in "The Great Houdini" (1953)](https://www.youtube.com/watch?v=9tKkfYOXo5I)
+- [Tony Curtis in "The Great Houdini" (1953)](https://www.youtube.com/watch?v=9tKkfYOXo5I) *(link may be unavailable — video not found via YouTube API)*
 - [Amazon - The Great Houdini DVD](https://www.amazon.com/dp/B000K3W2G4/?tag=copperfieldblu-20)
 
 ## Other Notable Films
