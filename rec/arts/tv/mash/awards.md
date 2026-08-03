@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/tv/mash/, rec/arts/tv/
+folder-path: rec/arts/tv/mash/
 date: 2026-06-19 12:12:46 GMT (08:12:46 NYC)
 ---
 
