@@ -1,6 +1,6 @@
 ---
-folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-07-29 00:00:00 GMT (20:00:00 NYC)
+folder-path: rec/arts/tv/mash/memorable-episodes/
+date: 2026-08-03 14:47:57 GMT (10:47:57 NYC)
 ---
 
 # "Follies of the Living, Concerns of the Dead"
@@ -43,7 +43,6 @@ The two endings are not contradictory — they are complementary, the first foll
 
 ## See Also
 
-- [Special Episodes of M\*A\*S\*H](/teos/rec/arts/tv/mash/special-episodes)
 - *"Death Takes a Holiday"* (Season 9, Episode 4) — another M\*A\*S\*H episode that flirts with the supernatural when a soldier's body won't stop moving
 
 ---

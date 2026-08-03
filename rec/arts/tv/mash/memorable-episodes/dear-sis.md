@@ -1,6 +1,6 @@
 ---
-folder-path: rec/arts/tv/mash/, rec/arts/tv/
-date: 2026-07-11 01:30:37 GMT (21:30:37 NYC)
+folder-path: rec/arts/tv/mash/memorable-episodes/
+date: 2026-08-03 14:47:57 GMT (10:47:57 NYC)
 ---
 
 # "Dear Sis"
@@ -53,7 +53,6 @@ In a cast/crew interview, **David Ogden Stiers' mother** reportedly clarified th
 
 ## See Also
 
-- [Special Episodes of M\*A\*S\*H](/teos/rec/arts/tv/mash/special-episodes)
 - *"The Birthday Girls" (Season 10, Episode 11)* — another episode featuring a cow birth, where BJ relays a vet's instructions over the PA system to a disgusted mess tent
 
 ---
