@@ -13,9 +13,9 @@ John Edward is an American television personality and self-proclaimed psychic me
 
 Edward describes his ability as fundamentally **telepathic communication with deceased consciousness**: [3, 4]
 
-* **Clairvoyance**: "cloudy seeing"—subtle visual impressions, like reading words without seeing them clearly
-* **Clairaudience**: "cloudy hearing"—faint auditory information
-* **Clairsentience**: Feeling sensations from spirit
+* **Clairvoyance** (French: "clear seeing"): the claimed paranormal ability to perceive visual information beyond normal sensory contact—seeing persons, events, or scenes distant in time or space, including precognition (future events), retrocognition (past events), and remote viewing (distant present events). Edward describes receiving subtle visual impressions, like reading words without seeing them clearly.
+* **Clairaudience** (French: "clear hearing"): the claimed paranormal ability to hear sounds, voices, or music inaudible to the normal ear—often interpreted as messages from spirits. Edward describes receiving faint auditory information.
+* **Clairsentience** (French: "clear feeling"): the claimed paranormal ability to receive information through physical sensations, emotions, smells, or tastes without using the five ordinary senses—sometimes called "empathic intuition." Edward describes feeling sensations from spirit, including picking up emotions, energy, or physical pains of the deceased.
 
 He works with a team of spirit beings he calls "The Boys"—deceased individuals who assist him in connecting with the recently departed. This is not channeling or possession, but direct telepathic information transfer from the deceased to the medium. [3, 4]
 
