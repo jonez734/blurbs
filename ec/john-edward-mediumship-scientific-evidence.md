@@ -19,6 +19,8 @@ Edward describes his ability as fundamentally **telepathic communication with de
 
 He works with a team of spirit beings he calls "The Boys"—deceased individuals who assist him in connecting with the recently departed. This is not channeling or possession, but direct telepathic information transfer from the deceased to the medium. [3, 4]
 
+> On the "clair-" prefix (clear), Edward jokes that there is nothing clear about any of it—he calls the experience "all rather cloudy" rather than clear seeing, hearing, or feeling. [3]  
+
 ### Client Support
 
 Recognizing the emotional intensity of his readings, Edward maintains **counselors on staff** who are available to speak with clients after readings. This support system helps people process the emotional impact of connecting with deceased loved ones, demonstrating his commitment to ethical practice and client wellbeing.
