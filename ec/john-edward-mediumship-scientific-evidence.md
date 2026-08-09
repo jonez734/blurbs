@@ -9,7 +9,7 @@ John Edward is an American television personality and self-proclaimed psychic me
 
 ---
 
-## How It Works: Telephathy with the Dead
+## How It Works: Telepathy with the Dead
 
 Edward describes his ability as fundamentally **telepathic communication with deceased consciousness**: [3, 4]
 
