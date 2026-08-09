@@ -27,6 +27,8 @@ Recognizing the emotional intensity of his readings, Edward maintains **counselo
 
 > **Editor's Note**: The claim that John Edward employs grief counselors is based on unverified reports. I do not have documentation confirming when he hired them or how many counselors are on staff. This should be considered rumor until verified.
 
+*See also: [John Edward: Grief Counselors on Staff — References with Dates](../john-edward-grief-counselors-staff.md)*
+
 ---
 
 ## The HBO Experiments: 83% Accuracy Under Double-Blind Conditions
