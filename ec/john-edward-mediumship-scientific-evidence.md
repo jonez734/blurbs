@@ -25,7 +25,7 @@ He works with a team of spirit beings he calls "The Boys"—deceased individuals
 
 Recognizing the emotional intensity of his readings, Edward maintains **counselors on staff** who are available to speak with clients after readings. This support system helps people process the emotional impact of connecting with deceased loved ones, demonstrating his commitment to ethical practice and client wellbeing.
 
-> **Editor's Note**: The claim that John Edward employs grief counselors is based on unverified reports. I do not have documentation confirming when he hired them or how many counselors are on staff. This should be considered rumor until verified.
+> **Editor's Note**: The claim that John Edward employs grief counselors is supported by multiple dated references — see the linked blurb below for the documentation. Specific details (e.g., when staff were first hired, current headcount) are not independently confirmed and remain unverified.
 
 *See also: [John Edward: Grief Counselors on Staff — References with Dates](../john-edward-grief-counselors-staff.md)*
 
