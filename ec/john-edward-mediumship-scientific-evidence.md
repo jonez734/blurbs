@@ -194,7 +194,7 @@ In a 2018 interview with the Sydney Morning Herald, Edward explained his philoso
 
 **"Just watch me"**
 
-When asked about his response to critics, Edward has said: "He says the critics don't bother him. 'I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers.'" [21]
+When asked about his response to critics, Edward said they don't bother him: "I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers." [21]
 
 This approach—rather than attacking skeptics—invites them to observe his work and draw their own conclusions.
 
