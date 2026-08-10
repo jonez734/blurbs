@@ -178,6 +178,20 @@ He also alleged that Edward's television accuracy was "inflated by the editing p
 
 Oliver featured Edward in a segment criticizing the psychic industry, showing clips of failed cold reading attempts. He called the psychic industry "predatory" and said it "emboldens a vast underworld of unscrupulous vultures, more than happy to make money by offering an open line to the afterlife." [19]
 
+### Satire and Pop Culture Reception
+
+Beyond journalistic critics, Edward has also been a target of comedy-satire. **South Park** dedicated Season 6 Episode 15, "The Biggest Douche in the Universe" (aired November 27, 2002), to Edward, in which Stan Marsh nominates him for, and he ultimately wins, the eponymous alien award. [56]
+
+In multiple interviews, Edward has stated that he views his appearance on South Park in a positive light. He has said that it brought him a younger and more curious audience, that he must have done something right or impactful enough to warrant an entire episode parodying him, and that he has even joked to audiences that he is in fact "The Biggest Douche in the Universe." [56]
+
+In a 2017 interview with the High Plains Reader, Edward elaborated: "I was never a fan of South Park before that—it's not my kind of humor... I don't like mean, intentional humor... It had a mean intention so that wasn't cool... that same episode in repeat is bringing me a whole new clientele of young people coming in as a result of that one episode, so it's actually turning out to be a positive thing." [57]
+
+That same year, in a HuffPost piece tied to a Party Foul Radio interview, Edward described the experience as "a badge of honor": "I appreciate the fact they were coming to the subject matter and exploring maybe the opposite end of the spectrum... Maybe I didn't like being attacked, but there are other people they were protecting, so I'll wear the bullseye on my ass. It's starting a dialogue." [58]
+
+He revisited the topic on the Fit Seekers podcast in February 2025 (segment at ~12:00, "The South Park roast"), where he directly addressed the episode and reiterated that being parodied reflects his cultural reach. [59]
+
+*See also: [John Edward: South Park Reception](../john-edward-south-park-reception.md)*
+
 ### No Lawsuits from Edward
 
 Unlike Uri Geller (who sued Randi multiple times for defamation), John Edward has never filed a defamation lawsuit against any of his critics. He has only responded verbally, denying that he uses cold or hot reading techniques. [19]
@@ -311,7 +325,13 @@ The most parsimonious explanation is that consciousness can transfer information
 
 [25] [Infogalactic - People Magazine Most Intriguing People](https://infogalactic.com/info/John_Edward)
 
-[26] [South Park Archives - The Biggest Douche in the Universe](https://southpark.fandom.com/wiki/The_Biggest_Douche_in_the_Universe)
+[56] [South Park Archives - John Edward character page](https://southpark.wiki.gg/wiki/John_Edward)
+
+[57] [High Plains Reader - From one skeptic to another (2017)](https://hpr1.com/index.php/feature/culture/from-one-skeptic-to-another)
+
+[58] [HuffPost - Acclaimed Psychic John Edward: Don't Let Others Questioning Who You Are (May 2017)](https://www.huffpost.com/entry/acclaimed-psychic-john-edward-dont-let-others-questioning_b_59275926e4b065b396c06b85)
+
+[59] [Fit Seekers podcast - Psychic Medium John Edward: Energy, Loss & Life's Biggest Questions (Feb 2025)](https://fitseekers.podbean.com/e/psychic-medium-john-edward-energy-loss-life-s-biggest-questions-fit-seekers/)
 
 [27] [Next TV - Crossing Over Into Cancellation](https://www.nexttv.com/news/crossing-over-cancellation-70550)
 
