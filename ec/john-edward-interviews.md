@@ -3,9 +3,9 @@ folder-path: ec/
 date: 2026-08-11 21:07:24 GMT (17:07:24 NYC)
 ---
 
-# John Edward: Interviews on YouTube (Including Larry King)
+# John Edward: Interviews
 
-John Edward (born October 19, 1969) rose to fame in the early 2000s as the host of *Crossing Over with John Edward* and has remained a fixture of talk shows, podcasts, and web series for over two decades. Below are dated summaries of his interview appearances, starting with interviews found on YouTube, followed by his many appearances with Larry King.
+John Edward (born October 19, 1969) rose to fame in the early 2000s as the host of *Crossing Over with John Edward* and has remained a fixture of talk shows, podcasts, and web series for over two decades. Below are dated summaries of his interview appearances: interviews found on YouTube, his many appearances with Larry King, and other podcast and press interviews.
 
 ---
 
@@ -91,10 +91,130 @@ After CNN, King's web series *Larry King Now* (Ora TV) reunited him with Edward 
 
 ---
 
+## Other Podcast and Press Interviews
+
+Beyond YouTube and Larry King, Edward has given numerous podcast and press interviews, several of which are documented in the related blurbs linked below. Dated summaries follow, in chronological order.
+
+### 1. Julia Hatmaker — "Psychic John Edward connects with the dead, science and skeptics" (May 24, 2012)
+
+URL: https://juliahatmaker.com/2012/05/24/psychic-john-edward-connects-with-the-dead-science-and-skeptics/
+
+Edward told Julia Hatmaker: "I always find the people who are so critical on the subject matter don't give any respect back. They try to define what you're doing when they don't even understand it. That just screams to me ignorance and ignorance leads to intolerance." *Date: May 24, 2012.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 2. Ottawa Citizen — "The healthy skeptic: Psychic John Edward says just watch me" (2014)
+
+URL: https://ottawacitizen.com/entertainment/local-arts/the-healthy-skeptic-psychic-john-edward-says-just-watch-me
+
+Edward responded to critics with his "just watch me" philosophy: "The critics don't bother me. I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers." *Date: 2014.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 3. PennLive — "Interview with psychic John Edward" (May 2015)
+
+URL: https://www.pennlive.com/entertainment/2015/05/psychic_john_edward.html
+
+Edward discussed his approach to believers and skeptics: "I've never felt the need to convince or convert people. I don't think that's appropriate." On cold-reading accusations he said: "They're not really skeptics, they're really cynics. Either they think people are being researched ahead of time, or they're saying it's guess work… people who seek mediums out are stupid. And I don't think they're stupid." *Date: May 2015.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 4. High Plains Reader — "From one skeptic to another" (2017)
+
+URL: https://hpr1.com/index.php/feature/culture/from-one-skeptic-to-another
+
+A Q&A in which Edward addressed the *South Park* parody episode at length, his dislike of "mean, intentional humor," and how the episode has since "brought me a whole new clientele of young people." *Date: 2017.*
+
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+
+### 5. Party Foul Radio (Ep. 67) / HuffPost — May 25, 2017
+
+URL: https://www.huffpost.com/entry/acclaimed-psychic-john-edward-dont-let-others-questioning_b_59275926e4b065b396c06b85
+
+A HuffPost piece published alongside Edward's *Party Foul Radio* interview (Ep. 67). Edward described being under public scrutiny as "a badge of honor" and said of the *South Park* parody: "Maybe I didn't like being attacked, but there are other people they were protecting… I'll wear the bullseye on my ass. It's starting a dialogue." *Date: May 25, 2017.*
+
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+
+### 6. Sydney Morning Herald — "Lunch with John Edward: I can't disrespect the work" (October 19, 2018)
+
+URL: https://www.smh.com.au/entertainment/lunch-with-john-edward-i-cant-disrespect-the-work-20181019-h16uns.html
+
+Edward explained his refusal to attack skeptics personally: he focuses on the work itself, noting he "can't disrespect the work." *Date: October 19, 2018.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 7. Detroit Free Press — "Psychic medium John Edward coming to Detroit: His response to skeptics" (September 27, 2019)
+
+URL: https://eu.freep.com/story/entertainment/2019/09/27/john-edward-psychic-medium-detroit/2435148001/
+
+Ahead of his Detroit tour, Edward explained his respect for skeptics ("I was them") and his boundaries: "I don't have time for cynicism, personal attack(s). If somebody comes at me in a negative way, I usually block them immediately." *Date: September 27, 2019.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 8. Ed Mylett — "John Edward on Death, Energy, and the Afterlife: You Won't Believe This!" (2021)
+
+URL: https://www.youtube.com/watch?v=2D9i3FgfagQ
+
+Edward's long-form conversation with Ed Mylett about death, energy, and the afterlife. *Date: 2021.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 9. Today.com — "Psychic John Edward Shares His 'Energetic Parenting' Strategy" (2023)
+
+URL: https://www.today.com/life/astrology/john-edward-psychic-parenting-interview-rcna119573
+
+Edward drew his now-familiar distinction between skepticism and cynicism: "Being skeptical means that you're looking for validation and fast evidence. Being cynical means that no matter what you experience, you've already made up your mind. So cynicism scares me. Skepticism, we need to embrace." The interview also covered his "energetic parenting" approach. *Date: 2023.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 10. Jay Shetty (On Purpose) — 2024 episode
+
+URL: https://omny.fm/shows/on-purpose-with/john-edward-stop-trying-to-move-on-after-loss-use-this-daily-practice-to-make-peace-without-the-answers
+
+An earlier *On Purpose* appearance in which Edward described his ability as telepathic communication with deceased consciousness, breaking down clairvoyance, clairaudience, and clairsentience, and the team of spirits he calls "The Boys." *Date: 2024.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 11. Fit Seekers podcast — "Psychic Medium John Edward: Energy, Loss & Life's Biggest Questions" (February 22, 2025)
+
+URL: https://fitseekers.podbean.com/e/psychic-medium-john-edward-energy-loss-life-s-biggest-questions-fit-seekers/
+
+Hosts Frank Sepe and Zack Zeigler interview Edward "and get real about the highs and lows of his work—carrying the weight of grief, spotting social media scammers, and even being called the 'Biggest Douche in the Universe' by South Park." The show notes flag a segment at ~12:00 on "The South Park roast." *Date: February 22, 2025.*
+
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+
+### 12. Inside of You with Michael Rosenbaum — "Medium JOHN EDWARD: Confronting Cynicism, Stories From Beyond & Getting Kicked from Dr. Phil" (August 2025)
+
+URL: https://www.youtube.com/watch?v=qyWHJphT2bQ
+
+Edward's appearance on Michael Rosenbaum's podcast, covering cynicism, stories from readings, and being "kicked from Dr. Phil." *Date: August 2025.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 13. Maria Menounos — "Psychic John Edward on Becoming Your Own Psychic & What's Left in 2025" (September 2025)
+
+URL: https://www.youtube.com/watch?v=sCQLQnt88Ag
+
+Edward talked with Maria Menounos about becoming "your own psychic" and what he saw ahead in 2025. *Date: September 2025.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+### 14. A Spoonful of Paolo (October 2025)
+
+URL: https://www.youtube.com/watch?v=aspoonfulofpaolo
+
+An appearance on the *A Spoonful of Paolo* podcast. *Date: October 2025. Note: the YouTube link is broken — `aspoonfulofpaolo` is not a valid 11-character video ID; it needs repair.*
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+---
+
 ## Notes
 
 * The most recent interview found at this writing is Edward's third appearance with Sarah Grynberg (July 2026), which is the newest YouTube link above.
+* The "Other Podcast and Press Interviews" section consolidates interview appearances that are also documented in the topical blurbs ([John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md) and [John Edward: South Park Reception](./john-edward-south-park-reception.md)).
 * Edward's 9/11 story — the "dark" period from June 2001, the World Trade Center ballroom incident, and his September 10, 2001 *Larry King Live* appearance — recurs across the 2026 interviews (DEAD Talks, This Morning, and the Facebook clips surrounding them).
 * *Larry King Live* transcripts are archived by CNN at transcripts.cnn.com; the *Larry King Now* episode from August 29, 2012 is the last known Larry King interview with Edward located at this writing.
+* The *A Spoonful of Paolo* link (October 2025) is broken and needs repair.
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md), [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md), [John Edward: South Park Reception](./john-edward-south-park-reception.md), [John Edward: Grief Counselors on Staff](./john-edward-grief-counselors-staff.md)*

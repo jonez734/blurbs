@@ -27,7 +27,7 @@ Recognizing the emotional intensity of his readings, Edward maintains **counselo
 
 > **Editor's Note**: The claim that John Edward employs grief counselors is supported by multiple dated references — see the linked blurb below for the documentation. Specific details (e.g., when staff were first hired, current headcount) are not independently confirmed and remain unverified.
 
-*See also: [John Edward: Grief Counselors on Staff — References with Dates](../john-edward-grief-counselors-staff.md)*
+*See also: [John Edward: Grief Counselors on Staff — References with Dates](./john-edward-grief-counselors-staff.md)*
 
 ---
 
@@ -190,7 +190,7 @@ That same year, in a HuffPost piece tied to a Party Foul Radio interview, Edward
 
 He revisited the topic on the Fit Seekers podcast in February 2025 (segment at ~12:00, "The South Park roast"), where he directly addressed the episode and reiterated that being parodied reflects his cultural reach. [59]
 
-*See also: [John Edward: South Park Reception](../john-edward-south-park-reception.md)*
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
 
 ### No Lawsuits from Edward
 
@@ -219,6 +219,8 @@ In a 2015 interview with Penn Live, Edward stated: "I've never felt the need to 
 This philosophy reflects Edward's core approach: rather than arguing with critics, he lets his decades of scientific participation and client work speak for itself. His participation in controlled studies (HBO experiments, Windbridge research) and his 25-year FBI collaboration are his response to skepticism—not attacks on his critics.
 
 ### Edward on Skeptics: Respect vs. Cynicism
+
+Dated summaries of the interviews quoted below appear in [John Edward: Interviews](./john-edward-interviews.md).
 
 John Edward has spoken extensively about his views on skeptics and critics over the years:
 
@@ -275,7 +277,7 @@ The most parsimonious explanation is that consciousness can transfer information
 
 ## Sarah Grynberg Interview (July 2026)
 
-In a July 2026 interview on Sarah Grynberg's *A Life of Greatness* podcast (his third appearance on the show), Edward returned to several recurring themes: the distinction between being a psychic and being a medium, his view that mediumship should be grounded in evidence and integrity rather than blind faith, the double-blind studies he took part in with researchers from Harvard, Yale, and the University of Arizona, and practical guidance on how to better support someone who is grieving. [60]
+Edward's third appearance on Sarah Grynberg's *A Life of Greatness* podcast (July 2026) is summarized with the other dated interview appearances in [John Edward: Interviews](./john-edward-interviews.md). [60]
 
 ---
 
