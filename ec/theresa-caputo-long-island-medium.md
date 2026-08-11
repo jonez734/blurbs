@@ -136,6 +136,30 @@ In 2013, magician Criss Angel offered Caputo $1 million to prove her claims. The
 
 ---
 
+## Scientific Testing: Comparison to John Edward
+
+### Did Caputo and John Edward Ever Test Together?
+
+No. There is no record of Caputo and John Edward ever being tested together. Edward's controlled studies — the HBO double-blind experiments (1999-2000), the Miraval and Canyon Ranch triple-blind studies, and the ongoing Windbridge Institute research — list other participants (Suzanne Northrop, George Anderson, Anne Gehman, Laurie Campbell), never Caputo.
+
+### Did Caputo Submit to the Same Testing as Edward?
+
+No. Caputo has never submitted to any form of scientific testing. While Edward voluntarily participated in decades of controlled scientific studies, Caputo declined Randi's Million Dollar Challenge ("I will never prove or defend my gift") and Criss Angel's $1 million offer. [12][1] The James Randi Educational Foundation's investigation explicitly contrasts the two: "Unlike John Edward, who has participated in decades of controlled studies, Caputo has **never participated in controlled scientific testing**." [7] Her alleged cold and hot reading techniques remain unverified allegations — no controlled test has ever confirmed them. [7]
+
+### The Dr. Amen QEEG Segment: Not Scientific Testing
+
+A common source of confusion is a television segment in which Caputo wore an **EEG electrode cap** on her head while "channeling" during a reading. [15][16] The segment was filmed at Amen Clinics with Dr. Daniel Amen, an American psychiatrist and self-described "brain imaging expert" — **not a neurologist, and not Canadian**. [16]
+
+It was also not a morning talk show. Caputo described the scan on the U.S. morning show *FOX & Friends* in 2017, [15] and a version of the scan was performed during her appearance on the U.S. daytime show *Dr. Oz*. [17] There is no record of any Canadian neurologist, or any Canadian morning program, being involved.
+
+Skeptics emphasize that a quantitative EEG (QEEG) captured during a televised reading is **not** a controlled test of mediumship. Neurologist and skeptic Steven Novella wrote that the scan results are essentially "noise" — the observed differences have multiple possible interpretations (including anxiety), so the segment proves nothing about psychic ability. [17]
+
+In short: wearing an EEG cap for a TV segment is not submitting to scientific testing — and Caputo has never done the latter.
+
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+
+---
+
 ## Summary
 
 Theresa Caputo represents one of the most successful—and controversial—figures in modern mediumship. From her beginnings in Hicksville, New York, to her television empire, she has built a business empire on the promise of connecting the living with the dead.
@@ -176,3 +200,9 @@ Unlike some mediums who have participated in controlled scientific studies (such
 [13] [PsychicReview.org - Theresa Caputo Certified Expert](https://www.psychicreview.org/certified-expert/theresa-caputo)
 
 [14] [Skepchick - Open Letter to Ellen Degeneres: Don't Promote Theresa Caputo](https://skepchick.org/2014/03/ellen-degeneres-theresa-caputo-the-long-island-medium/)
+
+[15] [Fox News - 'Long Island Medium' Theresa Caputo had her brain tested to prove she has a gift](https://www.foxnews.com/entertainment/long-island-medium-theresa-caputo-had-her-brain-tested-to-prove-she-has-a-gift)
+
+[16] [TLC - What Makes Theresa Caputo's Brain Unlike Others?](https://www.youtube.com/watch?v=E8qj0EPLwnQ) *(Theresa Caputo wears an EEG cap while reading at Amen Clinics with Dr. Daniel Amen)*
+
+[17] [NeuroLogica (Steven Novella) - Brain Scans and Psychics](https://theness.com/neurologicablog/brain-scans-and-psychics/)
