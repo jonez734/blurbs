@@ -273,6 +273,12 @@ The most parsimonious explanation is that consciousness can transfer information
 
 ---
 
+## Sarah Grynberg Interview (July 2026)
+
+In a July 2026 interview on Sarah Grynberg's *A Life of Greatness* podcast (his third appearance on the show), Edward returned to several recurring themes: the distinction between being a psychic and being a medium, his view that mediumship should be grounded in evidence and integrity rather than blind faith, the double-blind studies he took part in with researchers from Harvard, Yale, and the University of Arizona, and practical guidance on how to better support someone who is grieving. [60]
+
+---
+
 ## References
 
 [1] [Wikipedia - John Edward](https://en.wikipedia.org/wiki/John_Edward)
@@ -370,6 +376,8 @@ The most parsimonious explanation is that consciousness can transfer information
 [54] [YouTube - A Spoonful of Paolo (Oct 2025)](https://www.youtube.com/watch?v=aspoonfulofpaolo) *(link broken — `aspoonfulofpaolo` is not a valid 11-character YouTube video ID; needs repair)*
 
 [55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ) *(YouTube title: "John Edward on Death, Energy, and the Afterlife: You Won't Believe This!")*
+
+[60] [YouTube - Sarah Grynberg: Mediumship, Grief & The Afterlife (Jul 2026)](https://www.youtube.com/watch?v=ezYHQfBif6Y) *(YouTube title: "John Edward: Mediumship, Grief & The Afterlife")*
 
 ---
 
