@@ -1,6 +1,6 @@
 ---
 folder-path: ec/
-date: 2026-08-11 23:24:53 GMT (19:24:53 NYC)
+date: 2026-08-12 01:04:36 GMT (21:04:36 NYC)
 ---
 
 # John Edward: Interviews
@@ -289,7 +289,13 @@ URL: https://thenurseericarn.podbean.com/e/ep-14-psychic-medium-john-edward/
 
 Edward discussed his 2023 predictions for healthcare workers (made on Maria Menounos's show at the start of 2023) and his own professional healthcare background. *Date: October 10, 2023.*
 
-### 27. Jay Shetty (On Purpose) — 2024 episode
+### 27. Howie Mandel Does Stuff (Ep. #145) — "John Edward Shocked Us With Real Ghost Interaction Caught on Camera" (October 31, 2023)
+
+URL: https://www.youtube.com/watch?v=b6CiPPtuYEI
+
+Edward's first appearance on comedian Howie Mandel's podcast (co-hosted with his daughter Jackelyn Shultz), released as a Halloween special. Edward recounts his origin story and how he says his gift works, then performs an in-studio reading — with what the show frames as a real ghost interaction caught on camera. *Date: October 31, 2023.*
+
+### 28. Jay Shetty (On Purpose) — 2024 episode
 
 URL: https://omny.fm/shows/on-purpose-with/john-edward-stop-trying-to-move-on-after-loss-use-this-daily-practice-to-make-peace-without-the-answers
 
@@ -297,13 +303,13 @@ An earlier *On Purpose* appearance in which Edward described his ability as tele
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 28. Sunrise (Channel 7, Australia) — "Psychic medium John Edward on Sunrise" (June 9, 2024)
+### 29. Sunrise (Channel 7, Australia) — "Psychic medium John Edward on Sunrise" (June 9, 2024)
 
 URL: https://7news.com.au/video/sunrise/psychic-medium-john-edward-on-sunrise-bc-6354696141112
 
 Edward appeared on the Australian breakfast show *Sunrise* ahead of his 2024 Australian tour. *Date: June 9, 2024.*
 
-### 29. ABC News Breakfast — "Self-proclaimed psychic medium John Edward on readings, sceptics, and Trump" (June 14, 2024)
+### 30. ABC News Breakfast — "Self-proclaimed psychic medium John Edward on readings, sceptics, and Trump" (June 14, 2024)
 
 URL: https://www.abc.net.au/news/2024-06-14/self-proclaimed-psychic-medium-john-edward-on/103979276
 
@@ -311,13 +317,13 @@ On ABC News Breakfast, Edward discussed his readings, his critics, and said ther
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 30. Betoota Talks (S4 E46) — "INTERVIEW: Psychic Medium John Edward" (June 23, 2024)
+### 31. Betoota Talks (S4 E46) — "INTERVIEW: Psychic Medium John Edward" (June 23, 2024)
 
 URL: https://castro.fm/episode/nwNccs
 
 Effie and Wendall Hussey "cross over" with Edward about his humble beginnings, finding his "gift," leaving the hospital system, and navigating TV and stadium performances. *Date: June 23, 2024.*
 
-### 31. Sarah Grynberg (A Life of Greatness, S8 E152) — "John Edward: A Surprising Live Reading, Facing Skeptics and Connecting with The Other Side" (July 1, 2024)
+### 32. Sarah Grynberg (A Life of Greatness, S8 E152) — "John Edward: A Surprising Live Reading, Facing Skeptics and Connecting with The Other Side" (July 1, 2024)
 
 URL: https://podcasts.apple.com/us/podcast/john-edward-a-surprising-live-reading-facing/id1457268944?i=1000660829601
 
@@ -325,7 +331,7 @@ Edward's second appearance on Grynberg's podcast (first: June 19, 2023; third: J
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 32. The Jess Rowe Big Talk Show — "What can we learn about living from those who have crossed over?" (July 30, 2024)
+### 33. The Jess Rowe Big Talk Show — "What can we learn about living from those who have crossed over?" (July 30, 2024)
 
 URL: https://play.listnr.com/podcast/the-jess-rowe-big-talk-show/episode/john-edward-what-can-we-learn-about-living-from-those-who-have-crossed-over
 
@@ -333,7 +339,7 @@ URL: https://play.listnr.com/podcast/the-jess-rowe-big-talk-show/episode/john-ed
 
 Edward returned to Jess Rowe's podcast (following his June 13, 2023 first chat) to share what those who have crossed over "want us to know," how to tell if they are around us, and how to support someone through grief. *Date: July 30, 2024.*
 
-### 33. Can We Be Real? (Meshel Laurie & Simon Baggs, S1 E142) — "John Edward — Crossing Over" (August 28, 2024)
+### 34. Can We Be Real? (Meshel Laurie & Simon Baggs, S1 E142) — "John Edward — Crossing Over" (August 28, 2024)
 
 URL: https://shows.acast.com/can-we-be-real/episodes/john-edward-crossing
 
@@ -341,13 +347,13 @@ URL: https://shows.acast.com/can-we-be-real/episodes/john-edward-crossing
 
 Edward discussed how he speaks to people who have passed, and members of the *Can We Be Real?* community received readings. *Date: August 28, 2024.*
 
-### 34. Good Mourning (S9 E118) — "The Afterlife, Signs, and Emotional Healing with Psychic Medium John Edward" (October 31, 2024)
+### 35. Good Mourning (S9 E118) — "The Afterlife, Signs, and Emotional Healing with Psychic Medium John Edward" (October 31, 2024)
 
 URL: https://podcasts.apple.com/us/podcast/the-afterlife-signs-and-emotional-healing-with/id1529978129?i=1000675243601
 
 On the grief podcast *Good Mourning*, Edward shared personal stories of loss, why understanding the "language of energy" can help us recognize everyday signs of connection, and why the second year of grief can be surprisingly harder. *Date: October 31, 2024.*
 
-### 35. Fit Seekers podcast — "Psychic Medium John Edward: Energy, Loss & Life's Biggest Questions" (February 22, 2025)
+### 36. Fit Seekers podcast — "Psychic Medium John Edward: Energy, Loss & Life's Biggest Questions" (February 22, 2025)
 
 URL: https://fitseekers.podbean.com/e/psychic-medium-john-edward-energy-loss-life-s-biggest-questions-fit-seekers/
 
@@ -355,13 +361,19 @@ Hosts Frank Sepe and Zack Zeigler interview Edward "and get real about the highs
 
 *See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
 
-### 36. Things You Can't Un-Hear (Maritza Barone) — "John Edward // What the Afterlife Can Teach Us About Living" (July 8, 2025)
+### 37. Things You Can't Un-Hear (Maritza Barone) — "John Edward // What the Afterlife Can Teach Us About Living" (July 8, 2025)
 
 URL: https://omny.fm/shows/things-you-cant-un-hear-1/john-edward-what-the-afterlife-can-teach-us-about-living
 
 Edward talked with Maritza Barone about how his gift came to him at 15, how he first began reading for family and friends, and what the afterlife can teach us about living — part of his 2025 Australian tour. *Date: July 8, 2025.*
 
-### 37. Inside of You with Michael Rosenbaum — "Medium JOHN EDWARD: Confronting Cynicism, Stories From Beyond & Getting Kicked from Dr. Phil" (August 2025)
+### 38. Howie Mandel Does Stuff — "Psychic Medium John Edward & Robert Hilland of the FBI" (September 2, 2025)
+
+URL: https://www.youtube.com/watch?v=24Ej8IchiW4
+
+Edward returned to Howie Mandel's podcast alongside former FBI Special Agent Robert Hilland to discuss *Chasing Evil* — the book documenting how the skeptical agent reached out to Edward for help on a baffling case and the twenty-five-year crime-solving partnership that followed, including the investigation of serial killer John Smith. Mandel jokes that Edward is the only guest he'd invite back as a solo guest. *Date: September 2, 2025.*
+
+### 39. Inside of You with Michael Rosenbaum — "Medium JOHN EDWARD: Confronting Cynicism, Stories From Beyond & Getting Kicked from Dr. Phil" (August 2025)
 
 URL: https://www.youtube.com/watch?v=qyWHJphT2bQ
 
@@ -369,7 +381,7 @@ Edward's appearance on Michael Rosenbaum's podcast, covering cynicism, stories f
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 38. Maria Menounos — "Psychic John Edward on Becoming Your Own Psychic & What's Left in 2025" (September 2025)
+### 40. Maria Menounos — "Psychic John Edward on Becoming Your Own Psychic & What's Left in 2025" (September 2025)
 
 URL: https://www.youtube.com/watch?v=sCQLQnt88Ag
 
@@ -377,13 +389,13 @@ Edward talked with Maria Menounos about becoming "your own psychic" and what he 
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 39. The Jess Rowe Big Talk Show — "John Edward on Signs and the Afterlife" (October 14, 2025)
+### 41. The Jess Rowe Big Talk Show — "John Edward on Signs and the Afterlife" (October 14, 2025)
 
 URL: https://podcasts.apple.com/au/podcast/john-edward-on-signs-and-the-afterlife-your/id1582086299?i=1000731828669
 
 Jess welcomed Edward back to explore the afterlife, grief, and the signs our loved ones send us — answering questions on spirit guides, dreams, and the purpose of souls, and leading an exercise to release negative energy. *Date: October 14, 2025.*
 
-### 40. A Spoonful of Paolo (Paolo Presta) — "PSYCHIC MEDIUM JOHN EDWARD" (October 16, 2025)
+### 42. A Spoonful of Paolo (Paolo Presta) — "PSYCHIC MEDIUM JOHN EDWARD" (October 16, 2025)
 
 URL: https://podcasts.apple.com/ie/podcast/psychic-medium-john-edward/id1527621448?i=1000732146103
 
@@ -391,7 +403,7 @@ Paolo Presta talks with Edward about "his secret life working with the FBI" in *
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
 
-### 41. The Jess Rowe Big Talk Show — "John Edward: How to Block Bad Energy and Find Hope" (July 22, 2026)
+### 43. The Jess Rowe Big Talk Show — "John Edward: How to Block Bad Energy and Find Hope" (July 22, 2026)
 
 URL: https://omny.fm/shows/the-jess-rowe-big-talk-show/john-edward-how-to-block-bad-energy-and-find-hope
 
@@ -399,7 +411,7 @@ URL: https://omny.fm/shows/the-jess-rowe-big-talk-show/john-edward-how-to-block-
 
 Described in the show notes as "the most popular guest we've ever had," Edward joined Jess Rowe again to discuss choosing hope over negativity, protecting your energy, and why some people don't like what he does. *Date: July 22, 2026.*
 
-### 42. Things You Can't Un-Hear (Maritza Barone) — "John Edward // Signs, Synchronicities & Healing Relationships in the Afterlife (Our Most Downloaded Guest)" (July 28, 2026)
+### 44. Things You Can't Un-Hear (Maritza Barone) — "John Edward // Signs, Synchronicities & Healing Relationships in the Afterlife (Our Most Downloaded Guest)" (July 28, 2026)
 
 URL: https://omny.fm/shows/things-you-cant-un-hear/john-edward-signs-synchronicities-healing-relationships-in-the-afterlife-our-most-downloaded-guest
 
@@ -416,6 +428,6 @@ Edward returned to Maritza Barone's podcast to discuss why connection — not cl
 * The June 19, 1998 *Larry King Live* transcript is archived via the Wayback Machine (nytix.com mirror) since CNN's transcript archive does not reach back that far.
 * Dateline NBC's November 17, 2000 report with John Hockenberry was the first nationally televised examination of the Edward phenomenon; the full program is not available online, so the linked *Skeptical Inquirer* investigation documents its content.
 * The *A Spoonful of Paolo* broken YouTube link has been replaced with the working Apple Podcasts listing for the October 16, 2025 episode.
-* Edward is a repeat guest on *The Jess Rowe Big Talk Show* (June 13, 2023; July 30, 2024; October 14, 2025; July 22, 2026) and on *Things You Can't Un-Hear* (July 8, 2025; July 28, 2026).
+* Edward is a repeat guest on *The Jess Rowe Big Talk Show* (June 13, 2023; July 30, 2024; October 14, 2025; July 22, 2026), on *Things You Can't Un-Hear* (July 8, 2025; July 28, 2026), and on *Howie Mandel Does Stuff* (October 31, 2023; September 2, 2025) — the only medium to have appeared on Mandel's show more than once (see [Howie Mandel Does Stuff: Psychic Medium Guests](./howie-mandel-does-stuff-mediums.md)).
 
 *See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md), [John Edward: South Park Reception](./john-edward-south-park-reception.md), [John Edward: Grief Counselors on Staff](./john-edward-grief-counselors-staff.md)*
