@@ -78,19 +78,18 @@ While fictional, the character of Patrick Jane from "The Mentalist" TV series de
 
 ## How to Tell the Difference
 
-| Aspect | Genuine Psychic | Mentalist |
-|--------|-----------------|-----------|
-| **Claim** | Has real supernatural abilities | Uses psychological techniques |
-| **Testing** | Participates in controlled experiments | Performs for entertainment |
-| **Methods** | Telepathic communication | Pre-show research, forcing, body reading |
-| **Attitude toward skepticism** | Welcome testing | May avoid controlled conditions |
+The distinction between mentalists and psychic mediums is more nuanced than a simple "supernatural vs. tricks" split:
 
-### Key Questions to Ask
+* **Mentalists** openly describe their work as a learnable skill built on observation, psychological technique, and performance craft. They do not claim supernatural abilities — and they are more credible precisely because they don't.
+* **Psychic mediums** like John Edward describe what they do as a natural human faculty — receiving information from the deceased via telepathic means — not as a supernatural power.
+* **Everyone is psychic to some degree.** Psychic ability is a natural human faculty — not a rare gift reserved for a chosen few. Different practitioners work with different types of ability (clairvoyance, clairaudience, clairsentience, mediumship, precognition, remote viewing, etc.) and at very different levels of skill, just as some musicians are virtuosos and others are beginners.
+* **Honesty about method** is the most useful signal. Performers who are explicit about what they do — whether "this is a learned craft" or "I communicate with the deceased" — are more credible than those who imply abilities they cannot actually demonstrate.
 
-1. **Do they submit to scientific testing?** Genuine mediums like John Edward have participated in decades of controlled studies
-2. **Do they work with law enforcement?** Some mediums assist police (like John Edward with the FBI)
-3. **Do they admit to non-psychic methods?** Mentalists like Pearlman openly discuss their techniques
-4. **Do they avoid controlled conditions?** Those who refuse testing may have something to hide
+### Questions Worth Asking
+
+1. **Are they honest about what they do?** Mentalists like Pearlman are explicit that their work is a learnable skill; mediums like John Edward are explicit that they receive information from the deceased via telepathic means, without claiming anything supernatural. Both kinds of honesty are good signs.
+2. **Do they have a track record?** Some mediums have assisted law enforcement or produced consistently accurate readings over many years. A practitioner's body of work is more informative than any single demonstration.
+3. **Do they avoid all scrutiny?** Performers who refuse any form of independent verification may have something to hide — but refusal of a particular setup is not, by itself, disqualifying.
 
 ---
 
