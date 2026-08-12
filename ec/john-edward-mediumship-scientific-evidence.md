@@ -136,10 +136,21 @@ Beyond John Edward, these mediums have participated in controlled scientific stu
 
 It's worth noting that not all television psychics have submitted to scientific testing:
 
-* **Theresa Caputo** (Long Island Medium) - Has never participated in controlled studies. In 2012, she received a **Pigasus Award** from the James Randi Educational Foundation for "performance." Investigations reveal she uses pre-show research and social media to gather information about audience members. [14]
-* **Chip Coffey** - Also received a **Pigasus Award** (2009) for "the psychic who tricked the most people with the least effort." Skeptics planted fictitious dead family members with his staff, and he claimed to communicate with them successfully. [15]
+* **Theresa Caputo** (Long Island Medium) - Has never participated in controlled studies. In 2012, she received a **Pigasus Award** from the James Randi Educational Foundation for "performance." Investigations allege she uses pre-show research and social media to gather information about audience members, including a 2012 *Inside Edition* sting in which former-psychic Mark Edward described planting prior clients in the audience to "bump-up her percentage of hits and avoid bad misses." [14]
+* **Chip Coffey** - Also received a **Pigasus Award** (2009) for "the psychic who tricked the most people with the least effort." Skeptics planted fictitious dead family members with his staff, and he claimed to communicate with them successfully. Unlike the cases below, Coffey has actual documented sting evidence rather than just allegations. [15]
+* **Oz Pearlman** - The most televised mentalist of his generation (AGT finalist, *60 Minutes*, TED2025, 2026 White House Correspondents' Dinner host). Has never claimed supernatural ability — he frames his work as a learnable skill — but has also never submitted to the kind of controlled protocols Edward passed. In January 2026, fellow magician Stevie Baskin published a 5h11m YouTube analysis alleging Pearlman's viral "mind-reading" relies on unaired pre-show interactions with audience members, iPhone calculator history, gimmicked notepads, and a purported final-edit clause in some appearance contracts. Pablo Torre's *PTFO* Episode 384 (May 19, 2026) walked through named viral clips (Joe Rogan ATM PIN, Charles Barkley on CBS NCAA, the Breece/Bryce Hall Jets fail) as evidence of the alleged mechanism. Pearlman's team declined to comment, and no independent forensic verification has been published. Notably, Penn & Teller's written rule on *Fool Us* bars contestants from using pre-show work — a marker that the magic community itself treats pre-show as crossing an ethical line. [61, 62, 63, 64]
 
-The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo and Coffey have refused scientific scrutiny.
+### The Parallel: Allegations Without Proof
+
+The three non-participating names above sit in the same evidentiary bucket — named, dated, sourced allegations, none of them independently confirmed under controlled conditions:
+
+| Performer | Named accuser(s) | Year | Type of evidence | Independent verification |
+|-----------|------------------|------|------------------|---------------------------|
+| Theresa Caputo | Mark Edward / *Inside Edition*; Skeptical Inquirer | 2012 | Sting claim; investigative reportage | None — she declined Randi's $1M challenge and Criss Angel's $1M offer |
+| Chip Coffey | IIG skeptics | 2007-2009 | **Controlled test** — planted fictitious names | Yes — Coffey "read" people who didn't exist |
+| Oz Pearlman | Stevie Baskin; Pablo Torre | 2026 | 5h11m video analysis of public clips; named viral-fail breakdowns | None — Pearlman has not admitted or denied the specific techniques |
+
+The difference: Mediums like John Edward have voluntarily participated in decades of controlled testing, while others like Caputo, Coffey, and Pearlman have refused (or not been invited into) scientific scrutiny. The Coffey case is the only one of the three with actual documented sting evidence; the Caputo and Pearlman cases remain in the "alleged but unproven" column.
 
 ---
 
@@ -380,6 +391,11 @@ Edward's third appearance on Sarah Grynberg's *A Life of Greatness* podcast (Jul
 [55] [YouTube - Ed Mylett: John Edward on Death, Energy, and the Afterlife (2021)](https://www.youtube.com/watch?v=2D9i3FgfagQ) *(YouTube title: "John Edward on Death, Energy, and the Afterlife: You Won't Believe This!")*
 
 [60] [YouTube - Sarah Grynberg: Mediumship, Grief & The Afterlife (Jul 2026)](https://www.youtube.com/watch?v=ezYHQfBif6Y) *(YouTube title: "John Edward: Mediumship, Grief & The Afterlife")*
+
+[61] [Hollywood Reporter - Mind Games: Will a Viral Podcast Unravel Our Most Famous Mentalist?](https://www.hollywoodreporter.com/tv/tv-news/oz-pearlman-deception-exposed-steve-baskin-video-pablo-torre-1236606232/)
+[62] [Pablo Torre Finds Out - Episode 384: Cheap Trick: Debunking the "Magic" of Mentalist Oz Pearlman](https://www.pablo.show/p/oz-the-mentalist-debunked)
+[63] [Particle - Podcast Alleges Oz the Mentalist Uses Pre-Show Tricks to Manufacture On-Air 'Mind-Reading'](https://particle.news/story/podcast-alleges-oz-the-mentalist-uses-preshow-tricks-to-manufacture-onair-mindreading)
+[64] [NBC Sports / ProFootballTalk - Pablo Torre take a close look at Oz The Mentalist](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pablo-torre-take-a-close-look-at-oz-the-mentalist)
 
 ---
 
