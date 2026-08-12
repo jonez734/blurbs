@@ -98,7 +98,7 @@ The distinction between mentalists and psychic mediums is more nuanced than a si
 Skeptics argue that most "psychic" performances can be explained through:
 
 * **Cold reading**: Making vague statements that could apply to anyone
-* **Hot reading**: Using information obtained beforehand
+* **Hot reading** (also called *pre-show work*): Using information obtained beforehand
 * **Cold reading + statistics**: Using probability and Barnum statements
 * **Confirmation bias**: People remember "hits" and forget "misses"
 
