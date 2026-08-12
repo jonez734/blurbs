@@ -135,4 +135,4 @@ Margolis and Edward are longtime colleagues who have repeatedly shared stages, t
 * Several TV appearances are documented only as years or multiple dates (e.g., *Dr. Phil*, *The Dr. Oz Show*, *The Doctors*, *The View*, *Home & Family*, *The Morning Show* in Canada). These are listed without full dates where public records do not pin them down.
 * Margolis' reported birth details are not consistently published; her publisher (Simon & Schuster) describes her as dividing her time between Michigan, Los Angeles, and Holland.
 
-*See also: [John Edward: Interviews](./john-edward-interviews.md)*
+*See also: [John Edward: Interviews](./john-edward-interviews)*

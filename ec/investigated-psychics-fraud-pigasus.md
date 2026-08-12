@@ -160,7 +160,7 @@ Despite their controversies (or in John Edward's case, despite his scientific te
 
 **[Chasing Evil on Amazon (2025)](https://www.amazon.com/dp/1250291755/?tag=psychicblurbs-20)**
 
-*See also: [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence)*
 
 ### Theresa Caputo
 
@@ -242,7 +242,7 @@ The difference between scientifically tested psychics like John Edward and those
 - James Underdown attended a live show and said Edward was a "bad cold reader" who "shot off nearly 40 guesses before finding any significant targets"
 - John Oliver featured him in a 2019 Last Week Tonight segment
 
-*See [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence.md) for detailed criticism section.*
+*See [John Edward: Scientific Evidence for Mediumship](../john-edward-mediumship-scientific-evidence) for detailed criticism section.*
 
 **His response set him apart**: Unlike Uri Geller (who sued critics), Edward never filed defamation lawsuits. Instead, he pointed to his willingness to participate in controlled scientific testing — and he passed those tests.
 

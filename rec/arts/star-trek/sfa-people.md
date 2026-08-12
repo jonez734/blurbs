@@ -79,7 +79,7 @@ Giamatti's performance was deliberately big — he told the showrunners early on
 
 ---
 
-See also: [SFA Milestones](sfa-milestones.md), [SFA Making](sfa-making.md), [DS9 People](ds9-people.md), [TNG People](tng-people.md).
+See also: [SFA Milestones](sfa-milestones), [SFA Making](sfa-making), [DS9 People](ds9-people), [TNG People](tng-people).
 
 ---
 

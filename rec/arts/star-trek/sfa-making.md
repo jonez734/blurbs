@@ -193,7 +193,7 @@ Starfleet Academy's production story is a cautionary tale about the gap between 
 
 ---
 
-See also: [SFA Milestones](sfa-milestones.md), [SFA People](sfa-people.md), [DS9 Making](ds9-making.md), [TNG Making](tng-making.md).
+See also: [SFA Milestones](sfa-milestones), [SFA People](sfa-people), [DS9 Making](ds9-making), [TNG Making](tng-making).
 
 ---
 

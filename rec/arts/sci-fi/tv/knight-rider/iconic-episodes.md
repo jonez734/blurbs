@@ -17,11 +17,11 @@ However, NBC instead aired **"Voo Doo Knight"** (Season 4, Episode 22, April 4, 
 
 Like The A-Team, Knight Rider simply... ended, leaving fans without a proper goodbye to Michael and KITT.
 
-- **[Knight of the Juggernaut](iconic-episodes/knight-of-the-juggernaut.md)** — S4E1 (Sep 20, 1985). RC3 debuts, KITT destroyed by Juggernaut vehicle, rebuilt with new features.
+- **[Knight of the Juggernaut](iconic-episodes/knight-of-the-juggernaut)** — S4E1 (Sep 20, 1985). RC3 debuts, KITT destroyed by Juggernaut vehicle, rebuilt with new features.
 
-- **[Junk Yard Dog](iconic-episodes/junk-yard-dog.md)** — S3E14 (Feb 3, 1985). KITT destroyed in acid pit, rebuilt by original design team.
+- **[Junk Yard Dog](iconic-episodes/junk-yard-dog)** — S3E14 (Feb 3, 1985). KITT destroyed in acid pit, rebuilt by original design team.
 
-- **[Knight Song](iconic-episodes/knight-song.md)** — S4E10 & 11 (Dec 13, 1985). New Edition guest stars, blind piano player, neighborhood harassment, Charley Conners drives KITT.
+- **[Knight Song](iconic-episodes/knight-song)** — S4E10 & 11 (Dec 13, 1985). New Edition guest stars, blind piano player, neighborhood harassment, Charley Conners drives KITT.
 
 ---
 

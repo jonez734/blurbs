@@ -92,7 +92,7 @@ As Ira Steven Behr reflected: *"I knew — we knew — that this was going to te
 
 ---
 
-See also: [DS9 Milestones](ds9-milestones.md), [DS9 Making](ds9-making.md), [DS9 People](ds9-people.md), [TNG Awards](tng-awards.md).
+See also: [DS9 Milestones](ds9-milestones), [DS9 Making](ds9-making), [DS9 People](ds9-people), [TNG Awards](tng-awards).
 
 ---
 

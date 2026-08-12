@@ -71,7 +71,7 @@ Hosts Frank Sepe and Zack Zeigler interview Edward "and get real about the highs
 
 ## Notes
 
-* The interview appearances referenced above (High Plains Reader, HuffPost/Party Foul Radio, Fit Seekers) are also catalogued with dated summaries in [John Edward: Interviews](./john-edward-interviews.md).
+* The interview appearances referenced above (High Plains Reader, HuffPost/Party Foul Radio, Fit Seekers) are also catalogued with dated summaries in [John Edward: Interviews](./john-edward-interviews).
 * Across all four sources, Edward consistently frames the episode in a positive light — as evidence of cultural penetration that brings him new audiences, rather than as a wound.
 * The 2017 interviews (references #2 and #3) reveal a more textured position: he initially objected to the "mean intention" but retrospectively credits the episode with bringing him new clientele.
 * The South Park Archives wiki (reference #1) is the only source that includes the additional claim that Edward has "joked that he will tell his audience that he is in fact 'The Biggest Douche in the Universe'" in live appearances.

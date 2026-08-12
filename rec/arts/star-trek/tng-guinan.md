@@ -75,7 +75,7 @@ The Uhura-Goldberg-Guanin lineage represents a closed loop of influence: Nichols
 
 ---
 
-See also: [TOS People](tos-people.md) (Uhura and MLK), [TNG People](tng-people.md) (Guinan and recurring cast).
+See also: [TOS People](tos-people) (Uhura and MLK), [TNG People](tng-people) (Guinan and recurring cast).
 
 ---
 

@@ -171,7 +171,7 @@ As Behr put it: *"I knew — we knew — that this was going to tell this dark s
 
 ---
 
-See also: [DS9 Making](ds9-making.md), [DS9 People](ds9-people.md), [TNG Milestones](tng-milestones.md), [Crossovers](tng-crossovers.md).
+See also: [DS9 Making](ds9-making), [DS9 People](ds9-people), [TNG Milestones](tng-milestones), [Crossovers](tng-crossovers).
 
 ---
 

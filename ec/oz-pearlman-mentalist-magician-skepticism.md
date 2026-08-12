@@ -204,4 +204,4 @@ What remains contested — and what the magician community is increasingly willi
 
 ---
 
-*See also: [Mentalists vs Psychics: Understanding the Difference](./mentalists-vs-psychics-oz-pearlman.md)*
+*See also: [Mentalists vs Psychics: Understanding the Difference](./mentalists-vs-psychics-oz-pearlman)*

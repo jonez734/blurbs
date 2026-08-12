@@ -45,7 +45,7 @@ The Barclay of Voyager is recognizably the same person — still anxious, still 
 
 Schultz appeared as Barclay in three Star Trek films: **Star Trek: Generations** (1994), **Star Trek: First Contact** (1996), and **Star Trek: Insurrection** (1998). His voice work has included numerous animated series, and he continues to act into his late 70s [5].
 
-See also: [The A-Team Cast: Then and Now](../tv/the-a-team/cast-then-and-now.md), [TNG People](tng-people.md), [Star Trek Crossovers](tng-crossovers.md).
+See also: [The A-Team Cast: Then and Now](../tv/the-a-team/cast-then-and-now), [TNG People](tng-people), [Star Trek Crossovers](tng-crossovers).
 
 ---
 

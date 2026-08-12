@@ -57,7 +57,7 @@ URL: https://www.youtube.com/watch?v=E8qj0EPLwnQ
 
 The TLC web segment in which Caputo wears an EEG electrode cap while channeling at Amen Clinics with Dr. Daniel Amen, discussed on *FOX & Friends* in March 2017. Skeptics (including neurologist Steven Novella) emphasize this is not a controlled test; see the main blurb's "The Dr. Amen QEEG Segment" section.
 
-*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium.md)*
+*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium)*
 
 ### 8. Anderson Live — post-show web exclusive (March 29, 2012)
 
@@ -83,7 +83,7 @@ URL: https://www.imdb.com/title/tt2886494/
 
 In the May 9, 2013 episode, Dr. Mehmet Oz and psychiatrist Dr. Daniel Amen performed brain scans on Caputo while she channeled — first a SPECT scan, then a quantitative EEG for the live demonstration — and Oz declared himself converted from "skeptic" to believer. Neurologist and skeptic Steven Novella analyzed the segment ("Brain Scans and Psychics," December 23, 2013), arguing the scan differences are "just noise" with multiple possible interpretations including anxiety. JREF's Jamy Ian Swiss likewise called the demonstration "non-science and nonsense," noting it was not even single-blinded.
 
-*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium.md)*
+*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium)*
 
 ### 3. FOX & Friends — March 16, 2017
 
@@ -249,4 +249,4 @@ Anchor Doug Currin interviewed Caputo one-on-one ahead of her Koger Center for t
 * Caputo's brain-scan segments on *Dr. Oz* (May 9, 2013) and the Amen Clinics/TLC segment (2017, discussed on *FOX & Friends* in March 2017) are entertainment, not controlled scientific testing — the distinction drawn in the main blurb's "The Dr. Amen QEEG Segment" section.
 * Several TV appearances are documented only as years or multiple dates (e.g., *The Ellen DeGeneres Show* in 2013 and March 2014; *Good Morning America* and *The Wendy Williams Show* per publisher bios). These are listed without full dates where public records do not pin them down.
 
-*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium.md)*
+*See also: [Theresa Caputo: The Long Island Medium](./theresa-caputo-long-island-medium)*

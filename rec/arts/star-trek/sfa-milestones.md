@@ -127,7 +127,7 @@ The cancellation also marked the end of an era. As of mid-2026, this was the fir
 
 ---
 
-See also: [SFA People](sfa-people.md), [SFA Making](sfa-making.md), [DS9 Milestones](ds9-milestones.md), [TNG Milestones](tng-milestones.md).
+See also: [SFA People](sfa-people), [SFA Making](sfa-making), [DS9 Milestones](ds9-milestones), [TNG Milestones](tng-milestones).
 
 ---
 

@@ -62,7 +62,7 @@ Clemens returns to his own time, settling Picard's debts and watching over Guina
 
 ---
 
-See also: [Guinan](tng-guinan.md), [TNG People](tng-people.md), [TNG Milestones](tng-milestones.md).
+See also: [Guinan](tng-guinan), [TNG People](tng-people), [TNG Milestones](tng-milestones).
 
 ---
 

@@ -113,7 +113,7 @@ URL: http://faculty.fortlewis.edu/burke_b/criticalthinking/Readings/John%20Edwar
 
 Dateline's hour on Edward with correspondent John Hockenberry was the first nationally televised look at the Edward phenomenon. In the segment, Edward appeared to reach a spirit named "Anthony" who turned out to be one of the cameramen — whom Edward had chatted with hours earlier on a different shoot. Hockenberry confronted Edward on the show ("So that's not some energy coming through, that's something you knew going in"), and the exchange is documented in Joe Nickell's *Skeptical Inquirer* investigation "John Edward: Hustling the Bereaved" (linked above). *Date: aired November 17, 2000.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 3. Washington Post — "Hot Medium: Prime-Time Spirit Guide John Edward" (June 30, 2001)
 
@@ -133,7 +133,7 @@ URL: https://www.oprah.com/oprahshow/a-call-from-beyond
 
 On Oprah, Edward described acting as a "conduit, like a bridge," and compared the process to "a daydream": "I quiet my mind through meditation and prayer and then I pay attention to what I'm thinking, what I'm hearing and what I'm feeling." *Date: February 15, 2007.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 6. Fox News (Hannity) — June 16, 2009
 
@@ -141,7 +141,7 @@ URL: https://www.foxnews.com/story/medium-john-edward-explains-ability
 
 Edward talked with Sean Hannity about his spiritual-resource website *Infinite Quest* and explained why he refuses to defend his work to skeptics: "As soon as you have to defend something, then you're admitting that something needs defense." *Date: June 16, 2009.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 7. ABC Melbourne (Jon Faine, 774 ABC Melbourne) — 2009 (clip reposted October 11, 2019)
 
@@ -155,7 +155,7 @@ URL: https://juliahatmaker.com/2012/05/24/psychic-john-edward-connects-with-the-
 
 Edward told Julia Hatmaker: "I always find the people who are so critical on the subject matter don't give any respect back. They try to define what you're doing when they don't even understand it. That just screams to me ignorance and ignorance leads to intolerance." *Date: May 24, 2012.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 9. Ottawa Citizen — "The healthy skeptic: Psychic John Edward says just watch me" (2014)
 
@@ -163,7 +163,7 @@ URL: https://ottawacitizen.com/entertainment/local-arts/the-healthy-skeptic-psyc
 
 Edward responded to critics with his "just watch me" philosophy: "The critics don't bother me. I'm not more special than anyone else, except I have worked at what I possess for three decades. I believe that everyone has ESP-like powers." *Date: 2014.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 10. PennLive — "Interview with psychic John Edward" (May 2015)
 
@@ -171,7 +171,7 @@ URL: https://www.pennlive.com/entertainment/2015/05/psychic_john_edward.html
 
 Edward discussed his approach to believers and skeptics: "I've never felt the need to convince or convert people. I don't think that's appropriate." On cold-reading accusations he said: "They're not really skeptics, they're really cynics. Either they think people are being researched ahead of time, or they're saying it's guess work… people who seek mediums out are stupid. And I don't think they're stupid." *Date: May 2015.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 11. High Plains Reader — "From one skeptic to another" (2017)
 
@@ -179,7 +179,7 @@ URL: https://hpr1.com/index.php/feature/culture/from-one-skeptic-to-another
 
 A Q&A in which Edward addressed the *South Park* parody episode at length, his dislike of "mean, intentional humor," and how the episode has since "brought me a whole new clientele of young people." *Date: 2017.*
 
-*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception)*
 
 ### 12. Party Foul Radio (Ep. 67) / HuffPost — May 25, 2017
 
@@ -187,7 +187,7 @@ URL: https://www.huffpost.com/entry/acclaimed-psychic-john-edward-dont-let-other
 
 A HuffPost piece published alongside Edward's *Party Foul Radio* interview (Ep. 67). Edward described being under public scrutiny as "a badge of honor" and said of the *South Park* parody: "Maybe I didn't like being attacked, but there are other people they were protecting… I'll wear the bullseye on my ass. It's starting a dialogue." *Date: May 25, 2017.*
 
-*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception)*
 
 ### 13. Sydney Morning Herald — "Lunch with John Edward: I can't disrespect the work" (October 19, 2018)
 
@@ -195,7 +195,7 @@ URL: https://www.smh.com.au/entertainment/lunch-with-john-edward-i-cant-disrespe
 
 Edward explained his refusal to attack skeptics personally: he focuses on the work itself, noting he "can't disrespect the work." *Date: October 19, 2018.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 14. No Filter (Mia Freedman, Mamamia) — "John Edward Is The Psychic Medium Who Didn't Believe In Psychics" (July 21, 2019)
 
@@ -205,7 +205,7 @@ URL: https://omny.fm/shows/no-filter/john-edward-interview
 
 Mia Freedman talks with Edward on Mamamia's *No Filter* about the psychic who started as a skeptic, his Long Island grandmother, and his then-upcoming Australian tour. *Date: July 21, 2019.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 15. Detroit Free Press — "Psychic medium John Edward coming to Detroit: His response to skeptics" (September 27, 2019)
 
@@ -213,7 +213,7 @@ URL: https://eu.freep.com/story/entertainment/2019/09/27/john-edward-psychic-med
 
 Ahead of his Detroit tour, Edward explained his respect for skeptics ("I was them") and his boundaries: "I don't have time for cynicism, personal attack(s). If somebody comes at me in a negative way, I usually block them immediately." *Date: September 27, 2019.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 16. Heal Squad x Maria Menounos (Ep. 49) — "Shares His Vision Around Coronavirus" (March 18, 2020)
 
@@ -253,7 +253,7 @@ URL: https://www.youtube.com/watch?v=2D9i3FgfagQ
 
 Edward's long-form conversation with Ed Mylett about death, energy, and the afterlife. *Date: April 20, 2021.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 22. Heal Squad x Maria Menounos — "2023 Predictions From Psychic Medium John Edward" (January 2023)
 
@@ -267,7 +267,7 @@ URL: https://www.today.com/life/astrology/john-edward-psychic-parenting-intervie
 
 Edward drew his now-familiar distinction between skepticism and cynicism: "Being skeptical means that you're looking for validation and fast evidence. Being cynical means that no matter what you experience, you've already made up your mind. So cynicism scares me. Skepticism, we need to embrace." The interview also covered his "energetic parenting" approach. *Date: 2023.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 24. The Jess Rowe Big Talk Show — "The Most Powerful Way To Speak To Your Lost Loved Ones" (June 13, 2023)
 
@@ -281,7 +281,7 @@ URL: https://sarahgrynberg.substack.com/p/john-edward-live-reading-a72
 
 Edward's first appearance on Sarah Grynberg's podcast (he has since appeared twice more; see the YouTube section and the July 1, 2024 entry below). He shared his own story before giving listener Andrea a live reading to connect with a loved one who had passed. *Date: June 19, 2023.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 26. Nurses Uncorked (Ep. 14) — "Psychic Medium John Edward Discusses His 2023 Healthcare Predictions" (October 10, 2023)
 
@@ -301,7 +301,7 @@ URL: https://omny.fm/shows/on-purpose-with/john-edward-stop-trying-to-move-on-af
 
 An earlier *On Purpose* appearance in which Edward described his ability as telepathic communication with deceased consciousness, breaking down clairvoyance, clairaudience, and clairsentience, and the team of spirits he calls "The Boys." *Date: 2024.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 29. Sunrise (Channel 7, Australia) — "Psychic medium John Edward on Sunrise" (June 9, 2024)
 
@@ -315,7 +315,7 @@ URL: https://www.abc.net.au/news/2024-06-14/self-proclaimed-psychic-medium-john-
 
 On ABC News Breakfast, Edward discussed his readings, his critics, and said there was one person he "certainly wouldn't talk to, alive or dead." *Date: June 14, 2024.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 31. Betoota Talks (S4 E46) — "INTERVIEW: Psychic Medium John Edward" (June 23, 2024)
 
@@ -329,7 +329,7 @@ URL: https://podcasts.apple.com/us/podcast/john-edward-a-surprising-live-reading
 
 Edward's second appearance on Grynberg's podcast (first: June 19, 2023; third: July 27, 2026). In this episode he gave a live reading to someone in the studio "which takes an unexpected twist," and discussed why some psychics get predictions wrong. *Date: July 1, 2024.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 33. The Jess Rowe Big Talk Show — "What can we learn about living from those who have crossed over?" (July 30, 2024)
 
@@ -359,7 +359,7 @@ URL: https://fitseekers.podbean.com/e/psychic-medium-john-edward-energy-loss-lif
 
 Hosts Frank Sepe and Zack Zeigler interview Edward "and get real about the highs and lows of his work—carrying the weight of grief, spotting social media scammers, and even being called the 'Biggest Douche in the Universe' by South Park." The show notes flag a segment at ~12:00 on "The South Park roast." *Date: February 22, 2025.*
 
-*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception)*
 
 ### 37. Things You Can't Un-Hear (Maritza Barone) — "John Edward // What the Afterlife Can Teach Us About Living" (July 8, 2025)
 
@@ -379,7 +379,7 @@ URL: https://www.youtube.com/watch?v=qyWHJphT2bQ
 
 Edward's appearance on Michael Rosenbaum's podcast, covering cynicism, stories from readings, and being "kicked from Dr. Phil." *Date: August 2025.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 40. Maria Menounos — "Psychic John Edward on Becoming Your Own Psychic & What's Left in 2025" (September 2025)
 
@@ -387,7 +387,7 @@ URL: https://www.youtube.com/watch?v=sCQLQnt88Ag
 
 Edward talked with Maria Menounos about becoming "your own psychic" and what he saw ahead in 2025. *Date: September 2025.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 41. The Jess Rowe Big Talk Show — "John Edward on Signs and the Afterlife" (October 14, 2025)
 
@@ -401,7 +401,7 @@ URL: https://podcasts.apple.com/ie/podcast/psychic-medium-john-edward/id15276214
 
 Paolo Presta talks with Edward about "his secret life working with the FBI" in *Chasing Evil* and his 40+ year journey providing comfort and healing. *(Note: the previously listed YouTube link for this episode was broken; the Apple Podcasts listing above is the working link.)* *Date: October 16, 2025.*
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ### 43. The Jess Rowe Big Talk Show — "John Edward: How to Block Bad Energy and Find Hope" (July 22, 2026)
 
@@ -422,12 +422,12 @@ Edward returned to Maritza Barone's podcast to discuss why connection — not cl
 ## Notes
 
 * The most recent interviews found at this writing are the July 2026 batch: Sarah Grynberg's third *A Life of Greatness* appearance (July 27, 2026), Jess Rowe's return on *The Jess Rowe Big Talk Show* (July 22, 2026), and Maritza Barone's *Things You Can't Un-Hear* return (July 28, 2026).
-* The "Other Television, Podcast, and Press Interviews" section consolidates interview appearances that are also documented in the topical blurbs ([John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md) and [John Edward: South Park Reception](./john-edward-south-park-reception.md)).
+* The "Other Television, Podcast, and Press Interviews" section consolidates interview appearances that are also documented in the topical blurbs ([John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence) and [John Edward: South Park Reception](./john-edward-south-park-reception)).
 * Edward's 9/11 story — the "dark" period from June 2001, the World Trade Center ballroom incident, and his September 10, 2001 *Larry King Live* appearance — recurs across the 2026 interviews (DEAD Talks, This Morning, and the Facebook clips surrounding them).
 * *Larry King Live* transcripts are archived by CNN at transcripts.cnn.com; the *Larry King Now* episode from August 29, 2012 is the last known Larry King interview with Edward located at this writing.
 * The June 19, 1998 *Larry King Live* transcript is archived via the Wayback Machine (nytix.com mirror) since CNN's transcript archive does not reach back that far.
 * Dateline NBC's November 17, 2000 report with John Hockenberry was the first nationally televised examination of the Edward phenomenon; the full program is not available online, so the linked *Skeptical Inquirer* investigation documents its content.
 * The *A Spoonful of Paolo* broken YouTube link has been replaced with the working Apple Podcasts listing for the October 16, 2025 episode.
-* Edward is a repeat guest on *The Jess Rowe Big Talk Show* (June 13, 2023; July 30, 2024; October 14, 2025; July 22, 2026), on *Things You Can't Un-Hear* (July 8, 2025; July 28, 2026), and on *Howie Mandel Does Stuff* (October 31, 2023; September 2, 2025) — the only medium to have appeared on Mandel's show more than once (see [Howie Mandel Does Stuff: Psychic Medium Guests](./howie-mandel-does-stuff-mediums.md)).
+* Edward is a repeat guest on *The Jess Rowe Big Talk Show* (June 13, 2023; July 30, 2024; October 14, 2025; July 22, 2026), on *Things You Can't Un-Hear* (July 8, 2025; July 28, 2026), and on *Howie Mandel Does Stuff* (October 31, 2023; September 2, 2025) — the only medium to have appeared on Mandel's show more than once (see [Howie Mandel Does Stuff: Psychic Medium Guests](./howie-mandel-does-stuff-mediums)).
 
-*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md), [John Edward: South Park Reception](./john-edward-south-park-reception.md), [John Edward: Grief Counselors on Staff](./john-edward-grief-counselors-staff.md)*
+*See also: [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence), [John Edward: South Park Reception](./john-edward-south-park-reception), [John Edward: Grief Counselors on Staff](./john-edward-grief-counselors-staff)*

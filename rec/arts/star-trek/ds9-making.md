@@ -181,7 +181,7 @@ As Ira Steven Behr reflected: *"The fact that people watch it now... the only th
 
 ---
 
-See also: [DS9 Milestones](ds9-milestones.md), [DS9 People](ds9-people.md), [TNG Making](tng-making.md).
+See also: [DS9 Milestones](ds9-milestones), [DS9 People](ds9-people), [TNG Making](tng-making).
 
 ---
 

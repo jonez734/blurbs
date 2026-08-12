@@ -51,7 +51,7 @@ Criss Angel aired two seance-themed episodes of Mindfreak around Halloween, both
 
 ### Celebrity Seance (Season 2, Episode 20)
 
-*Also cross-posted to [/teos/ec/criss-angel-seance.md](/teos/ec/criss-angel-seance.md)*
+*Also cross-posted to [/teos/ec/criss-angel-seance](/teos/ec/criss-angel-seance)*
 
 Originally aired: October 30, 2006
 

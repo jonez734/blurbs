@@ -106,7 +106,7 @@ O'Brien appeared in **50 episodes of TNG** before becoming a DS9 series regular 
 
 ### Barclay (Dwight Schultz) — More Episodes in Voyager Than TNG
 
-Reginald Barclay, the socially anxious engineer introduced in TNG, appeared in **more episodes of Voyager** (seven) than he did of TNG (six). Working with Troi at the Pathfinder Project, Barclay became the crew's lifeline to the Alpha Quadrant — a character whose growth across multiple series rewarded long-term viewers [7]. See the dedicated [Barclay blurb](tng-barclay.md) for more on his holodeck addiction, his mind meld with the Enterprise computer in "The Nth Degree," and his full Voyager arc.
+Reginald Barclay, the socially anxious engineer introduced in TNG, appeared in **more episodes of Voyager** (seven) than he did of TNG (six). Working with Troi at the Pathfinder Project, Barclay became the crew's lifeline to the Alpha Quadrant — a character whose growth across multiple series rewarded long-term viewers [7]. See the dedicated [Barclay blurb](tng-barclay) for more on his holodeck addiction, his mind meld with the Enterprise computer in "The Nth Degree," and his full Voyager arc.
 
 ### Lwaxana Troi on DS9
 
@@ -118,7 +118,7 @@ Star Trek's crossover episodes demonstrated that a shared television universe co
 
 ---
 
-See also: [TOS People](tos-people.md), [TNG People](tng-people.md), [TNG Milestones](tng-milestones.md), [Barclay](tng-barclay.md).
+See also: [TOS People](tos-people), [TNG People](tng-people), [TNG Milestones](tng-milestones), [Barclay](tng-barclay).
 
 ---
 

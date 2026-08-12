@@ -111,7 +111,7 @@ Moore brought several DS9 writers with him to BSG, including **Bradley Thompson*
 
 ---
 
-See also: [DS9 Making](ds9-making.md), [DS9 Milestones](ds9-milestones.md), [DS9 Awards](ds9-awards.md), [TNG People](tng-people.md).
+See also: [DS9 Making](ds9-making), [DS9 Milestones](ds9-milestones), [DS9 Awards](ds9-awards), [TNG People](tng-people).
 
 ---
 

@@ -29,7 +29,7 @@ URL: https://www.youtube.com/watch?v=b6CiPPtuYEI
 
 Edward's first appearance on the show, released as a Halloween special. Edward recounts his origin story and how he says his gift works, then performs an in-studio reading — with what the show frames as a real ghost interaction caught on camera. *Date: October 31, 2023.*
 
-*See also: [John Edward: Interviews](./john-edward-interviews.md)*
+*See also: [John Edward: Interviews](./john-edward-interviews)*
 
 ### 4. John Edward & Robert Hilland of the FBI — "Psychic Medium John Edward & Robert Hilland of the FBI" (September 2, 2025)
 
@@ -37,7 +37,7 @@ URL: https://www.youtube.com/watch?v=24Ej8IchiW4
 
 Edward returned to the show alongside former FBI Special Agent Robert Hilland to discuss *Chasing Evil*, the book documenting how the skeptical agent reached out to Edward for help on a baffling case and the twenty-five-year crime-solving partnership that followed. *Date: September 2, 2025.*
 
-*See also: [John Edward: Interviews](./john-edward-interviews.md)*
+*See also: [John Edward: Interviews](./john-edward-interviews)*
 
 ### 5. Two psychics with Audrina Patridge & Michael Ray — "Audrina Patridge & Boyfriend Michael Ray Join Two Psychics for Huge Release & Announcement" (June 10, 2025)
 
@@ -55,8 +55,8 @@ Psychic medium Matt Fraser, star of *Meet the Frasers* and author of *We Never D
 
 ## Notes
 
-* John Edward is the only medium found so far who has appeared on the show more than once (October 31, 2023 and September 2, 2025); his appearances are documented in detail in [John Edward: Interviews](./john-edward-interviews.md).
+* John Edward is the only medium found so far who has appeared on the show more than once (October 31, 2023 and September 2, 2025); his appearances are documented in detail in [John Edward: Interviews](./john-edward-interviews).
 * No stable link has been located for the George Anderson episode (#94) at this writing; the episode title, date, and description come from podcast listing archives.
 * The episode numbers above follow the show's own numbering where published; the Audrina Patridge/psychics episode and the Amie Balesky episode are referenced by date since their numbers were not located.
 
-*See also: [John Edward: Interviews](./john-edward-interviews.md), [Theresa Caputo: Long Island Medium](./theresa-caputo-long-island-medium.md), [Tyler Henry: Hollywood's Young Medium](./tyler-henry-medium.md)*
+*See also: [John Edward: Interviews](./john-edward-interviews), [Theresa Caputo: Long Island Medium](./theresa-caputo-long-island-medium), [Tyler Henry: Hollywood's Young Medium](./tyler-henry-medium)*

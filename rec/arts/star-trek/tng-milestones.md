@@ -86,7 +86,7 @@ The show's influence extends beyond Trek. The **PADD** (Personal Access Display 
 
 ---
 
-See also: [The Measure of a Man](../sci-fi/tv/star-trek-measure-of-a-man.md) and [LCARS](../sci-fi/tv/star-trek-computer-lcars.md).
+See also: [The Measure of a Man](../sci-fi/tv/star-trek-measure-of-a-man) and [LCARS](../sci-fi/tv/star-trek-computer-lcars).
 
 ---
 

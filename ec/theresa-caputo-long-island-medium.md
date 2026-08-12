@@ -156,7 +156,7 @@ Skeptics emphasize that a quantitative EEG (QEEG) captured during a televised re
 
 In short: wearing an EEG cap for a TV segment is not submitting to scientific testing — and Caputo has never done the latter.
 
-*See also: [Theresa Caputo: Interviews](./theresa-caputo-interviews.md), [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence.md)*
+*See also: [Theresa Caputo: Interviews](./theresa-caputo-interviews), [John Edward: Mediumship and Scientific Evidence](./john-edward-mediumship-scientific-evidence)*
 
 ---
 

@@ -83,7 +83,7 @@ For AI in movies, see the Hollywood Movies article.
 
 [8] [Max Headroom (character) - Wikipedia]
 
-[9] [KITT - Knight Rider Blurb](/blurbs/rec/arts/sci-fi/tv/knight-rider/kitt.md)
+[9] [KITT - Knight Rider Blurb](/blurbs/rec/arts/sci-fi/tv/knight-rider/kitt)
 
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
 

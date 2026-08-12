@@ -27,7 +27,7 @@ Recognizing the emotional intensity of his readings, Edward maintains **counselo
 
 > **Editor's Note**: The claim that John Edward employs grief counselors is supported by multiple dated references — see the linked blurb below for the documentation. Specific details (e.g., when staff were first hired, current headcount) are not independently confirmed and remain unverified.
 
-*See also: [John Edward: Grief Counselors on Staff — References with Dates](./john-edward-grief-counselors-staff.md)*
+*See also: [John Edward: Grief Counselors on Staff — References with Dates](./john-edward-grief-counselors-staff)*
 
 ---
 
@@ -190,7 +190,7 @@ That same year, in a HuffPost piece tied to a Party Foul Radio interview, Edward
 
 He revisited the topic on the Fit Seekers podcast in February 2025 (segment at ~12:00, "The South Park roast"), where he directly addressed the episode and reiterated that being parodied reflects his cultural reach. [59]
 
-*See also: [John Edward: South Park Reception](./john-edward-south-park-reception.md)*
+*See also: [John Edward: South Park Reception](./john-edward-south-park-reception)*
 
 ### No Lawsuits from Edward
 
@@ -220,7 +220,7 @@ This philosophy reflects Edward's core approach: rather than arguing with critic
 
 ### Edward on Skeptics: Respect vs. Cynicism
 
-Dated summaries of the interviews quoted below appear in [John Edward: Interviews](./john-edward-interviews.md).
+Dated summaries of the interviews quoted below appear in [John Edward: Interviews](./john-edward-interviews).
 
 John Edward has spoken extensively about his views on skeptics and critics over the years:
 
@@ -277,7 +277,7 @@ The most parsimonious explanation is that consciousness can transfer information
 
 ## Sarah Grynberg Interview (July 2026)
 
-Edward's third appearance on Sarah Grynberg's *A Life of Greatness* podcast (July 2026) is summarized with the other dated interview appearances in [John Edward: Interviews](./john-edward-interviews.md). [60]
+Edward's third appearance on Sarah Grynberg's *A Life of Greatness* podcast (July 2026) is summarized with the other dated interview appearances in [John Edward: Interviews](./john-edward-interviews). [60]
 
 ---
 

@@ -6,7 +6,7 @@ cross-post-from: rec/arts/magic/mindfreak.md
 
 # Criss Angel's Mindfreak Seance Episodes
 
-*Cross-posted from [/teos/rec/arts/magic/mindfreak.md](/teos/rec/arts/magic/mindfreak.md)*
+*Cross-posted from [/teos/rec/arts/magic/mindfreak](/teos/rec/arts/magic/mindfreak)*
 
 Criss Angel, best known as a magician and star of A&E's "Criss Angel Mindfreak" (2005-2010), conducted two seance-themed episodes around Halloween, attempting to prove whether the living can communicate with the dead.
 
