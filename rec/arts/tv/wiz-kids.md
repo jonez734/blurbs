@@ -77,16 +77,143 @@ The series was placed on Wednesdays at 8 PM as a lead-in against Real People and
 
 ---
 
-## Notable Episodes
+## Most Memorable Episodes
 
-- **"Programmed for Murder"** (October 5, 1983) — Pilot. The Whiz Kids discover a skeleton on property coveted by a development corporation and team up with Gazette reporter Gallagher (Michael Horton).
-- **"Deadly Access"** (October 26, 1983) — Richie tests security for a chemical company and the security chief vanishes. Jameson Parker crosses over from Simon & Simon as A.J. Simon.
-- **"Airwave Anarchy"** (November 16, 1983) — The kids investigate sabotage of the LAPD's new Mobile Data Terminal dispatch system. A surprisingly prescient episode.
-- **"Red Star Rising"** (December 21, 1983) — Cold War intrigue, industrial espionage, and Soviet agents, with a school book report subplot.
-- **"Amen to Amen-Re"** (January 28, 1984) — An Egyptian curse may explain Farley's uncharacteristic behavior. Zelda Rubinstein guest stars.
-- **"The Sufi Project"** (March 17, 1984) — A marine biologist's disappearance involves computerized communication with dolphins.
-- **"Father's Day"** (April 21, 1984) — Alice's new boyfriend is being sought by a KGB agent.
-- **"May I Take Your Order Please?"** (June 2, 1984) — The final, sporadically-aired episode. Alice overhears two men planning a murder.
+The full run was 18 episodes. The following are the ones fans and reviewers still talk about.
+
+### 1. "Programmed for Murder" (October 5, 1983) — Pilot
+- **Directed by:** Corey Allen
+- **Written by:** Philip DeGuere & Bob Shayne
+- **Plot:** The Whiz Kids discover a skeleton on property coveted by a development corporation and join forces with *LA Gazette* reporter Gallagher. To crack the case, Richie and friends use Ralf to access the school computer, the county clerk's office, and the newspaper's own systems—exactly the pattern that drew pre-air fire from critics.
+- **Guest cast:** Michael Horton (Gallagher), Richard Anderson, Sal Viscuso, Vonetta McGee, James Luisi, April Clough, Lisa Janz, Jeannie Wilson.
+- **Behind the scenes:** This is the original pilot as screened at the Phoenix press conference in June 1983. After the backlash, CBS ordered revisions—including the addition of Farley and Lt. Quinn—but the basic plot of the pilot was retained. The IBM 3279 terminal painted black appears in this episode as a prop.
+- **Bloopers / goofs:** Richie supposedly sources his gear from his father's cast-off telecom equipment, but the set-dressing puts tens of thousands of dollars of hardware in his bedroom with no on-screen explanation of how he afforded it. The *NYT* reviewer's chief complaint.
+
+### 2. "Fatal Error" (October 19, 1983)
+- **Directed by:** Corey Allen
+- **Written by:** Tom Sawyer
+- **Plot:** While play-testing a computer game online, the Whiz Kids inadvertently get involved with a prison inmate (Dave Kerns) who programmed it. The game secretly models the prison's security system; when Richie solves it, the inmate uses the solution to escape. Farley investigates the original crime that put Kerns away.
+- **Guest cast:** David Ackroyd (Dave Kerns), Mabel King (Velma Sherry), Joanna Kerns (Cassie Suiter), Greg Mullavey, Pamela Susan Shoop, Richard Minchenberg.
+- **Trivia:** Almost a dry run for *WarGames*'s WOPR scenario, in that a teen unwittingly cracks a security system that turns out to have real-world consequences. Aired five months after *WarGames* hit theaters.
+
+### 3. "Deadly Access" (October 26, 1983)
+- **Directed by:** Corey Allen
+- **Written by:** James Crocker
+- **Plot:** Richie is hired to test the security of a chemical company's computer and discovers a secret water project buried in the system. The security chief who hired him vanishes after receiving Richie's report. The Whiz Kids cross paths with A.J. Simon from *Simon & Simon*.
+- **Guest cast:** Jameson Parker (A.J. Simon — crossover), Robert Clotworthy, David Ackroyd, Don Dubbins, Francis X. McCarthy, Gary Frank, George Loros.
+- **Trivia:** Parker crossed over to *Whiz Kids* the night before the Whiz Kids appeared on *Simon & Simon*'s "Fly the Alibi Skies" (10/27/83). The two-parter crossovers were DeGuere's pet project and effectively a backdoor pilot for cross-promotion between his two CBS shows.
+
+### 4. "Candidate for Murder" (November 2, 1983)
+- **Directed by:** Bernard L. Kowalski
+- **Written by:** Bob Shayne
+- **Plot:** A *Gazette* photographer accidentally photographs a wanted man; the resulting murder and a political cover-up intersect with Jeremy's school-assigned interview of a senator running for office. Farley and the Whiz Kids have to extract Jeremy before the cover-up reaches him.
+- **Guest cast:** Michael Young (Senator Boyd), James Luisi, Vonetta McGee, Tom Simcox, Joanna Kerns, Darryl Hickman, Anthony Charnota.
+- **Trivia:** One of the few episodes that foregrounds Jeremy (Jeffrey Jacquet) rather than Richie. Early-season Bob Shayne script, before he departed the show mid-run.
+
+### 5. "A Chip Off the Old Block" (November 9, 1983)
+- **Directed by:** Vincent McEveety
+- **Written by:** Philip DeGuere
+- **Plot:** A student's hacking of a local bank intersects with a million-dollar heist by two bank insiders. The Whiz Kids help the police and Farley sort out who is who.
+- **Guest cast:** Jackie Earle Haley (Harlan), Robbie Rist, Daryl Anderson, Darryl Hickman, Mario Roccuzzo, Jodean Lawrence.
+- **Trivia:** Jackie Earle Haley, then between *The Bad News Bears* and his long adult-career comeback, plays a bank embezzlement suspect. Robbie Rist—already famous as Cousin Oliver on *The Brady Bunch*—appears in a small role; he'd previously played a kid hacker on *Simon & Simon*, the episode that originally inspired DeGuere's computer-kid concept.
+
+### 6. "Airwave Anarchy" (November 16, 1983)
+- **Directed by:** James Sheldon
+- **Written by:** Joe Gannon
+- **Plot:** The LAPD has rolled out a new Mobile Data Terminal dispatch system—the first computer-aided police dispatch in the city. It's been sabotaged by a team of thieves who use the disruption to rob without police response. The Whiz Kids and Farley help the department untangle the hack.
+- **Guest cast:** Guy Stockwell, Allan Miller, Anthony James, Barbara Cason.
+- **Trivia:** Ralf's visit to an electronics shop to compare a Commodore PET is one of the most quoted "computer on TV" moments from the series. The plot is a strikingly accurate prediction of real-world 911/MDT outages and the kind of public-safety attacks later attempted on PSAPs.
+
+### 7. "Return of the Big Rocker" (November 23, 1983)
+- **Directed by:** Barry Crane
+- **Written by:** Paul Magistretti
+- **Plot:** The Whiz Kids start a techno-pop band to earn spending money and get pulled into a case involving a long-dead rock star whose doppelgänger has resurfaced in LA, fronted by a record-company scheme.
+- **Guest cast:** Marjoe Gortner, Sal Viscuso, Robbie Rist, Mabel King.
+- **Trivia:** Marjoe Gortner—the evangelist-turned-actor who won an Oscar for the 1972 documentary *Marjoe*—plays the music-biz schemer. According to Laborteaux in the *UPI* interview, the band-as-sideline was partly a nod to the cast's real interest in synth-pop; Laborteaux was an Atari advisory-board member and competitive video-gamer in his own right.
+
+### 8. "The Wrong Mr. Wright" (November 30, 1983)
+- **Directed by:** Michael Hamilton
+- **Written by:** Arthur Weingarten & Bob Shayne (story); Phil Combest (teleplay)
+- **Plot:** The Whiz Kids enroll Richie's widowed mother Irene in a computer dating service, which leads them into the investigation of a suicide.
+- **Guest cast:** Warwick Sims, Scott Stevensen, Anthony Charnota, Adrienne DeGuere (Linda/Lisa).
+- **Trivia:** A rare focus on the Adler family. Irene (Madelyn Cain) is usually a peripheral character bringing sandwiches; here she's the catalyst.
+
+### 9. "Red Star Rising" (December 21, 1983)
+- **Directed by:** John Newland
+- **Written by:** Joe Gannon (teleplay); Andy Guerdat & Steve Kreinberg (story/teleplay)
+- **Plot:** A neighbor's satellite dish interferes with Ralf and the kids suspect industrial espionage. The transmissions turn out to be a Soviet operation. Ham has a school book report on classic romance due, providing comic-relief contrast to the Cold War thriller.
+- **Guest cast:** Christopher Stone, John Pleshette, William Hootkins, Gary Frank, James Whitmore Jr.
+- **Trivia:** This is the most cited episode in retrospective hacker-history writing because the kids are shown wardialing and using a school's Atari 800 to recreate Ralf's operating system after its malfunction, then dialing out via a 1200-baud modem to NASA to track the satellite. Considered a high-water mark for the show's tech depiction.
+
+### 10. "The Network" (January 7, 1984)
+- **Directed by:** Hollingsworth Morse
+- **Written by:** James Crocker & Philip DeGuere
+- **Plot:** The kids pick up a message on their school's computer bulletin board from a notorious hacker called "The Wrench," and inadvertently land on the National Security Agency's radar. Farley, Richie's overseas father (Don Adler), and local law enforcement have to extract them from federal attention.
+- **Guest cast:** Wayne Morton, Barbara Brownell, Michael Boyle, Joseph Hacker, Jim McMullan (Don Adler).
+- **Trivia:** Jim McMullan, who'd played Richie's dad Don in *Little House on the Prairie*'s later seasons, returns as Don Adler here—a deliberate continuity nod. The episode was the first to air after CBS moved the show from Wednesdays to Saturdays.
+
+### 11. "Watch Out!" (January 14, 1984)
+- **Directed by:** Dennis Donnelly
+- **Written by:** James Crocker
+- **Plot:** A children's television advocate claims that his show's ratings are being deliberately torpedoed by someone inside the network. The Whiz Kids investigate.
+- **Guest cast:** Gerrit Graham (Jerry Bingers), Eric Server, Belinda Montgomery, David Groh, Eddie Barth, Jeff Corey.
+- **Trivia:** Gerrit Graham, then fresh off *Indiana Jones and the Temple of Doom*'s hit-and-run driver, chews scenery as a sleazy network exec. The episode's media-industry target was unusually self-referential for a kids' show.
+
+### 12. "Amen to Amen-Re" (January 28, 1984)
+- **Directed by:** Alf Kjellin
+- **Written by:** Paul Magistretti
+- **Plot:** The Whiz Kids uncover an ancient Egyptian curse that may account for Farley's uncharacteristic behavior while investigating the disappearance of an antiquities scholar.
+- **Guest cast:** Kay Lenz (Helen Langton), William Boyett, Zelda Rubinstein (Madame Zerleena).
+- **Trivia:** Zelda Rubinstein, then at her *Poltergeist* peak, plays a fortune-teller. Kay Lenz is the wife of *David Cassidy* producer-writer David Lenz at the time.
+
+### 13. "Maid in the USA" (February 4, 1984)
+- **Directed by:** Max Gail
+- **Written by:** James Crocker
+- **Plot:** The Whiz Kids find that Richie's house is being bugged—possibly connected to the family's new housekeeper.
+- **Guest cast:** Reid Shelton, Adrienne DeGuere.
+- **Trivia:** Max Gail, who plays Llewellen Farley, directed this episode—making him the only regular cast member to direct an installment.
+
+### 14. "The Lollypop Gang Strikes Back" (February 25, 1984)
+- **Directed by:** Dennis Donnelly
+- **Written by:** Lynn Barker
+- **Plot:** The elderly Lollypop Gang, last seen decades earlier, is robbing small markets again. The Whiz Kids try to figure out who's behind the copycat crew.
+- **Guest cast:** Sylvia Sidney (Dolly), Elisha Cook Jr. (Sid), Dan O'Herlihy (Carson Marsh).
+- **Trivia:** A remarkable trio of veteran character actors in one episode. Sylvia Sidney (b. 1910) was a 1920s silent-film star and future *Sweet Sweetback* and *Damien: Omen II* actress; Elisha Cook Jr. (b. 1903) was the perennial nervous-bystander of classic noir (*The Maltese Falcon*, *The Big Sleep*); Dan O'Herlihy (b. 1919) was the 1953 *Invaders from Mars* lead and a two-time Oscar nominee.
+
+### 15. "The Sufi Project" (March 17, 1984)
+- **Directed by:** Georg Fenady
+- **Written by:** Philip DeGuere & James Crocker (story); Don Boudry (teleplay)
+- **Plot:** The Whiz Kids unravel the mystery of the disappearance of a marine biologist whose work involves computerized communication with dolphins.
+- **Guest cast:** Pamela Susan Shoop, Keene Curtis, M. C. Gainey, Dan O'Herlihy.
+- **Trivia:** The most eccentric premise in the series. M. C. Gainey, later a prolific character actor (*Dukes of Hazzard*, *Lost*, *Django Unchained*), plays one of the supporting roles.
+
+### 16. "Father's Day" (April 21, 1984)
+- **Directed by:** Hollingsworth Morse
+- **Written by:** Craig Buck
+- **Plot:** Alice starts dating a senator's daughter. Farley is pulled into a case of political corruption and illegal arms manufacturing; the Whiz Kids try to save a local park threatened by development.
+- **Guest cast:** John Reilly, Brad Savage, Peter Brown, Sharon Acker, Jim McKrell, Bruce M. Fischer, Dan O'Herlihy.
+- **Trivia:** Dan O'Herlihy's fourth and final appearance of the season.
+
+### 17. "Altaira" (April 28, 1984)
+- **Directed by:** Georg Fenady
+- **Written by:** Jill Gordon (story); Lynn Barker (teleplay)
+- **Plot:** Richie falls for a senator's daughter who may not be all she appears, pulling Farley into a case of political corruption and arms manufacturing.
+- **Guest cast:** Tammy Taylor (Laura Calhane), Scott Brady (Keller), Alex Kubik, Dan O'Herlihy.
+- **Trivia:** Scott Brady (b. 1924), brother of Lawrence Tierney and a 1950s B-movie Western lead, plays one of his later roles here. The title "Altaira" is a reference to Anne Francis's character in *Forbidden Planet* (1956)—DeGuere was a classic sci-fi fan.
+
+### 18. "May I Take Your Order Please?" (June 2, 1984) — Series Finale
+- **Directed by:** Lawrence Levy
+- **Written by:** Tim Maschler
+- **Plot:** The Whiz Kids disbelieve Alice when she claims to have overheard two men planning a murder.
+- **Guest cast:** Charles Napier, Bart Braverman, Larry Gelman, Sandy Helberg.
+- **Trivia:** The final episode, "burned off" in a single Saturday-night airing months after the show had effectively been cancelled. Charles Napier (b. 1936), a Stallone and *Star Trek* veteran, plays the lead heavy. The Athena Society arc that producers had been building toward was abandoned.
+
+### Behind-the-scenes trivia common to multiple episodes
+- **The "Ralf malfunction" gag** recurs across at least three episodes (Deadly Access, Red Star Rising, Watch Out!)—a stock trick for the writers when they needed to explain why Ralf couldn't just solve the case in the first five minutes.
+- **Laborteaux and the cameras:** Per Laborteaux in *UPI*, "It's a tough show because working with computers is like working with animals … We keep doing a scene until the computer gets it right, no matter how I may have goofed up." Votrax-driven Ralf took many takes because the synthesized speech had to time out with actor reactions.
+- **Anachronism / goofs:** In Episode 11, Richie complains that a substitute computer lacks a disk drive, 48K, interrupts, and error correction—then in Episode 17 calls Ralf a "64K homebrewed computer." Hardcore fans have debated whether Ralf had 48K, 64K, or "more" across the run.
+- **Wardrobe consistency:** Laborteaux confirmed his plaid-shirt, white-socks, jeans-rolled-at-the-ankle look was deliberate 1983 nerd-costuming; his friends teased him about "playing a computer nerd."
+- **Matthew Broderick connection:** Broderick's *WarGames* character was originally scripted with a reference to Laborteaux's *Little House* role in one cut; that line was reportedly removed before release.
 
 ---
 
