@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-06-19 02:14:10 GMT (22:14:10 NYC)
+date: 2026-08-22 14:33:40 GMT (10:33:40 NYC)
 ---
 
 # Penn & Teller
@@ -57,6 +57,9 @@ Penn & Teller host the TV show "Penn & Teller: Fool Us" (The CW), where magician
 
 **Most Fooled Record:**
 - **Helen Coghlan** (Australia) - The first person to fool Penn & Teller a record **six times** (as of December 2023). She is an escapologist from the Gold Coast, Queensland, and daughter of Australian magician Arthur Coghlan. - [Watch on Flixxy](https://www.flixxy.com/helen-coghlan-becomes-the-first-person-to-fool-penn-and-teller-5-times.htm)
+
+**Notable Original Act (Did Not Fool Them):**
+- **D.K. (Kyoung Doc, South Korea)** - Silent shadow magic inspired by Teller's own "Shadows" piece. The screen itself is the secret — it both conceals and executes the magic. Did NOT fool Penn & Teller (Season 7, Episode 3 "Fool Us: The Home Game," aired July 6, 2020), but Penn called it "my favorite" and "beautiful." The act previously won "Most Original Close-Up Act" at FISM 2018 in Busan. [Watch on YouTube: *Fool us Penn and Teller DK's Shadow act*](https://www.youtube.com/watch?v=v_SbVMyVzk0) *(DK's official channel; 10 min 9 sec; for the act-only viewing without Penn & Teller's commentary, scrub to ~0:30 and stop at ~8:20)*
 
 ## References
 
