@@ -5,7 +5,7 @@ date: 2026-08-25 12:00:00 GMT (08:00:00 NYC)
 
 # "Officer of the Day"
 
-Season 3, Episode 3 (September 24, 1974). Written by Patrick McCormick; Directed by Don Weis.
+Season 3, Episode 3 (September 24, 1974). Written by Laurence Marks; Directed by Hy Averback.
 
 One of the more pointedly anti-war episodes of the early run, "Officer of the Day" puts Hawkeye in charge of the 4077th for a day—meaning he has to handle every administrative, disciplinary, and bureaucratic decision that comes across his desk while the regular command staff rests [1].
 
