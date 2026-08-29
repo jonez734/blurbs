@@ -1,3 +1,8 @@
+---
+folder-path: rec/arts/tv/
+date: 2026-08-22 21:19:58 GMT (17:19:58 NYC)
+---
+
 **Quantum Leap** (1989–1993) is a sci-fi series following Dr. Sam Beckett, a physicist who is trapped in time, leaping into different people each episode and "putting right what once went wrong." Guided only by his hologram sidekick Al, Sam navigates past lives—from a pilot to a boxer to an undercover agent—while searching for a way home. Created by Donald P. Bellisario, the show blends heartfelt drama, fish-out-of-body comedy, and '80s nostalgia into one of the era's most beloved TV journeys. With its mix of romance, action, and the eternal question of destiny, it remains a touchstone of thoughtful television—proving a single man could change the world, one leap at a time.
 
 - [Quantum Leap (1989): 15 Weird Facts You Didn't Know](https://www.youtube.com/watch?v=-M0HaPuQgjo)

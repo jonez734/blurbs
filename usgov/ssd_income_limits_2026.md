@@ -1,6 +1,6 @@
 ---
 title: "Working While Receiving Social Security Disability: Gross Income Limits and Work Incentives"
-date: 2026-07-25
+date: 2026-08-12 01:30:32 GMT (21:30:32 NYC)
 author: "usgov"
 description: "Comprehensive guide to gross income limits, work incentives, and self-employment rules for SSDI beneficiaries (2026 figures)"
 tags:

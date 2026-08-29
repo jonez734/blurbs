@@ -1,3 +1,8 @@
+---
+folder-path: rec/arts/tv/
+date: 2026-08-12 01:30:32 GMT (21:30:32 NYC)
+---
+
 # Lucille Ball
 
 **Lucille Ball** (1911–1989) was an iconic American actress, comedian, and producer, best known for her starring role in *I Love Lucy* (1951–1957). She and her husband Desi Arnaz co-founded Desilu Productions, one of the most successful independent production companies in Hollywood history, operating out of the former RKO Studios lot.

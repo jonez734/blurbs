@@ -1,3 +1,8 @@
+---
+folder-path: rec/arts/movies/
+date: 2026-08-12 01:30:32 GMT (21:30:32 NYC)
+---
+
 # Project Hail Mary (2026)
 
 **Project Hail Mary** is a 2026 science fiction film directed by Phil Lord and Christopher Miller, written by Drew Goddard (his second Andy Weir adaptation after *The Martian*), and starring Ryan Gosling as Ryland Grace — a middle school science teacher and former molecular biologist who wakes up aboard an interstellar spacecraft with no memory of who he is or why he's hurtling through space. [1][2]

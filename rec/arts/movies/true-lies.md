@@ -1,3 +1,8 @@
+---
+folder-path: rec/arts/movies/
+date: 2026-08-12 01:30:32 GMT (21:30:32 NYC)
+---
+
 # True Lies (1994)
 
 **True Lies** is a 1994 action comedy written and directed by James Cameron, starring Arnold Schwarzenegger as Harry Tasker — a top-secret U.S. government agent in the ultra-secret Omega Sector whose wife thinks he's a boring computer salesman. Jamie Lee Curtis plays Helen Tasker, the unknowing spouse who gets pulled into her husband's double life when identities collide and international terrorists enter the picture. The supporting cast includes Tom Arnold as Harry's sardonic partner Gib, Bill Paxton as a slimy used-car salesman posing as a spy, Tia Carrere as the villainous art dealer Juno Skinner, and Charlton Heston in a brief turn as Spencer Trilby, Harry's director at the Omega Sector. [1]
