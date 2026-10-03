@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-10-01 00:00:00
+date: 2026-10-03 00:00:00
 ---
 
 # The Piddingtons (Sid and Lesley)
@@ -8,11 +8,13 @@ date: 2026-10-01 00:00:00
 Sydney George Piddington (14 May 1918 – 29 January 1991) and Lesley Pope
 Piddington (1925 – 2 August 2016) were an Australian husband-and-wife
 mentalism team known professionally as **The Piddingtons**. Performing
-between the late 1940s and the late 1960s, they are regarded as one of
-the most famous stage and radio "telepathy" acts of the twentieth
-century. The Piddingtons never revealed their working methods but also
-never claimed to possess genuine paranormal powers — they were, in the
-truest sense, mentalists.
+between the late 1940s and 1952 (with a brief late-1970s revival), they
+are regarded as one of the most famous stage and radio "telepathy" acts
+of the twentieth century. The Piddingtons never revealed their working
+methods but also never claimed to possess genuine paranormal powers —
+they were, in the truest sense, mentalists. See [Why They Stopped
+Performing](#why-they-stopped-performing) for the end of the original
+act.
 
 ## Background
 
@@ -133,6 +135,59 @@ worked on the BBC broadcasts and had the opportunity to observe the
 act at close quarters. The Piddingtons' estate has not, as far as
 public reporting goes, confirmed or denied the claims in the book.
 
+## Why They Stopped Performing
+
+The original Piddingtons act came to an end after their last BBC radio
+broadcast on **Friday, 13 June 1952**. The couple then returned to
+Australia to raise a family, and the act was formally retired
+(Magicpedia: "After their final radio show on Friday, June 13, 1952,
+they quit to return to Australia and raise a family"; ADB: "They
+eventually retired the act in 1952"). Sydney and Lesley later divorced
+— the [Australian Dictionary of
+Biography](https://adb.anu.edu.au/biography/piddington-sydney-george-15219)
+dates the divorce to 1966.
+
+Magicpedia and the ADB do not give a single definitive reason for the
+retirement, but the contemporary record points to a combination of
+practical pressures and a deliberate choice to quit at the top:
+
+- **Audience reach had peaked.** Gemini, when asked why the Piddingtons
+  stopped performing, reports that their final BBC season was drawing
+  an estimated 20 million weekly listeners — close to 40% of the
+  population of Britain at the time. That figure does not appear in
+  Wikipedia, Magicpedia or the ADB, and should be treated as a
+  Gemini-asserted statistic rather than a sourced one.
+- **The dramatic set-pieces were becoming unsustainable.** The act's
+  signature demonstrations (the Tower of London guard, the Surrey
+  diving bell, the 15,000-foot flight above Bristol) required an
+  expanding web of [BBC](https://en.wikipedia.org/wiki/BBC) staff,
+  military personnel, and stage crew to coordinate. According to the
+  ADB, it was Sydney's manager [Russell
+  Braddon](https://en.wikipedia.org/wiki/Russell_Braddon) — himself a
+  Changi veteran and the author of *The Piddingtons* (1950) — who
+  personally selected and dispatched Lesley to each new location.
+- **They chose to preserve the mystery.** The Piddingtons never
+  publicly claimed genuine [ESP](https://en.wikipedia.org/wiki/Extrasensory_perception),
+  and their public tagline — *"You are the judges"* — explicitly framed
+  the act as an unsolved puzzle for the audience. Retiring before a
+  magician or investigator could publicly reconstruct the method on a
+  bad night was, in this framing, part of the long-term value of the
+  act. The ADB notes that, even decades later, "when interviewed over
+  the decades, they gave evasive responses," and a letter Braddon
+  wrote to his mother in 1949 hinted that the act "relied on 'a memory
+  system'" without elaborating.
+
+The retirement was not the end of Sydney's stage career. In 1975,
+Sydney was asked to take part in a charity show at the [Sydney Opera
+House](https://en.wikipedia.org/wiki/Sydney_Opera_House) with his
+second wife, Robyn Greig, and the pair relaunched the act as "the new
+Piddingtons" (Magicpedia; ADB). The revived act generated publicity
+stunts of its own — including a "transmission" from 100 nautical miles
+out to sea aboard a Russian liner to a Sydney radio studio — but it
+never reached the cultural footprint of the original 1949–1952
+broadcasts. Sydney died of cancer of the larynx in 1991; Lesley
+survived him by 25 years, dying on 2 August 2016.
+
 ## Legacy
 
 The Piddingtons are widely cited as one of the greatest two-person
@@ -181,5 +236,7 @@ which discusses the Piddingtons alongside other twentieth-century
 [15] [Hart, Martin. *Piddington's Secrets*. Manipulatist Books, 2015.](https://www.amazon.com/s?k=Piddington%27s+Secrets+Martin+Hart&tag=piddingtonsblurbs-20)
 [16] [Lamont, Peter. *Extraordinary Beliefs*. Cambridge University Press, 2013.](https://en.wikipedia.org/wiki/Extraordinary_Beliefs)
 [17] [Thouless, Robert H. *Experimental Psychical Research*. Penguin, 1963.](https://en.wikipedia.org/wiki/Experimental_Psychical_Research)
+[18] [Magicpedia - Sydney Piddington](https://www.magicpedia.com/index.php?title=Sydney_Piddington)
+[19] [Google Gemini (AI Mode) — "Why did the Piddingtons stop performing?"](https://share.google/aimode/0xlYvJp5Y36PCQpAz) — used only for the 20-million-listener statistic attributed to the BBC audience reach at the time of the 1952 retirement. Not used as a sole source for any other claim; figures and details from this source are flagged inline as Gemini-asserted.
 
 *Disclosure: This page contains Amazon affiliate links. If you purchase through these links, this site may earn a commission.*
