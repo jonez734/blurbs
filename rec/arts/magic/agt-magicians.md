@@ -39,6 +39,10 @@ Ploeger specializes in close-up magic and sleight of hand, combining technical m
 
 During the COVID-19 pandemic, Ploeger pivoted to a virtual show, performing for remote teams at Comcast, Target, Salesforce, USAA, Santander Bank, and more than 50 other companies, and he has headlined the Customer Contact Week gala at the Mirage in Las Vegas three years running. He has been profiled by The Arizona Republic, KJZZ 91.5 FM, and Genii Magazine (the latter covering a 2026 Netflix appearance alongside comedian Matt Rife).
 
+### Young & Strange (Season 21, 2026 — Semifinalist)
+
+Young & Strange, a British comedy magic and illusion duo (Richard Young and Sam Strange), advanced to the semifinals of America's Got Talent Season 21 in 2026, finishing in the Top 11 after being eliminated in the September 16 results show. They performed a "world-first grand illusion" — an open-sided metamorphosis box — in Quarter-final 4 (September 8), prompting Heidi Klum's on-air comment: "I could see this in Vegas!" For full profile, see [Young & Strange](young-and-strange.md).
+
 ## References
 
 [1] [Wikipedia - Mat Franco](https://en.wikipedia.org/wiki/Mat_Franco)
@@ -56,3 +60,5 @@ During the COVID-19 pandemic, Ploeger pivoted to a virtual show, performing for 
 [7] [Geno Ploeger - Official Website](https://www.genoploegermagic.com/about)
 
 [8] [The Arizona Republic - Young Arizona Magician Geno Ploeger](https://www.azcentral.com/story/news/local/phoenix/2024/09/29/young-arizona-magician-geno-ploeger/75283108007/)
+
+[9] [Young & Strange - AGT Wiki](https://agt.fandom.com/wiki/Young_%26_Strange)
