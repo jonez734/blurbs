@@ -1,6 +1,6 @@
 ---
 folder-path: rec/arts/magic/
-date: 2026-06-19 02:30:00 GMT (22:30:00 NYC)
+date: 2026-10-04 02:30:00 GMT (22:30:00 NYC)
 ---
 
 # America's Got Talent (AGT) Magicians
@@ -31,6 +31,14 @@ Jon Dorenbos is a former NFL long snapper (Philadelphia Eagles) who finished in 
 
 An Austrian magician and mentalist duo who finished in second place on Season 11, behind winner Grace VanderWaal.
 
+### Geno Ploeger (Season 21, 2026 — Runner-up)
+
+Geno Ploeger, a 21-year-old close-up magician based in Phoenix, Arizona, finished as the **runner-up** on Season 21 (2026) of America's Got Talent, placing behind winner Nene Royal and ahead of magician group Hundred Fingers (third place). He advanced out of Quarter-final 2 (August 25, 2026) and the Semi-final (September 15, 2026) before reaching the finale on September 23, 2026, where he shared the stage with prior AGT winner Mat Franco (Season 9), Eric Nam, and Sydney McLaughlin-Levrone. Simon Cowell praised his "incredible enthusiasm, love for magic"; Howie Mandel called him "so entertaining... so professional"; and Mel B summed it up best with "Shut the front door."
+
+Ploeger specializes in close-up magic and sleight of hand, combining technical mastery with emotional storytelling. He discovered magic at age five after watching his grandfather make a card vanish at a Thanksgiving dinner. As a student at Arizona State University (double-majoring in Acting and Marketing), he studied at Big Guy's Magic Shop under Brian LeBoeuf and went on to win first place in the International Brotherhood of Magicians Adult Close-Up Competition in Tacoma, Washington — one of the youngest magicians ever to win it. He is a full member of the Academy of Magical Arts at the Magic Castle in Hollywood and mentors young magicians through the Lance Burton Teen Seminar.
+
+During the COVID-19 pandemic, Ploeger pivoted to a virtual show, performing for remote teams at Comcast, Target, Salesforce, USAA, Santander Bank, and more than 50 other companies, and he has headlined the Customer Contact Week gala at the Mirage in Las Vegas three years running. He has been profiled by The Arizona Republic, KJZZ 91.5 FM, and Genii Magazine (the latter covering a 2026 Netflix appearance alongside comedian Matt Rife).
+
 ## References
 
 [1] [Wikipedia - Mat Franco](https://en.wikipedia.org/wiki/Mat_Franco)
@@ -42,3 +50,9 @@ An Austrian magician and mentalist duo who finished in second place on Season 11
 [4] [Wikipedia - Jon Dorenbos](https://en.wikipedia.org/wiki/Jon_Dorenbos)
 
 [5] [Jon Dorenbos - Keynote Speaker](https://www.jondorenbos.com/)
+
+[6] [Wikipedia - America's Got Talent Season 21](https://en.wikipedia.org/wiki/America%27s_Got_Talent_season_21)
+
+[7] [Geno Ploeger - Official Website](https://www.genoploegermagic.com/about)
+
+[8] [The Arizona Republic - Young Arizona Magician Geno Ploeger](https://www.azcentral.com/story/news/local/phoenix/2024/09/29/young-arizona-magician-geno-ploeger/75283108007/)
