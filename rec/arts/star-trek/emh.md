@@ -141,4 +141,4 @@ Tom Paris's line in *"Endgame"* — *"it took you 33 years to come up with 'Joe'
 
 [12] [Memory Alpha — Star Trek: Prodigy](https://memory-alpha.fandom.com/wiki/Star_Trek:_Prodigy)
 
-See also: [TNG People](tng-people), [Star Trek Crossovers](tng-crossovers), [AI in Sci-Fi TV](../sci-fi/ai-in-sci-fi-tv.md).
+See also: [TNG People](tng-people), [Star Trek Crossovers](tng-crossovers), [AI in Sci-Fi TV](../sci-fi/ai-in-sci-fi-tv.md), [AI in Movies and TV (1975-present overview)](../sci-fi/ai-in-movies-and-tv.md).
