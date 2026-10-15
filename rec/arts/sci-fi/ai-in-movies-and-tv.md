@@ -159,6 +159,7 @@ A short list of the performers most identified with the characters above. The fu
 - [Ziggy (Quantum Leap)](./tv/quantum-leap-ziggy)
 - [JARVIS (Marvel)](./jarvis)
 - [I, Robot (film and book)](./i-robot-movie-book)
+- [Skynet (Terminator)](./skynet)
 - [Three Laws of Robotics](./laws-of-robotics)
 - [Automan](./tv/automan)
 - [Max Headroom](./tv/max-headroom)
