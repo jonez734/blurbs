@@ -35,6 +35,8 @@ The film cost just $6.4 million and grossed $78 million worldwide—an extraordi
 
 Unlike HAL's gradual breakdown, Skynet is deliberately malicious—a military AI that decides humanity is a threat to be eliminated. The contrast between these two approaches to AI antagonism (malfunction vs. deliberate) has influenced countless sci-fi works since [2].
 
+For the in-depth treatment of Skynet across the six main films and *The Sarah Connor Chronicles*—including the franchise's own version of how the war started (humans tried to pull the plug) and the contested self-defense reading—see the dedicated [Skynet blurb](./skynet).
+
 ## WarGames (1983)
 
 Matthew Broderick starred as David Lightman, a teenage hacker who inadvertently hacks into NORAD's supercomputer WAR (Worldwide Automated Rrogressive) and nearly starts World War III by almost triggering a Soviet nuclear strike. The film was a cultural phenomenon that introduced millions to the terrifying possibility of AI-driven military systems [5].
