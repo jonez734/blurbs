@@ -91,6 +91,8 @@ Hasselhoff has been married to Welsh model Hayley Roberts since 2018. He was pre
 
 ---
 
+See also: [AI in Movies and TV (1975-present overview)](../ai-in-movies-and-tv.md), [AI in Sci-Fi TV](../ai-in-sci-fi-tv.md).
+
 [1] [Knight Rider - Wikipedia](https://en.wikipedia.org/wiki/Knight_Rider_(TV_series))
 
 [2] [KARR - Knight Rider Fandom](https://knight-rider.fandom.com/wiki/K.A.R.R.)
