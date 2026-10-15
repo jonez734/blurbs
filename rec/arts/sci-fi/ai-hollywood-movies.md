@@ -121,6 +121,8 @@ See the dedicated JARVIS article for more details.
 
 ---
 
+For a unified overview of AI across movies and TV from 1975 onward, see the [AI in Movies and TV](./ai-in-movies-and-tv) article.
+
 For AI in television, see the AI in Sci-Fi TV article. For I, Robot details, see the I, Robot article.
 
 [1] [2001: A Space Odyssey - Wikipedia](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
