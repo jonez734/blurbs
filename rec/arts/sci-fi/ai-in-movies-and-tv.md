@@ -161,6 +161,7 @@ A short list of the performers most identified with the characters above. The fu
 - [I, Robot (film and book)](./i-robot-movie-book)
 - [Skynet (Terminator)](./skynet)
 - [Three Laws of Robotics](./laws-of-robotics)
+- [Tron (franchise)](./tron)
 - [Automan](./tv/automan)
 - [Max Headroom](./tv/max-headroom)
 - [The Star Trek Computer (LCARS)](./tv/star-trek-computer-lcars)
