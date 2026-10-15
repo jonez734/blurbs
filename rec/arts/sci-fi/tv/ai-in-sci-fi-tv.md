@@ -65,6 +65,8 @@ For more details, see the dedicated Star Trek Computer article.
 
 ---
 
+For a unified overview of AI across movies and TV from 1975 onward, see the [AI in Movies and TV](../ai-in-movies-and-tv) article.
+
 For AI in movies, see the Hollywood Movies article.
 
 [1] [Data - Memory Alpha](https://memory-alpha.fandom.com/wiki/Data)
