@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/magic/, ec/
+folder-path: rec.arts.magic, ec
 date: 2026-06-20 04:36:09 GMT (00:36:09 NYC)
 ---
 

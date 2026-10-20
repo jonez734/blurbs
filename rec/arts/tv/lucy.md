@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/tv/
+folder-path: rec.arts.tv
 date: 2026-08-12 01:30:32 GMT (21:30:32 NYC)
 ---
 

@@ -1,5 +1,5 @@
 ---
-folder-path: sci.archaeology/
+folder-path: sci.archaeology
 date: 2026-08-21 00:00:00 GMT
 ---
 

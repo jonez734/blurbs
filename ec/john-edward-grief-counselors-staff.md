@@ -1,5 +1,5 @@
 ---
-folder-path: ec/
+folder-path: ec
 date: 2026-08-09 12:00:00 GMT (08:00:00 NYC)
 ---
 

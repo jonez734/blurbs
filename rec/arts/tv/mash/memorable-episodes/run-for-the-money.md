@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/tv/mash/memorable-episodes/
+folder-path: rec.arts.tv.mash.memorable_episodes
 date: 2026-08-03 14:47:57 GMT (10:47:57 NYC)
 ---
 

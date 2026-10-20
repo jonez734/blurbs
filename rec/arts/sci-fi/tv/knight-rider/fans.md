@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/sci-fi/tv/knight-rider/, rec/arts/sci-fi/tv/
+folder-path: rec.arts.sci_fi.tv.knight_rider, rec.arts.sci_fi.tv
 date: 2026-06-20 22:31:36 GMT (18:31:36 NYC)
 ---
 

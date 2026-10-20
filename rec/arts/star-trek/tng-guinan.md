@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/star-trek/, rec/arts/
+folder-path: rec.arts.star_trek, rec.arts
 date: 2026-07-11 02:11:52 GMT (22:11:52 NYC)
 ---
 

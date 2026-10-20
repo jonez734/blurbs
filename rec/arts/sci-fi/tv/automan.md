@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/sci-fi/tv/, rec/arts/sci-fi/
+folder-path: rec.arts.sci_fi.tv, rec.arts.sci_fi
 date: 2026-10-15 04:05:15 GMT (00:05:15 NYC)
 ---
 

@@ -1,5 +1,5 @@
 ---
-folder-path: rec/arts/tv/the-a-team/
+folder-path: rec.arts.tv.the_a_team
 date: 2026-06-20 21:44:41 GMT (17:44:41 NYC)
 ---
 

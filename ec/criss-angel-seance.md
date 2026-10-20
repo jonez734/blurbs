@@ -1,5 +1,5 @@
 ---
-folder-path: ec/
+folder-path: ec
 date: 2026-06-20 01:45:29 GMT (21:45:29 NYC)
 cross-post-from: rec/arts/magic/mindfreak.md
 ---

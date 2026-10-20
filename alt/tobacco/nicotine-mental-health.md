@@ -1,5 +1,5 @@
 ---
-folder-path: alt/tobacco/
+folder-path: alt.tobacco
 date: 2026-06-19 01:40:06 GMT (21:40:06 NYC)
 ---
 
