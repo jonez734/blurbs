@@ -93,7 +93,7 @@ copy-paths:
 					echo "CONFLICT: $$label matches both $$p and $$h" >&2; exit 1; \
 				elif [ -d "$$p" ]; then dir="$$p"; \
 				elif [ -d "$$h" ]; then dir="$$h"; \
-				else dir="$$p"; fi; \
+				else echo "NOT FOUND: $$label (tried $$p and $$h)" >&2; exit 1; fi; \
 				mkdir -p "$$dir"; \
 				if [ "$$f" != "$$dir/$$(basename "$$f")" ]; then \
 					cp "$$f" "$$dir/"; \
@@ -123,7 +123,7 @@ clean-copies:
 					echo "CONFLICT: $$label matches both $$p and $$h" >&2; exit 1; \
 				elif [ -d "$$p" ]; then dir="$$p"; \
 				elif [ -d "$$h" ]; then dir="$$h"; \
-				else dir="$$p"; fi; \
+				else echo "NOT FOUND: $$label (tried $$p and $$h)" >&2; exit 1; fi; \
 				if [ "$$dir/$$filename" != "$$f" ]; then \
 					rm -f "$$dir/$$filename"; \
 					echo "  Removed $$dir/$$filename"; \
