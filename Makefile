@@ -84,15 +84,20 @@ copy-paths:
 	@for f in $$(find . -name "*.md" -type f); do \
 		paths=$$(sed -n 's/^folder-path: //p' "$$f" 2>/dev/null); \
 		if [ -n "$$paths" ]; then \
-			IFS=',' read -ra DIRS <<< "$$paths"; \
-			for dir in "$${DIRS[@]}"; do \
-				dir=$$(echo "$$dir" | tr -d ' '); \
-				if [ "$$dir" != "." ] && [ -n "$$dir" ]; then \
-					mkdir -p "$$dir"; \
-					if [ "$$f" != "$$dir/$$(basename "$$f")" ]; then \
-						cp "$$f" "$$dir/"; \
-						echo "  Copied $$f -> $$dir/"; \
-					fi \
+			IFS=',' read -ra LABELS <<< "$$paths"; \
+			for label in "$${LABELS[@]}"; do \
+				label=$$(echo "$$label" | tr -d ' '); \
+				if [ -z "$$label" ] || [ "$$label" = "." ]; then continue; fi; \
+				p=$$(echo "$$label" | tr '.' '/'); h=$$(echo "$$p" | tr '_' '-'); \
+				if [ -d "$$p" ] && [ -d "$$h" ] && [ "$$p" != "$$h" ]; then \
+					echo "CONFLICT: $$label matches both $$p and $$h" >&2; exit 1; \
+				elif [ -d "$$p" ]; then dir="$$p"; \
+				elif [ -d "$$h" ]; then dir="$$h"; \
+				else dir="$$p"; fi; \
+				mkdir -p "$$dir"; \
+				if [ "$$f" != "$$dir/$$(basename "$$f")" ]; then \
+					cp "$$f" "$$dir/"; \
+					echo "  Copied $$f -> $$dir/"; \
 				fi \
 			done \
 		fi \
@@ -110,14 +115,19 @@ clean-copies:
 		if [ -n "$$paths" ]; then \
 			filename=$$(basename "$$f"); \
 			first_path=$$(echo "$$paths" | cut -d',' -f1 | tr -d ' '); \
-			for dir in $$(echo "$$paths" | tr ',' ' '); do \
-				dir=$$(echo "$$dir" | tr -d ' '); \
-				if [ -n "$$dir" ] && [ "$$dir" != "." ]; then \
-					if [ "$$dir/$$filename" != "$$f" ]; then \
-						rm -f "$$dir/$$filename"; \
-						echo "  Removed $$dir/$$filename"; \
-						rmdir --ignore-fail-on-non-empty "$$dir" 2>/dev/null || true; \
-					fi \
+			for label in $$(echo "$$paths" | tr ',' ' '); do \
+				label=$$(echo "$$label" | tr -d ' '); \
+				if [ -z "$$label" ] || [ "$$label" = "." ]; then continue; fi; \
+				p=$$(echo "$$label" | tr '.' '/'); h=$$(echo "$$p" | tr '_' '-'); \
+				if [ -d "$$p" ] && [ -d "$$h" ] && [ "$$p" != "$$h" ]; then \
+					echo "CONFLICT: $$label matches both $$p and $$h" >&2; exit 1; \
+				elif [ -d "$$p" ]; then dir="$$p"; \
+				elif [ -d "$$h" ]; then dir="$$h"; \
+				else dir="$$p"; fi; \
+				if [ "$$dir/$$filename" != "$$f" ]; then \
+					rm -f "$$dir/$$filename"; \
+					echo "  Removed $$dir/$$filename"; \
+					rmdir --ignore-fail-on-non-empty "$$dir" 2>/dev/null || true; \
 				fi \
 			done \
 		fi \
