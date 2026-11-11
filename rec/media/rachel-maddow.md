@@ -1,7 +1,7 @@
 ---
 folder-path: rec.media
 createdate: 2026-11-11 23:43:16 GMT (18:43:16 NYC)
-lastmodified: 2026-11-11 23:53:16 GMT (23:53:16) 18:53:16 NYC)
+lastmodified: 2026-11-11 23:53:16 GMT (18:53:16 NYC)
 ---
 
 # Rachel Maddow
