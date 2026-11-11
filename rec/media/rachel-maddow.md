@@ -1,7 +1,7 @@
 ---
 folder-path: rec.media
 createdate: 2026-11-11 23:43:16 GMT (18:43:16 NYC)
-lastmodified: 2026-11-11 23:43:16 GMT (18:43:16 NYC)
+lastmodified: 2026-11-11 23:53:16 GMT (23:53:16) 18:53:16 NYC)
 ---
 
 # Rachel Maddow
@@ -72,6 +72,10 @@ She has defended humor as a teaching tool. In 2012 she said, "I think that humor
 - **Terry Gross, *Fresh Air*, NPR** (March 27, 2012). A long interview about her book *Drift*, her radio career, and her views on secrecy, accountability, and depression [maddow-3].
 - **Philip Elliott, *TIME*** (December 1, 2025). An interview about *Burn Order* and the parallels between the internment of Japanese Americans and the present day [maddow-4].
 
+## Video
+
+Clips from *The Rachel Maddow Show* are published on YouTube as a playlist on the MS NOW channel, which her official website links to [maddow-5]. Maddow does not appear to operate a separate personal channel.
+
 ## References
 
 [maddow-1] [Wikipedia - Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)
@@ -81,3 +85,5 @@ She has defended humor as a teaching tool. In 2012 she said, "I think that humor
 [maddow-3] [NPR - Rachel Maddow: The Fresh Air Interview (March 27, 2012)](https://www.npr.org/2012/03/27/148611615/rachel-maddow-the-fresh-air-interview)
 
 [maddow-4] [TIME - Rachel Maddow on What Her New Podcast Has to Do With Trump (Dec. 1, 2025)](https://time.com/7337638/rachel-maddow-podcast-burn-order-trump/)
+
+[maddow-5] [YouTube - The Rachel Maddow Show playlist (MS NOW channel)](https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK)
